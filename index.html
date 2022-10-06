@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Creativity Labs</title>
+    <meta name="description"
+        content="The Creativity Labs brings together educators, designers, artists, and learning theorists interested in constructionist and hands-on, design-based learning.">
+    <meta name="keywords"
+        content="creativity, IU, indiana university, UCI, university of california irvine, making, maker ed, interest driven, participatory, embodied play, systems thinking, design research, e-textiles, kylie peppler, arduino, indoor positioning, UWB, 3d printing, wireless network, game design" />
+    <meta name="author" content="Shenshen Han">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <link rel="icon" href="img/logo.png" sizes="32x32" />
+    <link rel="icon" href="img/logo.png" sizes="192x192" />
+    <link rel="apple-touch-icon-precomposed" href="img/logo.png" />
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/fontAwesome.css">
+    <link rel="stylesheet" href="css/template-style.css">
+    <link rel="stylesheet" href="css/my.css">
+    <link rel="stylesheet" href="libs/lightbox2/css/lightbox.min.css">
+    <link rel="stylesheet" href="libs/swiper/swiper-bundle.min.css">
+    <script src="js/jquery-3.4.1.min.js"></script>
+    <script src="js/vue.min.js"></script>
+    <script src="libs/slick/slick.min.js"></script>
+    <script src="libs/lightbox2/js/lightbox.min.js"></script>
+    <script src="libs/swiper/swiper-bundle.min.js"></script>
+</head>
+
+<body>
+    <header class="responsive-nav hidden-lg hidden-md">
+        <button type="button" id="nav-toggle" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <div id="main-nav" class="collapse navbar-collapse">
+            <nav>
+                <ul class="nav navbar-nav">
+                    <li><a href="#research" data-toggle="collapse" data-target="#main-nav">Portfolio</a></li>
+                    <li><a href="#news" data-toggle="collapse" data-target="#main-nav">News</a></li>
+                    <li><a href="#team" data-toggle="collapse" data-target="#main-nav">The Team</a></li>
+                    <li><a href="#pubs" data-toggle="collapse" data-target="#main-nav">Publications</a></li>
+                    <li><a href="#design" data-toggle="collapse" data-target="#main-nav">Designs</a></li>
+                    <li><a href="#contact" data-toggle="collapse" data-target="#main-nav">Contact Us</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <div class="sidebar-navigation hidde-sm hidden-xs">
+        <div class="logo">
+            <a href="#" id="link_top"
+                style="background-image: url(img/logo.png); background-repeat: no-repeat; background-size: 20%; background-position: right top;"><span>Creativity</span><span
+                    class="logo-text">Labs</span></a>
+        </div>
+        <nav>
+            <ul>
+                <li>
+                    <a href="#research">
+                        <span class="rect"></span>
+                        <span class="circle"></span>
+                        Portfolio
+                    </a>
+                </li>
+                <li>
+                    <a href="#news">
+                        <span class="rect"></span>
+                        <span class="circle"></span>
+                        News
+                    </a>
+                </li>
+                <li>
+                    <a href="#team">
+                        <span class="rect"></span>
+                        <span class="circle"></span>
+                        The Team
+                    </a>
+                </li>
+                <li>
+                    <a href="#pubs">
+                        <span class="rect"></span>
+                        <span class="circle"></span>
+                        Publications
+                    </a>
+                </li>
+                <li>
+                    <a href="#design">
+                        <span class="rect"></span>
+                        <span class="circle"></span>
+                        Designs
+                    </a>
+                </li>
+                <li>
+                    <a href="#contact">
+                        <span class="rect"></span>
+                        <span class="circle"></span>
+                        Contact Us
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        <ul class="social-icons">
+            <li><a href="https://twitter.com/CLabsUCI" target="_blank"><i class="fa fa-twitter"></i></a></li>
+        </ul>
+    </div>
+
+    <div class="slider">
+        <div class="Modern-Slider content-section" id="top">
+            <div class="item item-1">
+                <div class="img-fill">
+                    <div class="image"></div>
+                    <div class="info">
+                        <div class="slider-image-text">
+                            <h1>Arts and Creativity</h1>
+                            <p>We examine how the forms of learning that we
+                                associate with the arts, crafts, and computational media offer a dynamic way to support
+                                creative production and innovation across the curriculum.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item item-2">
+                <div class="img-fill">
+                    <div class="image"></div>
+                    <div class="info">
+                        <div class="slider-image-text">
+                            <h1>Maker Culture</h1>
+                            <p>By studying how maker culture and new
+                                technologies are transforming in-school and out-of-school learning, we help uncover how
+                                to make education more engaging, equitable, and relevant for the twenty-first century.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item item-3">
+                <div class="img-fill">
+                    <div class="image"></div>
+                    <div class="info">
+                        <div class="slider-image-text">
+                            <h1>Future of Work</h1>
+                            <p>We find high-tech solutions to help industry
+                                and community partners create pathways for learners to unlock future opportunity through
+                                academic and career success.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="page-content" id="app">
+        <section id="research" class="content-section">
+            <div class="section-heading">
+                <h1>Research<br><em>Portfolio</em></h1>
+                <p>The Creativity Labs designs and studies in- and out-of-school learning experiences rooted in
+                    constructionist principles, particularly those around creativity, making, and learning.</p>
+            </div>
+            <div class="section-content">
+                <ul class="tabs clearfix">
+                    <li style="width: 34%;"><a v-bind:class="{ active: researchTabs[0] }"
+                            v-on:click="clickResearchTab(0)">Arts &
+                            Creativity</a></li>
+                    <li style="width: 33%;"><a v-bind:class="{ active: researchTabs[1] }"
+                            v-on:click="clickResearchTab(1)">Maker
+                            Culture</a></li>
+                    <li style="width: 33%;"><a v-bind:class="{ active: researchTabs[2] }"
+                            v-on:click="clickResearchTab(2)">Future of
+                            Work</a></li>
+                </ul>
+                <section class="tabgroup">
+                    <div v-for="(show, index) in researchTabs">
+                        <div v-if="show">
+                            <div v-if="researchTabs[index]">
+                                <ul>
+                                    <li v-for="project in projects[index]">
+                                        <div class="item">
+                                            <img v-bind:src="project.pic" alt="">
+                                            <div class="text-content">
+                                                <h4>{{project.title}} <span v-if="project.done">(Completed<i
+                                                            class="fa fa-check"></i>)</span><span>&nbsp;</span></h4>
+                                                <p v-html="project.abstract"></p>
+                                                <div style="padding-top: 25px;">
+                                                    <button class="my-button"
+                                                        v-on:click="readProjectDetials(project.id)">Continue
+                                                        Reading</button>
+                                                    <button class="my-button-web" v-if="project.link"
+                                                        v-on:click="openWebsite(project.link)">Website</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- All Project Details -->
+                    <div id="all_projects"></div>
+
+                </section>
+            </div>
+        </section>
+
+        <section id="news" class="content-section">
+            <div class="swiper-container">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide" v-for="(item, index) in news">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="section-heading">
+                                    <h1 v-html="item.title"></h1>
+                                    <p>{{item.subTitle}}</p>
+                                </div>
+                                <div class="text-content">
+                                    <p v-html="item.text"></p>
+                                </div>
+                                <button v-if="index < news.length - 1" class="my-button" v-on:click="nextNews">More
+                                    News</button>
+                            </div>
+                            <div class="col-md-12">
+                                <img v-if="item.mediaType == 'img'" v-bind:src="'data/news/' + item.media"
+                                    class="box-video" />
+                                <div v-if="item.mediaType == 'vid'" v-html="item.media" style="padding-top: 30px;">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-pagination"></div>
+            </div>
+        </section>
+
+        <section id="team" class="content-section">
+            <div class="section-heading">
+                <h1>Meet<br><em>The Team</em></h1>
+                <p>The Creativity Labs team includes learning scientists,<br>educators, artists, designers, and
+                    programmers.</p>
+            </div>
+            <div class="section-content">
+                <div class="row" v-for="row in teamRows">
+                    <div class="col-md-4 col-sm-4" v-for="person in row">
+                        <div class="team-member">
+                            <div class="team-img">
+                                <img v-bind:src="'img/team/' + person.photo" alt="team member" class="img-responsive">
+                            </div>
+                            <div class="team-hover">
+                                <div class="desk">
+                                    <p class="team-intro-text">{{person.intro}}</p>
+                                </div>
+                                <div class="s-link">
+                                    <a v-bind:href="s.url" target="_blank" v-for="s in person.social"><i
+                                            v-bind:class="['fa', s.class]"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="team-title">
+                            <h5>{{person.name}}</h5>
+                            <span>{{person.title}}</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <p style="font-size: 18px; color: #000; margin-top: 100px; margin-bottom: 50px;">The Creativity Labs has
+                partnered with the following groups</p>
+            <div class="row partner-imgs" v-for="row in partners">
+                <div class="col-md-1 col-sm-1">
+                </div>
+                <div class="col-md-2 col-sm-2" v-for="image in row" style="padding: 10px;">
+                    <a v-bind:href="image.link" target="_blank"><img v-bind:src="image.img" alt=""
+                            v-bind:title="image.title"></a>
+                </div>
+                <div class="col-md-1 col-sm-1">
+                </div>
+            </div>
+            <div style="height: 50px;"></div>
+        </section>
+
+        <section id="pubs" class="content-section">
+            <div class="section-heading">
+                <h1>Publications<br><em>& Books</em></h1>
+                <p>The members of the Creativity Labs team have collaborated
+                    <br>and contributed to more than 100 publications since 2008.</p>
+            </div>
+            <div class="my-book-slide" style="margin-bottom: 100px;">
+                <div><a href="https://www.amazon.com/SAGE-Encyclopedia-Out-School-Learning/dp/1483385213"
+                        target="_blank"><img src="img/book/SAGECover.jpg" /></a></div>
+                <div><a href="https://www.amazon.com/Makeology-Makerspaces-Environments-Kylie-Peppler-ebook/dp/B01FXZS6IY/ref=pd_sim_351_1?ie=UTF8&pd_rd_i=B01FXZS6IY&pd_rd_r=WZ79SANZRYD88JVB288Z&pd_rd_w=vXXLX&pd_rd_wg=wymg8&psc=1&refRID=WZ79SANZRYD88JVB288Z"
+                        target="_blank"><img src="img/book/Make_vol1.jpg" /></a></div>
+                <div><a href="https://www.amazon.com/Makeology-Makers-as-Learners-2-ebook/dp/B01FXZRSD8"
+                        target="_blank"><img src="img/book/Make_vol2.jpg" /></a></div>
+                <div><a href="http://www.amazon.com/New-Creativity-Paradigms-Literacies-Epistemologies/dp/1433125145/ref=sr_1_2?s=books&ie=UTF8&qid=1392148623&sr=1-2&keywords=new+creativity+paradigms"
+                        target="_blank"><img src="img/book/wallace_crop-1.jpg" /></a></div>
+                <div><a href="http://www.amazon.com/Textile-Messages-Dispatches-E-Textiles-Epistemplogies/dp/143311920X"
+                        target="_blank"><img src="img/book/T-Messages.jpg" /></a></div>
+                <div><a href="http://www.amazon.com/Gaming-System-Designing-Catherine-Foundation/dp/026202781X/ref=sr_1_1?s=books&ie=UTF8&qid=1401195995&sr=1-1&keywords=gaming+the+system%3A+designing+with+gamestar+mechanic"
+                        target="_blank"><img src="img/book/Gamingcover.jpg" /></a></div>
+                <div><a href="http://www.amazon.com/Script-Changers-Storytelling-Catherine-Foundation/dp/0262027828/ref=pd_sim_sbs_b_3?ie=UTF8&refRID=0FXY7GXB5QB2M3S90RT2"
+                        target="_blank"><img src="img/book/Scriptcover.jpg" /></a></div>
+                <div><a href="http://www.amazon.com/Short-Circuits-Puppets-Electronics-Foundation/dp/0262027836/ref=pd_sim_sbs_b_1?ie=UTF8&refRID=1D4EQWAS3EWZG04Q1BJ1"
+                        target="_blank"><img src="img/book/Shortcover.jpg" /></a></div>
+                <div><a href="http://www.amazon.com/Soft-Circuits-Fashion-Electronics-Foundation/dp/0262027844/ref=pd_sim_sbs_b_3?ie=UTF8&refRID=0AA9QSAN6MEQ96ASMGZ6"
+                        target="_blank"><img src="img/book/SoftCircuitsCover.jpg" /></a></div>
+                <div><a href="http://www.amazon.com/Computer-Clubhouse-Constructionism-Communities-Education--Connections/dp/0807749893/ref=sr_1_1?s=books&ie=UTF8&qid=1392148891&sr=1-1&keywords=the+computer+clubhouse"
+                        target="_blank"><img src="img/book/computerclubhouse_.jpg" /></a></div>
+            </div>
+            <hr />
+            <div style="text-align: right; padding-left: 10%;">
+                <button class="my-tag" v-bind:class="{'my-tag-on': cat.show, 'my-tag-off': !cat.show}"
+                    v-for="cat in publicationCategories" v-on:click="clickPubCat(cat)">{{cat.name}}</button>
+            </div>
+            <div style="text-align: right; padding-left: 10%;">
+                <button class="my-tag"
+                    v-bind:class="{'my-tag-on-author': author.show, 'my-tag-off-author': !author.show}"
+                    v-for="author in publicationAuthors" v-on:click="clickPubAuthor(author)">{{author.name}}</button>
+            </div>
+            <div class="pubs-section-content">
+                <div style="float: right; padding-right: 10px; font-weight: bolder; font-size: 18px; color: #7a7a7a;"><i
+                        class="fa fa-minus-square-o my-hover"
+                        v-on:click="showAllYearPapers(false)"></i>&nbsp;All&nbsp;<i class="fa fa-plus-square-o my-hover"
+                        v-on:click="showAllYearPapers(true)"></i></div>
+                <div v-for="yearGroup in publications">
+                    <div class="pubs-paper-year my-hover" v-on:click="showPubYear(yearGroup.year)"><span
+                            style="min-width: 50px; display: inline-block;">{{yearGroup.year}}</span><i
+                            class="fa fa-plus-square" v-if="!yearGroup.show"></i><i class="fa fa-minus-square"
+                            v-if="yearGroup.show"></i></div>
+                    <ul class="pubs-paper-list" v-if="yearGroup.show">
+                        <li v-for="paper in yearGroup.list" style="word-break: break-all;">
+                            <my-simple-pub-item v-bind:paper="paper" v-bind:show-all-authors="showAllAuthors"
+                                v-bind:all-cats="publicationCategories" v-bind:show-year="yearGroup.year"></my-simple-pub-item>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section id="design" class="content-section">
+            <div class="section-heading">
+                <h1>Designs &<br><em>Arts</em></h1>
+                <p>We design and research new technologies
+                    <br>to promote creative learning in youth communities.</p>
+            </div>
+            <div class="section-content">
+                <div class="masonry">
+                    <div class="row">
+                        <div class="item">
+                            <div class="col-md-8">
+                                <a href="img/design/design_1.png" data-lightbox="image"
+                                    data-title="We examine how a range of textile crafts can be used to broaden participation and deepen learning outcomes in advanced mathematics."><img
+                                        src="img/design/design_1.png" width="600" height="510"></a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="col-md-4">
+                                <a href="img/design/design_2.png" data-lightbox="image"
+                                    data-title="Fabric Origami is a new modality for learning computer science and mechanical engineering."><img
+                                        src="img/design/design_2.png" width="300" height="240"></a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="col-md-4">
+                                <a href="img/design/design_3.png" data-lightbox="image"><img
+                                        src="img/design/design_3.png" width="300" height="240"></a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="col-md-4">
+                                <a href="img/design/design_4.png" data-lightbox="image"
+                                    data-title="We designed our own Indoor Positioning PCB with Decawave DWM1001 that tracks multiple tags with a 20cm precision in real-time."><img
+                                        src="img/design/design_4.png" width="300" height="510"></a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="col-md-4">
+                                <a href="img/design/design_5.png" data-lightbox="image"
+                                    data-title="Fabric-based bee puppet that children love to touch and play."><img
+                                        src="img/design/design_5.png" width="300" height="240"></a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="col-md-4">
+                                <a href="img/design/design_6.png" data-lightbox="image"><img
+                                        src="img/design/design_6.png" width="300" height="240"></a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="col-md-4">
+                                <a href="img/design/design_7.png" data-lightbox="image"
+                                    data-title="3D printed bee puppets and beehive would potentially reduce the cost and bring more mechanic features."><img
+                                        src="img/design/design_7.png" width="300" height="240"></a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="col-md-4">
+                                <a href="img/design/design_8.png" data-lightbox="image"><img
+                                        src="img/design/design_8.png" width="300" height="240"></a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="col-md-4">
+                                <a href="img/design/design_9.png" data-lightbox="image"><img
+                                        src="img/design/design_9.png" width="300" height="240"></a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="col-md-8">
+                                <a href="img/design/design_10.png" data-lightbox="image"><img
+                                        src="img/design/design_10.png" width="600" height="240"></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="contact" class="content-section">
+            <div id="map">
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d8135.04386259856!2d-117.8454639669122!3d33.64505806650946!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x323aa98f526a211f!2sUniversity%20of%20California%20-%20Calit2!5e0!3m2!1sen!2sus!4v1567792208566!5m2!1sen!2sus"
+                    width="100%" height="400px" frameborder="0" style="border:0"></iframe>
+            </div>
+            <div id="contact-content">
+                <div class="section-heading">
+                    <h1>Contact<br><em>Us</em></h1>
+                    <p>The Creativity Labs partners with a wide range of organizations including schools, libraries,
+                        community-based organizations, nonprofits, and technology firms. Want to learn more? Feel free
+                        to reach out to us.</p>
+                </div>
+                <div class="section-content">
+                    <form id="contact-form">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <fieldset>
+                                    <input name="name" type="text" class="form-control" id="contact_name"
+                                        placeholder="Your name..." required="" v-model="contactName">
+                                </fieldset>
+                            </div>
+                            <div class="col-md-4">
+                                <fieldset>
+                                    <input name="email" type="email" class="form-control" id="email"
+                                        placeholder="Your email..." required="" v-model="contactEmail">
+                                </fieldset>
+                            </div>
+                            <div class="col-md-4">
+                                <fieldset>
+                                    <input name="subject" type="text" class="form-control" id="subject"
+                                        placeholder="Subject..." required="" v-model="contactSubject">
+                                </fieldset>
+                            </div>
+                            <div class="col-md-12">
+                                <fieldset>
+                                    <textarea name="message" rows="6" class="form-control" id="message"
+                                        placeholder="Your message..." required="" v-model="contactMessage"></textarea>
+                                </fieldset>
+                            </div>
+                            <div class="col-md-12" style="display: none;">
+                                <fieldset>
+                                    <button type="submit" id="form-submit" class="btn">Hidden button for form
+                                        submit</button>
+                                </fieldset>
+                            </div>
+                        </div>
+                    </form>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <button type="submit" class="btn" v-on:click="sendMessage"
+                                v-bind:disabled="messageSent">{{contactButton}}</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="footer">
+            <p>Copyright &copy; 2020 Creativity Labs. Design: Shenshen Han</p>
+        </section>
+    </div>
+    <script src="js/app.js"></script>
+</body>
+
+</html>

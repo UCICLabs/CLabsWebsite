@@ -1,0 +1,94 @@
+.lab-color-pink{
+    color: #d459f6;
+}
+
+.slider-image-text {
+    text-shadow: -1px 0 #94849B, 0 1px #94849B, 1px 0 #94849B, 0 -1px #94849B;
+}
+
+.slider-image-text h1{
+    font-family: myHeaderFont;
+}
+
+.team-intro-text {
+    line-height: 15px !important;
+    font-size: 12px !important;
+}
+
+.partner-imgs img {
+    width: 100%;
+}
+
+.my-hover:hover {
+    cursor: pointer;
+    -webkit-user-select: none; /* webkit (safari, chrome) browsers */
+    -moz-user-select: none; /* mozilla browsers */
+    -khtml-user-select: none; /* webkit (konqueror) browsers */
+    -ms-user-select: none; /* IE10+ */
+}
+
+.my-tag {
+    font-size: 14px;
+    border: none;
+    outline:none;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.my-tag-on {
+    color: #fff;
+    background-color: #B55FCD;
+}
+
+.my-tag-off {
+    color: #B55FCD;
+    background-color: #f4f4f4;
+}
+
+.my-tag-on-author {
+    color: #fff;
+    background-color: #A0AAB2;
+}
+
+.my-tag-off-author {
+    color: #A0AAB2;
+    background-color: #f4f4f4;
+}
+
+.my-book-slide {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.my-book-slide img {
+    height: 200px;
+    margin: 20px;
+}
+
+.my-book-slide a {
+    outline: none; 
+}
+
+.my-link-no-file {
+    color: #ad67f1;
+}
+
+.swiper-pagination-bullet {
+    width: 16px !important;
+    height: 16px !important;
+}
+
+@font-face {
+    font-family: myHeaderFont;
+    src: url(fonts/cour.ttf);
+}
+
+@font-face {
+    font-family: myBodyFont;
+    src: url(fonts/Nunito-Regular.ttf);
+}
+
+.logo-text {
+    text-shadow: -1px 0 #bbb, 0 1px #bbb, 1px 0 #bbb, 2px -1px #bbb;
+}

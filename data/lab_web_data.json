@@ -1,0 +1,2720 @@
+{
+    "publicationCategories": [
+        {
+            "name": "E-Textiles & Maker Culture",
+            "id": "etx"
+        },
+        {
+            "name": "Interest-Driven Learning",
+            "id": "idl"
+        },
+        {
+            "name": "Arts & Creativity",
+            "id": "anc"
+        },
+        {
+            "name": "Scratch & Computational Media",
+            "id": "scm"
+        },
+        {
+            "name": "Systems Thinking",
+            "id": "sth"
+        },
+        {
+            "name": "Games & Social Media",
+            "id": "gsm"
+        },
+        {
+            "name": "Future of Work",
+            "id": "fow"
+        },
+        {
+            "name": "Suggested Readings",
+            "id": "sug"
+        }
+    ],
+    "projects": [
+        {
+            "id": "nexus",
+            "pic": "img/projects/project_icon_nexus.png",
+            "title": "Designing a New Nexus",
+            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=1553398&HistoricalAwards=false\" target=\"_blank\">(IIS #1553398)</a></strong><br/>This project, Designing a New Nexus: Examining the Social Construction of Electronic Tools and Materials to Broaden Participation and Deepen Learning, funded by Dr. Peppler's Early CAREER award from NSF...",
+            "groups": [
+                0
+            ]
+        },
+        {
+            "id": "slearn",
+            "pic": "img/projects/project_icon_slearn.png",
+            "title": "STEAM as a Means for Educational Equity",
+            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=1647150&HistoricalAwards=false\" target=\"blank\">(#1647150)</a> and Wellcome Trust</strong><br/>This study, part of the broader Science Learning + (SL+) project Creativity and Equity in STEM Learning, asks the question: How does the materiality of tools and materials shape learning? ...",
+            "groups": [
+                0
+            ]
+        },
+        {
+            "id": "rcm",
+            "pic": "img/projects/project_icon_rcm.png",
+            "title": "Re-Crafting Mathematics Education",
+            "link": "https://sites.uci.edu/rcmath/",
+            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://nsf.gov/awardsearch/showAward?AWD_ID=1420303\" target=\"blank\">(DRL #1420303)</a></strong><br/>This collaborative project, titled \"Re-Crafting Mathematics Education: Designing Tangible Manipulatives Rooted in Traditional Female Crafts,\" is based on our prior work studying design, mathematics, and traditional female crafts, particularly when integrated with electronics in what we call \"e-textiles.\"...",
+            "groups": [
+                0
+            ]
+        },
+        {
+            "id": "cape",
+            "pic": "img/projects/project_icon_cape.png",
+            "title": "Chicago Arts Partnerships in Education (CAPE)",
+            "link": "https://capechicago.org/",
+            "abstract": "<strong>Funded by Chicago Arts Education Partnerships and 21st Century Community Learning Centers</strong><br/>This project, (Re)constructing learning spaces for inquiry, community, and openness, funded by a 21st Century Community Learning Center grant, builds from a core Creativity Labs’ focus on the value of arts education and learning...",
+            "groups": [
+                0
+            ]
+        },
+        {
+            "id": "ceica",
+            "pic": "img/projects/project_icon_ceica.png",
+            "title": "Creative Economy at Inner-City Arts",
+            "abstract": "<strong>Funded by the Donald Bren School of ICS Dean’s Office and Department of Informatics</strong><br/>This project, Workforce Readiness for the Creative Economy of Southern California: Developing Pathways for Youth through Research-Practice Partnership, funded by UC-Irvine’s Donald Bren School of Information and Computer Sciences, builds on...",
+            "groups": [
+                0,
+                2
+            ]
+        },
+        {
+            "id": "narr",
+            "pic": "img/projects/project_icon_narr.png",
+            "title": "How Narrative Elements Shape Girls' Engagement in Engineering",
+            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=1712803&HistoricalAwards=false\" target=\"blank\">(DRL #1712803)</a></strong><br/>This project will systematically investigate whether and how narrative elements of engineering design activities can influence engagement with those activities...",
+            "groups": [
+                1
+            ]
+        },
+        {
+            "id": "etext",
+            "pic": "img/projects/project_icon_etext.png",
+            "title": "Computational Textiles as Materials for Creativity",
+            "link": "http://computationaltextiles.blogspot.com/",
+            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=0855886\" target=\"blank\">(IIS-0855886)</a></strong><br/>We are researching how to encourage youth (ages 10 to 18) to creatively engage with e-textiles in after-school and school settings. E-textiles integrate electronic circuits and computer technology with cloth, allowing designers to embed fabric-based items such as...",
+            "groups": [
+                0,
+                1
+            ],
+            "done": true
+        },
+        {
+            "id": "idal",
+            "pic": "img/projects/project_icon_idal.png",
+            "title": "Interest-Driven Arts Learning",
+            "abstract": "<strong>Funded by the <a href=\"http://www.wallacefoundation.org\" target=\"blank\">Wallace Foundation</a></strong><br/>New technologies offer unprecedented opportunities for youths to create and participate in the visual, performing and new media arts through computer applications, video game consoles, mobile phones, and online communities across a variety of informal settings...",
+            "groups": [
+                0
+            ],
+            "done": true
+        },
+        {
+            "id": "lata",
+            "pic": "img/projects/project_icon_lata.png",
+            "title": "Learning and Achieving Through the Arts (LATA)",
+            "abstract": "<strong>Funded by the <a href=\"https://www.ed.gov/\" target=\"blank\">U.S. Department of Education</a></strong><br/>The Learning and Achieving Through the Arts (LATA) program provides arts education to youth (grades K through 6) who are facing barriers to succeed in school that stem from poverty, homelessness, and limited English-language proficiency...",
+            "groups": [
+                0
+            ],
+            "done": true
+        },
+        {
+            "id": "rgame",
+            "pic": "img/projects/project_icon_rgame.png",
+            "title": "Rhythmic Games and Digital Composition",
+            "abstract": "<strong>Funded by the John D. and Catherine T. MacArthur Foundation</strong><br/>Prior studies in music have attempted to address the failures of the music notational system to reflect what is heard in the musical experience and to attract musicians trained to learn music “by ear” (i.e., without learning to read or write music notation). Rhythmic action games...",
+            "groups": [
+                0
+            ],
+            "done": true
+        },
+        {
+            "id": "makered",
+            "pic": "img/projects/project_icon_makered.png",
+            "title": "Maker Ed Open Portfolio Project",
+            "link": "http://makered.org/",
+            "abstract": "<strong>Funded by The Gordon and Betty Moore Foundation</strong><br/>The Open Portfolio Project is aimed at developing technology solutions and a common set of practices for portfolio creation, reflection, sharing, and assessment. Through our investigations we will develop a guiding philosophy of what constitutes an open and decentralized lifetime portfolio system for makers...",
+            "groups": [
+                1
+            ],
+            "done": true
+        },
+        {
+            "id": "biosim",
+            "pic": "img/projects/project_icon_biosim.png",
+            "title": "BioSim",
+            "link": "https://sites.uci.edu/biosim/",
+            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=1324047\" target=\"blank\">(IIS #1324047)</a></strong><br/>Complex systems are widespread and the conceptual ability to describe and examine complex-systems-related concepts is generative, supporting youth in potentially understanding a wide range of issues across domains...",
+            "groups": [
+                1
+            ],
+            "done": true
+        },
+        {
+            "id": "inter",
+            "pic": "img/projects/project_icon_inter.png",
+            "title": "A Systems Approach to Curriculum for Schools and After-School Spaces",
+            "abstract": "<strong>Funded by the John D. and Catherine T. MacArthur Foundation</strong><br/>Through a collaborative effort across a leading group of designers and educators from the Creativity Labs @ Indiana University, Vanderbilt University, Institute of Play, the Digital Youth Network and...",
+            "groups": [
+                1
+            ],
+            "done": true
+        },
+        {
+            "id": "maketo",
+            "pic": "img/projects/project_icon_maketo.png",
+            "title": "Make-to-Learn",
+            "abstract": "<strong>Funded by the Digital Media and Learning Hub at the University of Irvine and the John D. and Catherine T. MacArthur Foundation</strong><br/>Make-to-Learn is an effort that leverages DIY culture, digital practices, and educational research to advocate for placing making, creating, and designing at the core of educational practice...",
+            "groups": [
+                1
+            ],
+            "done": true
+        },
+        {
+            "id": "scratch",
+            "pic": "img/projects/project_icon_scratch.png",
+            "title": "Scratch for Media Art Making",
+            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=0325828\" target=\"blank\">(IIS #0325828)</a> and Spencer Foundation</strong><br/>While new technologies have been largely absent in arts education curriculum, they offer opportunities to address arts integration, equity, and the technological prerequisites of an increasingly digital age...",
+            "groups": [
+                1
+            ],
+            "done": true
+        },
+        {
+            "id": "fow",
+            "pic": "img/projects/project_icon_fow.png",
+            "title": "Future of Work at the Human-Technology Frontier",
+            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=1839896&HistoricalAwards=false\" target=\"blank\">(DUE #1839896)</a></strong><br/>It is known that the U.S. manufacturing industry has lost its global market share in past decades while less developed countries have increased their manufacturing capabilities...",
+            "groups": [
+                2
+            ]
+        },
+        {
+            "id": "caccel",
+            "pic": "img/projects/project_icon_caccel.png",
+            "title": "Skill-LeARn: Augmented Reality Platform for Scaling Workforce Training",
+            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937036&HistoricalAwards=false\" target=\"blank\">(OIA #1937036)</a></strong><br/>The National Science Foundation (NSF) recently handed out 43 awards totaling $39 million through its Convergence Accelerator pilot. The program is “leveraging multidisciplinary research teams...",
+            "groups": [
+                2
+            ]
+        },
+        {
+            "id": "boeing",
+            "pic": "img/projects/project_icon_boeing.png",
+            "title": "Workforce Upskilling via Online Learning",
+            "abstract": "<strong>Funded by The Boeing Company</strong><br/>The goal of this research is to understand how to design online professional engineering courses to be more efficient for learners and make inferences about what participants are actually learning...",
+            "groups": [
+                2
+            ]
+        },
+        {
+            "id": "makevis",
+            "pic": "img/projects/project_icon_makevis.png",
+            "title": "Advancing Data Visualization Literacy in Museums",
+            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=1713567\" target=\"blank\">(DRL #1713567)</a></strong><br/>This Innovations in Development AISL project is motivated by the insight that in the information age, being able to “read and write” data visualizations is becoming as important as being able to read and write text...",
+            "groups": [
+                2
+            ]
+        },
+        {
+            "id": "lrng",
+            "pic": "img/projects/project_icon_lrng.png",
+            "title": "LRNG: Join the Evolution of Learning",
+            "link": "https://www.lrng.org/",
+            "abstract": "<strong>Funded by the John D. and Catherine T. MacArthur Foundation, Best Buy Foundation, and Fossil Foundation</strong><br/>LRNG is a movement that closes the opportunity gap and transforms how young people access and experience learning and the paths they can take to success...",
+            "groups": [
+                2
+            ],
+            "done": true
+        },
+        {
+            "id": "hive",
+            "pic": "img/projects/project_icon_hive.png",
+            "title": "Hive Research Lab",
+            "link": "http://hiveresearchlab.org/",
+            "abstract": "<strong>Funded by the Spencer Foundation, John D. and Catherine T. MacArthur Foundation, and New York Community Trust</strong><br/>Hive Research Lab is a research-practice partnership led by Indiana University and New York University that studies and collaborates with the Mozilla Hive NYC Learning Network...",
+            "groups": [
+                2
+            ],
+            "done": true
+        }
+    ],
+    "publications": [
+        {
+            "year": 2020,
+            "list": [
+                {
+                    "title": "Editorial: Advancing posthumanist perspectives on technology‐rich learning",
+                    "authors": [
+                        "Peppler, K.",
+                        "Rowsell, J.",
+                        "Keune, A."
+                    ],
+                    "otherText": "British Journal of Educational Technologies, 51, (pp. 1240-1245). doi:10.1111/bjet.12979",
+                    "cat": "idl",
+                    "file": "2020_Editorial_Advancing_posthumanist.pdf"
+                },
+                {
+                    "title": "Making at Home: Interest-Driven Practices and Supportive Relationships in Minoritized Homes",
+                    "authors": [
+                        "Peppler, K.",
+                        "Sedas, M.",
+                        "Dahn, M."
+                    ],
+                    "otherText": "Education Sciences 10(5), 143. (pp. 1-28). MDPI AG. Retrieved from http://dx.doi.org/10.3390/educsci10050143.",
+                    "cat": "idl",
+                    "file": "2020_making_at_home.pdf"
+                },
+                {
+                    "title": "Designing for empathy in museum-based settings to support learning pathways to engineering",
+                    "authors": [
+                        "Peppler, K.",
+                        "Keune, A.",
+                        "Dahn, M.",
+                        "Bennett, D.",
+                        "Letourneau, S."
+                    ],
+                    "otherText": "Connected Learning Summit (CLS), July 29-31, 2020, Cambridge, MA.",
+                    "cat": "sth"
+                },
+                {
+                    "title": "Data Visualization Exploration in Science Museums",
+                    "authors": [
+                        "Peppler, K.",
+                        "Keune, A.",
+                        "Han, A. J."
+                    ],
+                    "otherText": "Connected Learning Summit (CLS), July 29-31, 2020, Cambridge, MA.",
+                    "cat": "sth"
+                },
+                {
+                    "title": "Meta-AR-App: An Authoring Platform for Collaborative Augmented Reality in STEM Classrooms",
+                    "authors": [
+                        "Villanueva, A.",
+                        "Zhu, Z.",
+                        "Liu, Z.",
+                        "Redick, T.",
+                        "Peppler, K.",
+                        "Ramani, K."
+                    ],
+                    "otherText": "In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems.",
+                    "cat": "fow",
+                    "file": "2020_Meta-AR-App.pdf"
+                },
+                {
+                    "title": "Designing for empathy in engineering exhibits",
+                    "authors": [
+                        "Peppler, K.",
+                        "Keune, A.",
+                        "Dahn, M.",
+                        "Bennett, D.",
+                        "Letourneau, S."
+                    ],
+                    "otherText": "In C. Girvan, J. R. Byrne, B. Tangney, & V. Dagiené (Eds.), Exploring, Testing and Extending our Understanding of Constructionism: Constructionism 2020. Dublin, Ireland: ACM.",
+                    "cat": "idl",
+                    "file": "2020_Designing-for-empathy-in-engineering-exhibits.pdf"
+                },
+                {
+                    "title": "Comparing First- and Third-Person Perspectives in Early Elementary Learning of Honeybee Systems",
+                    "authors": [
+                        "Peppler, K.",
+                        "Thompson, N.",
+                        "Danish, J.",
+                        "Moczek, A.",
+                        "Corrigan, S."
+                    ],
+                    "otherText": "Instructional Science. (pp. 512-519).",
+                    "cat": "sth",
+                    "file": "2020_Comparing_First.pdf"
+                },
+                {
+                    "title": "The Trouble with STEAM: Conceptualizations for Research, Policy and Practice",
+                    "authors": [
+                        "Mejias, S.",
+                        "Thompson, N.",
+                        "Sedas, R. M.",
+                        "Rosin, M.",
+                        "Wong, J.",
+                        "Price, N.",
+                        "Roche, J.",
+                        "Hurley, M.",
+                        "Peppler, K.",
+                        "Soep, L.",
+                        "Bevan, B.",
+                        "Bell, P."
+                    ],
+                    "otherText": "Science Education.",
+                    "cat": "sth"
+                },
+                {
+                    "title": "The Connected Learning Research Network: Reflections on a Decade of Engaged Scholarship",
+                    "authors": [
+                        "Ito, M.",
+                        "Arum, R.",
+                        "Conley, D.",
+                        "Guttiérez, K.",
+                        "Kirshner, B.",
+                        "Livingstone, S.",
+                        "Michalchik, V.",
+                        "Penuel, W.",
+                        "Peppler, K.",
+                        "Pinkard, N.",
+                        "Rhodes, J.",
+                        "Tekinbaş, K.",
+                        "Schor, J.",
+                        "Sefton-Green, J.",
+                        "Watkins, S. C."
+                    ],
+                    "otherText": "Published by the Connected Learning Alliance. Irvine, CA. February 2020. ISBN-13: 978-0-9887255-6-0.",
+                    "cat": "idl",
+                    "file": "2020_CLRN_Report.pdf"
+                },
+                {
+                    "title": "Civic engagement with visualizing data in science museums",
+                    "authors": [
+                        "Peppler, K.",
+                        "Keune, A.",
+                        "Han, A. J."
+                    ],
+                    "otherText": "In M. Gresalfi & I. Horn (Eds.), The interdisciplinarity of the learning sciences: International Conference of the Learning Sciences (ICLS) 2020. Nashville, TN: International Society of the Learning Sciences.",
+                    "cat": "scm",
+                    "file": "2020_Civic_engagement.pdf"
+                },
+                {
+                    "title": "#quiltsforpulse: Investigating quilting processes to inform community-based engagement",
+                    "authors": [
+                        "Keune, A.",
+                        "Yankova, N.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In M. Gresalfi & I. Horn (Eds.), The interdisciplinarity of the learning sciences: International Conference of the Learning Sciences (ICLS) 2020. Nashville, TN: International Society of the Learning Sciences.",
+                    "cat": "anc",
+                    "file": "2020_quiltsforpulse.pdf"
+                },
+                {
+                    "title": "Computing in fabric: Exploring posthumanist capturing of learning",
+                    "authors": [
+                        "Keune, A.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In M. Gresalfi & I. Horn (Eds.), The interdisciplinarity of the learning sciences: International conference of the learning sciences (ICLS) 2020. Nashville, TN: International Society of the Learning Sciences.",
+                    "cat": "anc",
+                    "file": "2020_Computing_in_fabric.pdf"
+                },
+                {
+                    "title": "Tuning into the craft: Materials as a driver of learning computing",
+                    "authors": [
+                        "Keune, A.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In M. Gresalfi & I. Horn (Eds.), The interdisciplinarity of the learning sciences: International conference of the learning sciences (ICLS) 2020. Nashville, TN: International Society of the Learning Sciences.",
+                    "cat": "anc",
+                    "file": "2020_Tuning_into_the_craft.pdf"
+                },
+                {
+                    "title": "Sustainability and scalability of CSCL",
+                    "authors": [
+                        "Law, N.",
+                        "Zhang, J.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In the International handbook of computer-supported collaborative learning.",
+                    "cat": "idl"
+                },
+                {
+                    "title": "Reclaiming traditionally feminine practices and materials for STEM learning through the modern maker movement",
+                    "authors": [
+                        "Peppler, K.",
+                        "Keune, A.",
+                        "Thompson, N."
+                    ],
+                    "otherText": "In N. Holbert, M. Berland, & Y. Kafai (Eds.), Designing Constructionist Futures: The Art, Theory, and Practice of Learning Designs. Cambridge, MA: MIT Press.",
+                    "cat": "idl",
+                    "file": "2020_Reclaiming_traditionally_feminine.pdf"
+                },
+                {
+                    "title": "StoryMakAR: Bringing Stories to Life with an Augmented Reality & Physical Prototyping Toolkit for Youth",
+                    "authors": [
+                        "Glenn, T.",
+                        "Ipsita, A.",
+                        "Carithers, C.",
+                        "Peppler, K.",
+                        "Ramani, K."
+                    ],
+                    "otherText": "CHI 2020, April 25–30, 2020, Honolulu, HI, USA.",
+                    "cat": "fow",
+                    "file": "2020_StoryMakAR.pdf"
+                }
+            ]
+        },
+        {
+            "year": 2019,
+            "list": [
+                {
+                    "title": "Bending the Matrix: Computing as Artifact Transformation with Fiber Crafts",
+                    "authors": [
+                        "Keune, A.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "Symposium presentation at the Connected Learning Summit (CLS), October 3-5, 2019, Irvine, CA.",
+                    "cat": "etx"
+                },
+                {
+                    "title": "Motivating Computational Weaving: Intersections of Goals and Environmental Aspects to Deepen Engagement",
+                    "authors": [
+                        "Faimon, L.",
+                        "Keune, A.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In J. Kalir & Filipaik, D. (Eds.), Connected Learning Summit: Create. Play. Mobilize. (CLS) 2019 (pp. 221). Irvine, CA: Carnegie Mellon University ETC Press.",
+                    "cat": "idl",
+                    "file": "2019_Motivating_Computational_Weaving.pdf"
+                },
+                {
+                    "title": "Fiber Crafting STEM Learning",
+                    "authors": [
+                        "Keune, A.",
+                        "Thompson, N.",
+                        "Faimon, L.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In J. Kalir & Filipaik, D. (Eds.), Connected Learning Summit: Create. Play. Mobilize. (CLS) 2019 (pp. 270-271). Irvine, CA: Carnegie Mellon University ETC Press.",
+                    "cat": "anc",
+                    "file": "2019_Fiber_Crafting.pdf"
+                },
+                {
+                    "title": "Artistry, and Affect in Computing",
+                    "authors": [
+                        "Fields, D.",
+                        "Kafai, Y.",
+                        "Keune, A.",
+                        "Peppler, K.",
+                        "Lindberg, L.",
+                        "Shaw, M.",
+                        "Coleman, J.",
+                        "Dahn, M.",
+                        "DeLiema, D.",
+                        "Tanenbaum, T."
+                    ],
+                    "otherText": "In J. Kalir & Filipaik, D. (Eds.), Connected Learning Summit: Create. Play. Mobilize. (CLS) 2019 (pp. 247). Irvine, CA: Carnegie Mellon University ETC Press.",
+                    "cat": "anc",
+                    "file": "2019_Artistry_and_Affect_in_Computing.pdf"
+                },
+                {
+                    "title": "Purposeful Pursuits: Leveraging the Epistemic Practices of the Arts and Sciences",
+                    "authors": [
+                        "Bevan, B.",
+                        "Peppler, K.",
+                        "Rosin, M.",
+                        "Scarff, L.",
+                        "Soep, E.",
+                        "Wong, J."
+                    ],
+                    "otherText": "In A. J. Stewart, M. Mueller, D. J. Tippins (Eds.) Converting STEM into STEAM Programs (pp. 21-38). Cham, Switzerland: Springer.",
+                    "cat": "anc",
+                    "file": "2019_Book_ConvertingSTEMIntoSTEAMProgram.pdf"
+                },
+                {
+                    "title": "Studying computational thinking practices through collaborative design activities with Scratch",
+                    "authors": [
+                        "Huang, J.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "Poster to be presented at the 13th International Conference on Computer Supported Collaborative Learning (CSCL), June 2019. Lyon, France: International Society of the Learning Sciences.",
+                    "cat": "scm",
+                    "file": "2019_studying_computational_thinking.pdf"
+                },
+                {
+                    "title": "Child-material computing: Material collaboration in fiber crafts",
+                    "authors": [
+                        "Keune, A.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In K. Lund, E. Lavoué, G. P. Niccolai (Eds.), A wide lens: Combining embodied, enactive, extended, and embedded learning in collaborative settings. 13th International Conference on Computer Supported Collaborative Learning (CSCL), June 2019. Lyon, France: International Society of the Learning Sciences.",
+                    "cat": "anc",
+                    "file": "2019_child_material_computing.pdf"
+                },
+                {
+                    "title": "“It helps create and enhance a community”: Youth motivations for making portfolios",
+                    "authors": [
+                        "Peppler, K.",
+                        "Keune, A."
+                    ],
+                    "otherText": "Mind, Culture, and Activity, 26(3), 234-248.",
+                    "cat": "idl",
+                    "file": "2019_Peppler_Keune_youth_motivations_for_making_portfolios.pdf"
+                },
+                {
+                    "title": "Exploring disciplinary boundaries in early elementary students’ developing practices",
+                    "authors": [
+                        "Peppler, K.",
+                        "Danish, J.",
+                        "Thompson, N."
+                    ],
+                    "otherText": "Paper to be presented at the 13th International Conference of Computer Supported Collaborative Learning (CSCL), June 2019. Lyon, France: International Society of the Learning Sciences.",
+                    "cat": "sth",
+                    "file": "2019_exploring_disciplinary_boundaries.pdf"
+                },
+                {
+                    "title": "Balancing the scales: Implications of model size for mathematical engagement",
+                    "authors": [
+                        "Peppler, K.",
+                        "Sedas, M.",
+                        "Keune, A.",
+                        "Uttamchandani, S."
+                    ],
+                    "otherText": "Poster to be presented at the 13th International Conference on Computer Supported Collaborative Learning (CSCL), June 2019. Lyon, France: International Society of the Learning Sciences.",
+                    "cat": "idl",
+                    "file": "2019_balancing_the_scales.pdf"
+                },
+                {
+                    "title": "Utilizing the consensual assessment technique to compare creativity in drama spaces",
+                    "authors": [
+                        "Phonethibsavads, A.",
+                        "Peppler, K.",
+                        "Bender, S."
+                    ],
+                    "otherText": "Creativity: Theories-Research-Applications, Vol. 6, Issue 1, 2019.",
+                    "cat": "anc",
+                    "file": "2019_Phonethibsavads_Peppler_Bender_Utilizing_the_consensual_assessment_technique.pdf"
+                },
+                {
+                    "title": "Connected learning ecologies as an emerging opportunity through Cosplay",
+                    "authors": [
+                        "Bender, S.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "Huelva, Spain: Comunicar. doi: 10.3916/C58-2019-03",
+                    "cat": "anc",
+                    "file": "2018_CosplayComunicar-benderpeppler-English.pdf"
+                },
+                {
+                    "title": "Materials-to-develop-with: The making of a makerspace",
+                    "authors": [
+                        "Keune, A.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "The British Journal of Educational Technology, 50(1), pp. 280–293. DOI: 10.1111/bjet.12702",
+                    "cat": "anc",
+                    "file": "Keune_et_al-2019-British_Journal_of_Educational_Technology.pdf"
+                },
+                {
+                    "title": "Recognition in makerspaces: Supporting opportunities for women to “make” a STEM career",
+                    "authors": [
+                        "Keune, A.",
+                        "Peppler, K.",
+                        "Wohlwend, K."
+                    ],
+                    "otherText": "Computers and Human Behavior. 99, pp. 368-380.",
+                    "cat": "anc",
+                    "file": "2019_Keune_Peppler_Wohlwend_Recognition_in_makerspaces.pdf"
+                },
+                {
+                    "title": "\"We need it loud\": Listening to preschool making from mediated and materialist perspectives",
+                    "authors": [
+                        "Keune, A.",
+                        "Wohlwend, K.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In M. Sakr & J. Osgood Postdevelopmental Approaches to Early Childhood Art,, Ch.9, pp.177. London, UK: Bloomsbury.",
+                    "cat": "anc",
+                    "file": "2019_Keune_Wohlwend_Peppler_We_need_it_loud.pdf"
+                }
+            ]
+        },
+        {
+            "year": 2018,
+            "list": [
+                {
+                    "title": "Open portfolios research brief series 2",
+                    "authors": [
+                        "Peppler, K.",
+                        "Keune, A.",
+                        "Chang, S."
+                    ],
+                    "otherText": "Oakland, CA: Maker Education Initiative.",
+                    "cat": "anc",
+                    "file": "https://makered.org/opp/publications/#research-briefs-2018"
+                },
+                {
+                    "title": "Connected cosplay: Fan work as pathways toward opportunity",
+                    "authors": [
+                        "Bender, S.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In J. Kay & R. Luckin (Eds.), Rethinking learning in the digital age: Making the Learning Sciences count: The International Conference of the Learning Sciences (ICLS) 2018 (Vol. 3, pg. 1605-1606). London, UK: International Society of the Learning Sciences. ISBN: 978-1-7324672-2-4",
+                    "cat": "idl",
+                    "file": "2018icls_Cosplay-benderpeppler.pdf"
+                },
+                {
+                    "title": "The Maker movement and learning",
+                    "authors": [
+                        "Halverson, E.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In Fischer, R. Hmelo-Silver, C.E., Goldman, S.R., & Reimann, P. (Eds.) International handbook of the learning sciences, Ch. 28. Routledge Handbooks Online. doi 10.4324/9781315617572",
+                    "cat": "idl",
+                    "file": "2018_the_maker movement_and_learning.pdf"
+                },
+                {
+                    "title": "Brokering youth pathways: A toolkit for connecting youth to future opportunity",
+                    "authors": [
+                        "Hive Research Lab"
+                    ],
+                    "otherText": "New York, NY: Hive Research Lab.",
+                    "cat": "idl",
+                    "file": "https://brokering.hiveresearchlab.org/"
+                },
+                {
+                    "title": "Mobility, diversity, and openness: Design principles for equitable makerspaces",
+                    "authors": [
+                        "Peppler, K.",
+                        "Keune, A.",
+                        "Whiting, J."
+                    ],
+                    "otherText": "In J. Kay & R. Luckin (Eds.), Rethinking learning in the digital age: Making the Learning Sciences count: The International Conference of the Learning Sciences (ICLS) 2018 (Vol. 3, pp. 1519-1520). London, UK: International Society of the Learning Sciences. ISBN: 978-1-7324672-2-4",
+                    "cat": "idl",
+                    "file": "ICLS2018Volume3_proceedings3.pdf"
+                },
+                {
+                    "title": "Design math: Middle-school youth making math by building yurts",
+                    "authors": [
+                        "Peppler, K.",
+                        "Sedas, M.",
+                        "Banks, T.",
+                        "Searcy, J.",
+                        "Wallace, S."
+                    ],
+                    "otherText": "In J. Kay & R. Luckin (Eds.), Rethinking learning in the digital age: Making the Learning Sciences count: The International Conference of the Learning Sciences (ICLS) 2018 (Vol. 2, pg. 1165-1168). London, UK: International Society of the Learning Sciences. ISBN: 978-1-7324672-2-4",
+                    "cat": "idl",
+                    "file": "ICLS2018_Volume_2_Final_1165.pdf"
+                },
+                {
+                    "title": "Comparing first- and third-person perspectives in early elementary learning of honeybee systems",
+                    "authors": [
+                        "Peppler, K.",
+                        "Thompson, N.",
+                        "Danish, J.",
+                        "Moczek, A."
+                    ],
+                    "otherText": "In J. Kay & R. Luckin (Eds.), Rethinking learning in the digital age: Making the Learning Sciences count: The International Conference of the Learning Sciences (ICLS) 2018 (Vol. 1, pg. 512-519). London, UK: International Society of the Learning Sciences. ISBN: 978-1-7324672-2-4",
+                    "cat": "sth",
+                    "file": "ICLS2018_Volume_1_Final_512.pdf"
+                },
+                {
+                    "title": "In the hive: Designing for emergence when teaching complex systems in early childhood",
+                    "authors": [
+                        "Peppler, K.",
+                        "Thompson, N.",
+                        "Danish, J.",
+                        "Moczek, A."
+                    ],
+                    "otherText": "In J. Kay & R. Luckin (Eds.), Rethinking learning in the digital age: Making the Learning Sciences count: The International Conference of the Learning Sciences (ICLS) 2018 (Vol. 1, pg. 584-591). London, UK: International Society of the Learning Sciences. ISBN: 978-1-7324672-2-4",
+                    "cat": "sth",
+                    "file": "ICLS2018_Volume_1_Final_584.pdf"
+                },
+                {
+                    "title": "Indoor positioning technology & enhanced engagement in early elementary systems thinking and science learning",
+                    "authors": [
+                        "Peppler, K.",
+                        "Thompson, N.",
+                        "Danish, J.",
+                        "Moczek, A.",
+                        "Han, S."
+                    ],
+                    "otherText": "In J. Kay & R. Luckin (Eds.), Rethinking learning in the digital age: Making the Learning Sciences count: The International Conference of the Learning Sciences (ICLS) 2018 (Vol. 2, pg. 1077-1080). London, UK: International Society of the Learning Sciences. ISBN: 978-1-7324672-2-4",
+                    "cat": "sth",
+                    "file": "ICLS2018_Volume_2_Final_1077.pdf"
+                },
+                {
+                    "title": "When is it safe enough? Considering diversity and equity when brokering pre-professional opportunities to youth of color",
+                    "authors": [
+                        "Santo, R.",
+                        "Ching, D.",
+                        "Levinson, E.",
+                        "White, G.",
+                        "Cordero, M.",
+                        "Peppler, K.",
+                        "Hoadley, C."
+                    ],
+                    "otherText": "In J. Kay & R. Luckin (Eds.), Rethinking learning in the digital age: Making the Learning Sciences count: The International Conference of the Learning Sciences (ICLS) 2018 (Vol. 3, pg. 1671-1672). London, UK: International Society of the Learning Sciences. ISBN: 978-1-7324672-2-4",
+                    "cat": "idl",
+                    "file": "ICLS2018Volume3_proceedings_1671.pdf"
+                },
+                {
+                    "title": "Recounting counting: Self-appraisal in math-adjacent discourse",
+                    "authors": [
+                        "Uttamchandani, S.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In J. Kay & R. Luckin (Eds.), Rethinking learning in the digital age: Making the Learning Sciences count: The International Conference of the Learning Sciences (ICLS) 2018 (Vol. 3, pg. 1509-1510). London, UK: International Society of the Learning Sciences. ISBN: 978-1-7324672-2-4",
+                    "cat": "idl",
+                    "file": "ICLS2018Volume3_proceedings_1509.pdf"
+                },
+                {
+                    "title": "Messy, sprawling and open: Research-practice partnership methodologies for working in distributed inter-organizational networks",
+                    "authors": [
+                        "Santo, R.",
+                        "Ching, D.",
+                        "Peppler, K.",
+                        "Hoadley, C."
+                    ],
+                    "otherText": "In B. Bevan & W. R. Penuel (Eds.), Connecting research and practice for educational improvement: Ethical and equitable approaches. New York, NY: Routledge.",
+                    "cat": "idl",
+                    "file": "2018_MessySprawlingOpen.pdf"
+                },
+                {
+                    "title": "Squishing circuits: Circuitry learning with electronics and playdough in early childhood",
+                    "authors": [
+                        "Peppler, K.",
+                        "Wohlwend, K.",
+                        "Thompson, N.",
+                        "Tan, V.",
+                        "Thomas, A."
+                    ],
+                    "otherText": "Journal of Science Education and Technology, 28(2), pp. 118-132. doi: 10.1007/s10956-018-9752-2",
+                    "cat": "idl",
+                    "file": "2018_SquishingCircuitsCircuitryLear.pdf"
+                }
+            ]
+        },
+        {
+            "year": 2017,
+            "list": [
+                {
+                    "title": "Design Math: A Design and Project-based Effort to Learn Geometry in Middle School through Fabric-Based Yurts",
+                    "authors": [
+                        "Banks, T.",
+                        "Wallace, S.",
+                        "Searcy, J.",
+                        "Sedas, M.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "Paper presented at the fifth annual FabLearn Conference: Creating a Sustainable Ecosystem for Making in Education. Palo Alto, CA: Stanford University.",
+                    "cat": "idl",
+                    "file": "2017_WallaceBanksSedasetal_DesignMath_YurtGeometry.pdf"
+                },
+                {
+                    "title": "Krump culture",
+                    "authors": [
+                        "Bender, S.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In K. Peppler (Ed.) The SAGE Encyclopedia of out-of-school learning (pp. 403-404). Los Angeles, CA: Sage Publications.",
+                    "cat": "anc",
+                    "file": "KrumpCulture-SAGE2017.pdf"
+                },
+                {
+                    "title": "Makerspaces",
+                    "authors": [
+                        "Bender, S.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In K. Peppler (Ed.) The SAGE Encyclopedia of out-of-school learning (pp. 453-457). Los Angeles, CA: Sage Publications.",
+                    "cat": "anc",
+                    "file": "Makerspaces-SAGE2017.pdf"
+                },
+                {
+                    "title": "Merging sketches for creative design exploration: An evaluation of physical and cognitive operations",
+                    "authors": [
+                        "Chandrasegaran, S.",
+                        "Badam, S. K.",
+                        "Zhou, N.",
+                        "Zhao, Z.",
+                        "Kisselburgh, L.",
+                        "Peppler, K.",
+                        "Elmqvist, N.",
+                        "Ramani, K."
+                    ],
+                    "otherText": "Accepted paper for GI (Graphics Interface) 2017, Edmonton, Alberta, Canada.",
+                    "cat": "scm",
+                    "file": "2017_MergingSketches-Creative Design.pdf"
+                },
+                {
+                    "title": "VizScribe: A visual analytics approach to understand designer behavior",
+                    "authors": [
+                        "Chandrasegaran, S.",
+                        "Badam, S. K.",
+                        "Kisselburgh, L.",
+                        "Peppler, K.",
+                        "Elmqvist, N.",
+                        "Ramani, K."
+                    ],
+                    "otherText": "International Journal of Human-Computer Studies, 101(1), pp. 66-80. doi: 10.1016/j.ijhcs.2016.12.007",
+                    "cat": "scm",
+                    "file": "2017_Peppler_Vizscribe.pdf"
+                },
+                {
+                    "title": "Maker portfolios as learning and community-building tools inside and outside makerspaces",
+                    "authors": [
+                        "Keune, A.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "Published in the Proceedings of the 2017 Computer Supported Collaborative Learning (CSCL) Conference, pp. 545-548. Philadelphia, PA: International Society of Learning Sciences.",
+                    "cat": "idl",
+                    "file": "2017_MakerPortfoliosAsTools_CSCL.pdf"
+                },
+                {
+                    "title": "“My portfolio helps my making”: Motivations and mechanisms for documenting creative projects in out-of-school makerspaces",
+                    "authors": [
+                        "Keune, A.",
+                        "Thompson, N.",
+                        "Peppler, K.",
+                        "Chang, S."
+                    ],
+                    "otherText": "In L. Mikos & I. Eleá (eds.)Young and creative: Digital technologies empowering children in everyday life, pp. 145-158. Gothenburg, Sweden: Nordicom.",
+                    "cat": "idl",
+                    "file": "2017_MyPortfolioHelpsMyMaking.pdf"
+                },
+                {
+                    "title": "Advancing arts education in a digital age",
+                    "authors": [
+                        "Peppler, K."
+                    ],
+                    "otherText": "Arts in Education Quarterly Newsletter, 2(3) April 2017. Retrieved on April 14, 2017 from http://mailchi.mp/anlar/akf7tfklql#FEATURE",
+                    "cat": "anc",
+                    "file": "2017_Advancingartseducationdigitalage.pdf"
+                },
+                {
+                    "title": "Creativity in business and technology",
+                    "authors": [
+                        "Peppler, K."
+                    ],
+                    "otherText": "In J. C. Kaufman, V. P. Glaveneau, and J. Baer (Eds.) The Cambridge Handbook of Creativity Across Domains. Cambridge, UK: Cambridge University Press.",
+                    "cat": "gsm",
+                    "file": "2017_Peppler_CreativityInBusiness.pdf",
+                    "sug": "true"
+                },
+                {
+                    "title": "The SAGE Encyclopedia of out-of-school learning",
+                    "authors": [
+                        "Peppler, K."
+                    ],
+                    "otherText": "Los Angeles, CA: Sage Publications.",
+                    "cat": "idl",
+                    "file": "https://us.sagepub.com/en-us/nam/the-sage-encyclopedia-of-out-of-school-learning/book240925"
+                },
+                {
+                    "title": "Equity and access in out-of-school music making",
+                    "authors": [
+                        "Peppler, K."
+                    ],
+                    "otherText": "In A. Ruthmann and R. Mantie (Eds.), The Oxford handbook of technology and music education, Ch. 48 (pp. 503-509). Oxford, UK: Oxford University Press. Oxford University Press. Retrieved 25 Aug. 2017, from http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199372133.001.0001/oxfordhb-9780199372133-e-48",
+                    "cat": "anc",
+                    "file": "2017_Peppler_EquityAccess_OOS_Music_Making.pdf"
+                },
+                {
+                    "title": "Interest-driven music education: Youth, technology, and music making today",
+                    "authors": [
+                        "Peppler, K."
+                    ],
+                    "otherText": "In A. Ruthmann and R. Mantie (Eds.), The Oxford Handbook of Technology and Music Education, Ch. 18 (pp. 191-202). New York, NY: Oxford University Press. Retrieved 25 Aug. 2017, from http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199372133.001.0001/oxfordhb-9780199372133-e-18",
+                    "cat": "idl",
+                    "file": "2017_Peppler_Informal_Music_Learning.pdf"
+                },
+                {
+                    "title": "Theorizing the nexus of STEAM practice",
+                    "authors": [
+                        "Peppler, K.",
+                        "Wohlwend, K."
+                    ],
+                    "otherText": "In J. Katz-Buonincontro and C. Conway (Eds.) Arts Education Policy Review Special Issue: Gathering STEAM, pages 1-12. Published online: 25 Aug 2017 at http://www.tandfonline.com/doi/full/10.1080/10632913.2017.1316331 Routledge. doi 10.1080/10632913.2017.1316331",
+                    "cat": "anc",
+                    "file": "2017_Theorizing_the_nexus_of_STEAM_practice.pdf"
+                },
+                {
+                    "title": "Participatory knowledge building within research-practice partnerships in education",
+                    "authors": [
+                        "Santo, R.",
+                        "Ching, D.",
+                        "Peppler, K.",
+                        "Hoadley, C."
+                    ],
+                    "otherText": "In SAGE Research Methods Cases - Education. Los Angeles, CA: Sage Publications.",
+                    "cat": "idl",
+                    "file": "2017_Participatory_Knowledge_Building_ResPractPartnerships_Education.pdf"
+                },
+                {
+                    "title": "The materiality of design in e-textiles",
+                    "authors": [
+                        "Tan, V.",
+                        "Keune, A.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In S. Goldman & Z. Kabayadondo (Eds) Taking Design Thinking to School: How the Technology of Design Can Transform Teachers, Learners, and Classrooms. New York, NY: Routledge.",
+                    "cat": "etx",
+                    "file": "2017_MaterialityOfDesign.pdf"
+                },
+                {
+                    "title": "Designing BioSim: Playfully encouraging systems thinking in young children",
+                    "authors": [
+                        "Thompson, N.",
+                        "Peppler, K.",
+                        "Danish, J."
+                    ],
+                    "otherText": "In Zheng, R. & Gardner, M. (Eds.), Handbook of research on serious games for educational applications, Ch.7 (pp. 149-167). Hershey, PA: IGI Global.",
+                    "cat": "sth",
+                    "file": "2017_Peppler_DesigningBioSimSystemsThinkingYoungChildren.pdf"
+                },
+                {
+                    "title": "Making sense and nonsense: Comparing mediated discourse and agential realist approaches to materiality in a preschool makerspace",
+                    "authors": [
+                        "Wohlwend, K.",
+                        "Peppler, K.",
+                        "Keune, A.",
+                        "Thompson, N."
+                    ],
+                    "otherText": "Journal of Early Childhood Literacy 17(3), pp. 444–462. SAGE.",
+                    "cat": "anc",
+                    "file": "2017_MakingSenseNonsense.pdf"
+                }
+            ]
+        },
+        {
+            "year": 2016,
+            "list": [
+                {
+                    "title": "Connected learning professional development: Production-centered and openly networked teaching communities",
+                    "authors": [
+                        "Cantrill, C.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In New literacies and teacher learning: Professional development and the digital turn (New Literacies and Digital Epistemologies). New York, NY: Peter Lang Publishing.",
+                    "cat": "gsm",
+                    "file": "2016_Peppler_CLPD.pdf"
+                },
+                {
+                    "title": "Not just a blip in someone’s life: integrating brokering practices into out-of-school programming as a means of supporting and expanding youth futures",
+                    "authors": [
+                        "Ching, D.",
+                        "Santo, R.",
+                        "Hoadley, C.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "On the Horizon, 24(3), pp. 296-312. doi: 10.1108/OTH-05-2016-0026",
+                    "cat": "idl",
+                    "file": "2016_Peppler_Not_just_a_Blip.pdf"
+                },
+                {
+                    "title": "Makerspaces: Providing Pennsylvania practical prefiguration",
+                    "authors": [
+                        "D'Urzo, S.",
+                        "Foster, J.",
+                        "Keune, A.",
+                        "Peppler, K.",
+                        "Stutzman, A."
+                    ],
+                    "otherText": "Techniques, 91(6), pp. 25-27.",
+                    "cat": "idl",
+                    "file": "2016_Makerspaces_Penn_Prefiguration.pdf"
+                },
+                {
+                    "title": "Connected making: Designing for youth learning in online maker communities in and out of schools",
+                    "authors": [
+                        "Litts, B.",
+                        "Kafai, Y. B.",
+                        "Fields, D. A.",
+                        "Halverson, E. R.",
+                        "Peppler, K.",
+                        "Keune, A."
+                    ],
+                    "otherText": "Paper presented at the 12th International Conference of the Learning Sciences (ICLS), Volume 2, pp. 1041-1047. Singapore: International Society of the Learning Sciences, ISBN: 978-0-09903550-8-3",
+                    "cat": "idl",
+                    "file": "ICLS-2016-1041_a.pdf"
+                },
+                {
+                    "title": "A review of e-textiles in education and society",
+                    "authors": [
+                        "Peppler, K."
+                    ],
+                    "otherText": "In Guzzetti, B. & Lesley, M. (Eds.), Handbook of research on the societal impact of digital media: Ch.11 (pp. 219-241). Hershey, PA: IGI Global.",
+                    "cat": "idl",
+                    "file": "2016_Peppler_ReviewETextilesEducationSociety.pdf"
+                },
+                {
+                    "title": "ReMaking arts education through physical computing",
+                    "authors": [
+                        "Peppler, K."
+                    ],
+                    "otherText": "In Peppler, K., Halverson, E. & Kafai, Y. (Eds.). Makeology: Makers as learners, Vol 2, Ch. 13, pp. 206-226. New York, NY: Routledge.",
+                    "cat": "etx",
+                    "file": "2016_ReMaking_Makeology2.pdf"
+                },
+                {
+                    "title": "The Make-to-Learn youth contest: Gaining youth perspectives on learning through making",
+                    "authors": [
+                        "Peppler, K.",
+                        "Hall, T."
+                    ],
+                    "otherText": "In Peppler, K., Halverson, E. & Kafai, Y. (Eds.), Makeology: Makerspaces as learning environments , Vol 1, Ch. 10, pp. 141-157. New York, NY: Routledge.",
+                    "cat": "etx",
+                    "file": "2016_M2LContest_Makeology1.pdf"
+                },
+                {
+                    "title": "Makeology: Makerspaces as learning environments",
+                    "authors": [
+                        "Peppler, K.",
+                        "Halverson, E.",
+                        "Kafai, Y."
+                    ],
+                    "otherText": "New York, NY: Routledge.",
+                    "cat": "etx",
+                    "file": "https://www.amazon.com/Makeology-Makerspaces-Environments-Kylie-Peppler/dp/1138847771",
+                    "sug": true
+                },
+                {
+                    "title": "Makeology: Makers as learners",
+                    "authors": [
+                        "Peppler, K.",
+                        "Halverson, E.",
+                        "Kafai, Y."
+                    ],
+                    "otherText": "New York, NY: Routledge.",
+                    "cat": "etx",
+                    "file": "https://www.amazon.com/Makeology-Makers-as-Learners-2-ebook/dp/B01FXZRSD8",
+                    "sug": true
+                },
+                {
+                    "title": "Working in the open: Lessons from open source on building innovation networks in education",
+                    "authors": [
+                        "Santo, R.",
+                        "Ching, D.",
+                        "Peppler, K.",
+                        "Hoadley, C."
+                    ],
+                    "otherText": "On the Horizon, 24(3), pp. 280-295.",
+                    "cat": "idl",
+                    "file": "2016_Peppler_Working_in_the_Open.pdf"
+                },
+                {
+                    "title": "Design playshop: Preschoolers making, playing, and learning with Squishy Circuits",
+                    "authors": [
+                        "Wohlwend, K.",
+                        "Keune, A.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In Peppler, K., Halverson, E. & Kafai, Y. (Eds.), Makeology: Makerspaces as learning environments , Vol 1, Ch. 6, pp. 83-96. New York, NY: Routledge.",
+                    "cat": "etx",
+                    "file": "2016_DesignPlayshop_Makeology1.pdf"
+                }
+            ]
+        },
+        {
+            "year": 2015,
+            "list": [
+                {
+                    "title": "Creative Design Process in Making Electronic Textiles",
+                    "authors": [
+                        "Tan, V.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "Proceedings of the 14th International Conference on Interaction Design and Children - IDC ’15, 327–330. https://doi.org/10.1145/2771839.2771908",
+                    "cat": "etx",
+                    "file": "2015_Creative_design_process.pdf"
+                },
+                {
+                    "title": "Demo hour",
+                    "authors": [
+                        "Chien, H.",
+                        "Seehra, J.",
+                        "Verma, A.",
+                        "Peppler, K.",
+                        "Ramani, K.",
+                        "Cheng, Y.",
+                        "Lee, C.",
+                        "Chierico, A."
+                    ],
+                    "otherText": "In ACM Interactions XXII.3, May-June 2015 (pp. 8–11). Association for Computing Machinery, New York.",
+                    "cat": "etx",
+                    "file": "2015_Peppler_DemoHour.pdf"
+                },
+                {
+                    "title": "On-ramps, lane changes, detours and destinations: Building connected learning pathways in Hive NYC through brokering future learning opportunities",
+                    "authors": [
+                        "Ching, D.",
+                        "Santo, R.",
+                        "Hoadley, C.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "New York, NY: Hive Research Lab.",
+                    "cat": "idl",
+                    "file": "2015_Peppler_Hive-WhitePaper_OnRampsLaneChanges.pdf"
+                },
+                {
+                    "title": "Flexibility to learn: Material artifacts in makerspaces",
+                    "authors": [
+                        "Keune, A.",
+                        "Gomoll, A.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "Paper presented at the fifth annual FabLearn Conference: Equity and Diversity in Making. Palo Alto, CA: Stanford University.",
+                    "cat": "etx",
+                    "file": "2015_Keune-Gomoll-Peppler_FlexLearn-MatArtifacts_FabLearn.pdf"
+                },
+                {
+                    "title": "Creative collaboration and flow: Validating the use of trace data to measure dynamics of creative flow in collaborative design teams",
+                    "authors": [
+                        "Kisselburgh, L.",
+                        "Zhou, N.",
+                        "Chandrasegaran, S.",
+                        "Badam, S. K.",
+                        "Elmqvist, N.",
+                        "Peppler, K.",
+                        "Ramani, K."
+                    ],
+                    "otherText": "Published in the proceedings of the 2015 Computer Supported Collaborative Learning (CSCL) Conference, 837-838. Gothenburg, Sweden: International Society of Learning Sciences.",
+                    "cat": "scm",
+                    "file": "2015_CreativeCollabFlow.pdf"
+                },
+                {
+                    "title": "Tool selection and its impact on collaborative learning",
+                    "authors": [
+                        "Peppler, K."
+                    ],
+                    "otherText": "In Constructivist Foundations, July 2015; 10(3): pp398-399. Brussels, Belgium: Center Leo Apostel for Interdisciplinary Research.",
+                    "cat": "etx",
+                    "file": "2015_Peppler_ToolSelectionCollaborativeLearning.pdf"
+                },
+                {
+                    "title": "Learning and achieving through the arts: A collaborative project of inner-city arts and Los Angeles Unified School District 4",
+                    "authors": [
+                        "Peppler, K.",
+                        "Catterall, J. S.",
+                        "Bender, S."
+                    ],
+                    "otherText": "Deliverable to the U.S. Department of Education. Bloomington, IN: Indiana University.",
+                    "cat": "anc",
+                    "file": "2015_Peppler_lata_report.pdf"
+                },
+                {
+                    "title": "Research Brief Series",
+                    "authors": [
+                        "Open portfolios maker education initiative"
+                    ],
+                    "otherText": "Retrieved from: http://makered.org/opp/research-briefs/",
+                    "cat": "etx",
+                    "file": "https://www.amazon.com/Open-Portfolio-Research-Brief-Maker/dp/1530515246/ref=sr_1_12?s=books&ie=UTF8&qid=1489458349&sr=1-12"
+                },
+                {
+                    "title": "HandiMate: Create and animate using everyday objects as material",
+                    "authors": [
+                        "Seehra, J.",
+                        "Verma, A.",
+                        "Peppler, K.",
+                        "Ramani, K."
+                    ],
+                    "otherText": "In Proceedings of the Ninth International Conference on Tangible, Embedded, and Embodied Interaction (pp. 117-124), New York.",
+                    "cat": "etx",
+                    "file": "2015_Peppler_HandiMate_Create-Animate.pdf"
+                },
+                {
+                    "title": "Designing BioSim: Playfully Encouraging Systems Thinking",
+                    "authors": [
+                        "Thompson, N.",
+                        "Peppler, K.",
+                        "Danish, J."
+                    ],
+                    "otherText": "Paper presented at the fifth annual FabLearn Conference: Equity and Diversity in Making. Palo Alto, CA: Stanford University.",
+                    "cat": "sth",
+                    "file": "2015_Thompson-Peppler-Danish_DesigningBioSim_Fablearn.pdf"
+                },
+                {
+                    "title": "All rigor and no play is no way to improve learning",
+                    "authors": [
+                        "Wohlwend, K.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In Phi Delta Kappan, May 2015; 96(8): pp. 22-26.",
+                    "cat": "etx",
+                    "file": "2015_Peppler_All-Rigor-No-Play.pdf"
+                },
+                {
+                    "title": "HandiMate: Exploring a Modular Robotics kit for Animating Crafted Toys",
+                    "authors": [
+                        "Yoon, S.H.",
+                        "Verma, A.",
+                        "Peppler, K.",
+                        "Ramani, K."
+                    ],
+                    "otherText": "In B. Shapiro, C. Quintana, S. Gilutz, & M. Skov (Eds.), Proceedings of the 14th annual conference of ACM SIGCHI Interaction Design & Children (IDC 2015). Tufts University, Boston: ACM.",
+                    "cat": "idl",
+                    "file": "2015_handimate2.pdf"
+                },
+                {
+                    "title": "Maybe a maker space? Organizational learning about maker education within a regional out-of-school network",
+                    "authors": [
+                        "Santo, R.",
+                        "Peppler, K.",
+                        "Ching, D.",
+                        "Hoadley, C."
+                    ],
+                    "otherText": "Paper presented at the fifth annual FabLearn Conference: Equity and Diversity in Making. Palo Alto, CA: Stanford University.",
+                    "cat": "etx",
+                    "file": "2015_Santo_et_al_Maybe_a_Maker_Space.pdf"
+                }
+            ]
+        },
+        {
+            "year": 2014,
+            "list": [
+                {
+                    "title": "Hands on, hands off: Gendered access in sewing and electronics practices",
+                    "authors": [
+                        "Buchholz, B.",
+                        "Shively, K.",
+                        "Peppler, K.",
+                        "Wohlwend, K."
+                    ],
+                    "otherText": "In Mind, Culture, and Activity. July 2014, 21(4) pp. 1-20. DOI:10.1080/10749039.2014.939762",
+                    "cat": "etx",
+                    "file": "2014_Peppler_Hands_On_Hands_Off.pdf"
+                },
+                {
+                    "title": "Transparency reconsidered: Creative, critical, and connected making with e-textiles",
+                    "authors": [
+                        "Kafai, Y.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In M. Boler & M. Ratto (Eds.), DIY citizenship (Ch.12, pp.179-188). Cambridge, MA: MIT Press.",
+                    "cat": "etx",
+                    "file": "2014_Peppler_TransparencyReconsidered.pdf"
+                },
+                {
+                    "title": "Foreword",
+                    "authors": [
+                        "Peppler, K."
+                    ],
+                    "otherText": "In A. Garcia (ed.), Teaching in the connected learning classroom. Irvine, CA: Digital Media and Learning Research Hub.",
+                    "cat": "gsm",
+                    "file": "2014_Peppler_Teaching-in-the-CL-classroom.pdf"
+                },
+                {
+                    "title": "New creativity paradigms: Arts learning in the digital age",
+                    "authors": [
+                        "Peppler, K."
+                    ],
+                    "otherText": "New York, NY: Peter Lang Publishing.",
+                    "cat": "anc",
+                    "file": "http://www.amazon.com/New-Creativity-Paradigms-Literacies-Epistemologies/dp/1433125137"
+                },
+                {
+                    "title": "Soft circuits: Crafting e-fashion with DIY electronics",
+                    "authors": [
+                        "Peppler, K.",
+                        "Gresalfi, M.",
+                        "Salen Tekinbaș, K.",
+                        "Santo, R."
+                    ],
+                    "otherText": "Cambridge, MA: MIT Press.",
+                    "cat": "etx",
+                    "file": "http://www.amazon.com/Soft-Circuits-Fashion-Electronics-Foundation/dp/0262027844/ref=pd_sim_sbs_b_3?ie=UTF8&refRID=0AA9QSAN6MEQ96ASMGZ6"
+                },
+                {
+                    "title": "Short circuits: Crafting e-puppets with DIY electronics",
+                    "authors": [
+                        "Peppler, K.",
+                        "Salen Tekinbaș, K.",
+                        "Gresalfi, M.",
+                        "Santo, R."
+                    ],
+                    "otherText": "Cambridge, MA: MIT Press.",
+                    "cat": "sth",
+                    "file": "http://www.amazon.com/Short-Circuits-Puppets-Electronics-Foundation/dp/0262027836/ref=pd_sim_sbs_b_1?ie=UTF8&refRID=1D4EQWAS3EWZG04Q1BJ1"
+                },
+                {
+                    "title": "Script changers: Digital storytelling with Scratch",
+                    "authors": [
+                        "Peppler, K.",
+                        "Santo, R.",
+                        "Salen Tekinbaș, K.",
+                        "Gresalfi, M."
+                    ],
+                    "otherText": "Cambridge, MA: MIT Press.",
+                    "cat": "scm",
+                    "file": "http://www.amazon.com/Script-Changers-Storytelling-Catherine-Foundation/dp/0262027828/ref=pd_sim_sbs_b_3?ie=UTF8&refRID=0FXY7GXB5QB2M3S90RT2"
+                },
+                {
+                    "title": "Positive impact of arts integration on student academic achievement in English language arts",
+                    "authors": [
+                        "Peppler, K.",
+                        "Powell, C. W.",
+                        "Thompson, N.",
+                        "Catterall, J."
+                    ],
+                    "otherText": "In The Educational Forum, 78(4), 364-377.",
+                    "cat": "anc",
+                    "file": "2014_Peppler_Positive_Impact.pdf"
+                },
+                {
+                    "title": "In harmony: A technology-based music education program designed to improve children's musical understanding, cognitive skills, and inter-cultural understanding",
+                    "authors": [
+                        "Portowitz, A.",
+                        "Peppler, K.",
+                        "Downton, M.",
+                        "Lichtenstein, O."
+                    ],
+                    "otherText": "International Journal of Music Education, 32(2).",
+                    "cat": "anc",
+                    "file": "2014_Peppler_In_Harmony.pdf"
+                },
+                {
+                    "title": "Gaming the system: Designing with Gamestar Mechanic",
+                    "authors": [
+                        "Salen Tekinbaș, K.",
+                        "Gresalfi, M.",
+                        "Peppler, K.",
+                        "Santo, R."
+                    ],
+                    "otherText": "Cambridge, MA: MIT Press.",
+                    "cat": "gsm",
+                    "file": "http://www.amazon.com/Gaming-System-Designing-Catherine-Foundation/dp/026202781X/ref=sr_1_1?s=books&ie=UTF8&qid=1401195995&sr=1-1&keywords=gaming+the+system%3A+designing+with+gamestar+mechanic"
+                },
+                {
+                    "title": "What does it mean to “work open” in Hive NYC? A vision for collective organizational learning",
+                    "authors": [
+                        "Santo, R.",
+                        "Ching, D.",
+                        "Peppler, K.",
+                        "Hoadley, C."
+                    ],
+                    "otherText": "New York, NY: Hive Research Lab",
+                    "cat": "idl",
+                    "file": "2014_Peppler_Hive-WhitePaper_WorkOpen.pdf"
+                },
+                {
+                    "title": "Spread & scale in Hive NYC",
+                    "authors": [
+                        "Santo, R.",
+                        "Ching, D.",
+                        "Peppler, K.",
+                        "Hoadley, C."
+                    ],
+                    "otherText": "New York, NY: Hive Research Lab",
+                    "cat": "idl",
+                    "file": "2014_spread_scale_in_hive.pdf"
+                },
+                {
+                    "title": "Learning and becoming through making and participatory media",
+                    "authors": [
+                        "Sefton-Green, J.",
+                        "Kumpulainen, K.",
+                        "Brennan, K.",
+                        "Mikkola, A.",
+                        "Peppler, K.",
+                        "Soep, E."
+                    ],
+                    "otherText": "Published in the proceedings of the 2014 International Conference of the Learning Sciences (ICLS), Boulder, CO.",
+                    "cat": "idl",
+                    "file": "2014_LearningBecomingParticipatoryMedia.pdf"
+                }
+            ]
+        },
+        {
+            "year": 2013,
+            "list": [
+                {
+                    "title": "Textile messages: Dispatches from the world of e-textiles and education",
+                    "authors": [
+                        "Buechley, L.",
+                        "Peppler, K.",
+                        "Eisenberg, M.",
+                        "Kafai, Y."
+                    ],
+                    "otherText": "New York, NY: Peter Lang Publishing. (E-textbook version available from the: Kortext Digital Textbook Catalog)",
+                    "cat": "etx",
+                    "file": "http://www.amazon.com/Textile-Messages-Dispatches-E-Textiles-Epistemologies/dp/1433119196/ref=sr_1_1?s=books&ie=UTF8&qid=1391187576&sr=1-1&keywords=Textile+Messages"
+                },
+                {
+                    "title": "MakerCart: A mobile fab lab for the classroom",
+                    "authors": [
+                        "McKay, C.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "Position Paper at the Interaction Design for Children Conference (IDC), New York, NY.",
+                    "cat": "etx",
+                    "file": "2013_Peppler_Maker_Cart.pdf"
+                },
+                {
+                    "title": "New opportunities for interest-driven arts learning in a digital age",
+                    "authors": [
+                        "Peppler, K."
+                    ],
+                    "otherText": "(Deliverable to the Wallace Foundation). Bloomington, Indiana: Indiana University.",
+                    "cat": "idl",
+                    "file": "2013_Peppler_New-Opportunities-for-Interest-Driven-Art.pdf",
+                    "sug": true
+                },
+                {
+                    "title": "On screen and onstage: Interest-driven arts for teens",
+                    "authors": [
+                        "Peppler, K."
+                    ],
+                    "otherText": "Opera America, Fall 2013, pp. 30-31.",
+                    "cat": "idl",
+                    "file": "2013_Peppler_OnScreen_OnStage.pdf"
+                },
+                {
+                    "title": "Social media and creativity",
+                    "authors": [
+                        "Peppler, K."
+                    ],
+                    "otherText": "In D. Lemish (Ed.), Routledge international handbook of children, adolescents, and media (pp. 193-200). New York, NY: Routledge.",
+                    "cat": "gsm",
+                    "file": "2013_Peppler_Social_Media.pdf"
+                },
+                {
+                    "title": "STEAM-powered computing education: Using e-textiles to integrate the arts and STEM",
+                    "authors": [
+                        "Peppler, K."
+                    ],
+                    "otherText": "IEEE Computer, September 2013, pp. 38-43.",
+                    "cat": "etx",
+                    "file": "2013_Peppler_STEAM-Powered.pdf",
+                    "sug": true
+                },
+                {
+                    "title": "Maker movement spreads innovation one project at a time",
+                    "authors": [
+                        "Peppler, K.",
+                        "Bender, S."
+                    ],
+                    "otherText": "Phi Delta Kappan, 95(3), pp. 22-27.",
+                    "cat": "idl",
+                    "file": "2013_Peppler_Maker_Movement.pdf"
+                },
+                {
+                    "title": "E-textiles for educators: Participatory simulations with e-puppetry",
+                    "authors": [
+                        "Peppler, K.",
+                        "Danish, J."
+                    ],
+                    "otherText": "In Textile messages: Dispatches from the world of e-textiles and education (Ch 10, pp. 133-141). New York, NY: Peter Lang Publishing.",
+                    "cat": "etx",
+                    "file": "2013_nPeppler_eTextiles4Educators.pdf"
+                },
+                {
+                    "title": "Collaborative gaming: Designing board games to teach young children about complex systems and collective behavior",
+                    "authors": [
+                        "Peppler, K.",
+                        "Danish, J.",
+                        "Phelps, D."
+                    ],
+                    "otherText": "In Simulation & gaming: An interdisciplinary journal of theory, practice and research. September 18, 2013, 46(9), pp. 38-43. doi: 10.1177/1046878113501462",
+                    "cat": "gsm",
+                    "file": "2013_Peppler_Collaborative_Gaming_new.pdf"
+                },
+                {
+                    "title": "Learning about circuitry with e-textiles",
+                    "authors": [
+                        "Peppler, K.",
+                        "Glosson, D."
+                    ],
+                    "otherText": "In M. Knobel & C. Lankshear (Eds.), The New Literacies Reader, New York, NY: Peter Lang Publishing.",
+                    "cat": "etx",
+                    "file": "2013_Peppler_LearningAboutCircuitry.pdf"
+                },
+                {
+                    "title": "Learning about circuitry with e-textiles in after-school settings",
+                    "authors": [
+                        "Peppler, K.",
+                        "Glosson, D."
+                    ],
+                    "otherText": "In Textile messages: Dispatches from the world of e-textiles and education (Ch 5, pp. 71-83).New York, NY: Peter Lang Publishing.",
+                    "cat": "etx",
+                    "file": "2013_nPeppler_LearningAboutCircuitry-Afterschool.pdf"
+                },
+                {
+                    "title": "Stitching circuits: Learning about circuitry through e-textile materials",
+                    "authors": [
+                        "Peppler, K.",
+                        "Glosson, D."
+                    ],
+                    "otherText": "Journal of Science Education and Technology. October 2013, 22(5), pp. 751-763.",
+                    "cat": "etx",
+                    "file": "2013_Peppler_StitchingCircuits.pdf",
+                    "sug": true
+                },
+                {
+                    "title": "Broadening participation and issues of inclusion and accessibility in making",
+                    "authors": [
+                        "Peppler, K.",
+                        "McKay, C."
+                    ],
+                    "otherText": "Paper at the Interaction Design for Children Conference (IDC), New York, NY.",
+                    "cat": "etx",
+                    "file": "2013_Peppler_BroadeningParticipation_Making.pdf"
+                },
+                {
+                    "title": "E-textiles and the new fundamentals of fine arts",
+                    "authors": [
+                        "Peppler, K.",
+                        "Sharpe, L.",
+                        "Glosson, D."
+                    ],
+                    "otherText": "In Textile messages: Dispatches from the world of e-textiles and education (Ch 8, pp. 107-117). New York, NY: Peter Lang Publishing.",
+                    "cat": "etx",
+                    "file": "2013_nPeppler_eTextilesNewFundamentals.pdf"
+                },
+                {
+                    "title": "Designing with pink technologies and Barbie transmedia",
+                    "authors": [
+                        "Wohlwend, K.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In G. M. Boldt & McArdle, F. (Eds.) Young children, pedagogy and the arts: Ways of seeing (pp. 129-145). New York, NY: Routledge.",
+                    "cat": "anc",
+                    "file": "2013_Peppler_PinkTech_Barbie.pdf"
+                }
+            ]
+        },
+        {
+            "year": 2012,
+            "list": [
+                {
+                    "title": "Uncovering Literacies, Disrupting Stereotypes: Examining the (Dis)Abilities of a Child Learning to Computer Program and Read",
+                    "authors": [
+                        "Peppler, K.",
+                        "Warschauer, M."
+                    ],
+                    "otherText": "International Journal of Learning and Media, 3(3), pp. 15-41. doi:10.1162/IJLM_a_00073.",
+                    "cat": "gsm",
+                    "file": "2012_Peppler_Uncovering_Literacies.pdf",
+                    "sug": true
+                },
+                {
+                    "title": "Composing pieces for peace: Using Impromptu to build cross-cultural awareness",
+                    "authors": [
+                        "Downton, M. P.",
+                        "Peppler, K.",
+                        "Portowitz, A.",
+                        "Bamberger, J.",
+                        "Lindsay, E."
+                    ],
+                    "otherText": "Visions of Research in Music Education, 20, pp. 1-37.",
+                    "cat": "anc",
+                    "file": "2012_Peppler_Composing_Pieces_for_Peace.pdf"
+                },
+                {
+                    "title": "Developing gaming fluencies with Scratch: Realizing game design as an artistic process",
+                    "authors": [
+                        "Kafai, Y. B.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In C. Steinkuehler, K. Squire and S. Barab (Eds.), Games, learning, and society: Learning and meaning in the digital age. New York, NY: Cambridge University Press.",
+                    "cat": "gsm",
+                    "file": "2012_Peppler_DevGamingFluenciesScratch.pdf"
+                },
+                {
+                    "title": "Scratch: digital art making",
+                    "authors": [
+                        "Peppler, K."
+                    ],
+                    "otherText": "ChildArt Magazine, 12(1), Number 42. iv.",
+                    "cat": "scm",
+                    "file": "2012_Peppler_Scratch_DigitalArtMaking.pdf"
+                }
+            ]
+        },
+        {
+            "year": 2011,
+            "list": [
+                {
+                    "title": "Life in the hive: Supporting inquiry into complexity within the zone of proximal development",
+                    "authors": [
+                        "Danish, J.",
+                        "Peppler, K.",
+                        "Phelps, D.",
+                        "Washington, D."
+                    ],
+                    "otherText": "Journal of Science Education and Technology, 20(5), 454–467.",
+                    "cat": "sth",
+                    "file": "2011_Peppler_Life_In_The_Hive.pdf"
+                },
+                {
+                    "title": "Assessment assemblage: Advancing portfolio practice through the assessment stage theory",
+                    "authors": [
+                        "Davis, H.",
+                        "Peppler, K.",
+                        "Hickey, D."
+                    ],
+                    "otherText": "Studies in Art Education, 52(3), pp. 213-224.",
+                    "cat": "anc",
+                    "file": "2011_Peppler_Assessment_Assemblage.pdf"
+                },
+                {
+                    "title": "Talking like a composer: Negotiating shared musical compositions using Impromptu",
+                    "authors": [
+                        "Downton, M.",
+                        "Peppler, K.",
+                        "Bamberger, J."
+                    ],
+                    "otherText": "Published In the proceedings of the 2011 Computer-Supported Collaborative Learning (CSCL) Conference. Hong Kong, China.",
+                    "cat": "anc",
+                    "file": "2011_Peppler_Talking_Like_a_Composer.pdf"
+                },
+                {
+                    "title": "Beyond small groups: New opportunities for research in computer-supported collective learning",
+                    "authors": [
+                        "Kafai, Y.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "Published in the proceedings of the 2011 Computer-Supported Collaborative Learning (CSCL) Conference. Hong Kong, China.",
+                    "cat": "scm",
+                    "file": "2011_Peppler_Beyond_Small_Groups2.pdf"
+                },
+                {
+                    "title": "Youth, technology, and DIY: Developing participatory competencies in creative media production",
+                    "authors": [
+                        "Kafai, Y.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In V. L. Gadsden, S. Wortham, and R. Lukose (Eds.), Youth cultures, language and literacy. Review of Research in Education, 35(1), pp. 89-119.",
+                    "cat": "scm",
+                    "file": "2011_Peppler_Youth_Technology_and_DIY.pdf"
+                },
+                {
+                    "title": "The nirvana effect: Tapping video games to mediate music learning and interest",
+                    "authors": [
+                        "Peppler, K.",
+                        "Downton, M.",
+                        "Lindsay, E.",
+                        "Hay, K."
+                    ],
+                    "otherText": "International Journal of Learning and Media, 3(1), pp. 41-59.",
+                    "cat": "anc",
+                    "file": "2011_Peppler_Nirvana_Effect.pdf"
+                },
+                {
+                    "title": "Articulating creativity in a new domain: Expert insights from the field of e-textiles",
+                    "authors": [
+                        "Peppler, K.",
+                        "Fields, D.",
+                        "Kafai, Y.",
+                        "Glosson, D."
+                    ],
+                    "otherText": "Published in the ACM Cognition & Creativity Conference Proceedings. ACM: Atlanta, GA.",
+                    "cat": "etx",
+                    "file": "2011_Peppler_ArticulatingCreativity.pdf"
+                },
+                {
+                    "title": "Building creativity: Collaborative learning and creativity in social media environments",
+                    "authors": [
+                        "Peppler, K.",
+                        "Solomou, M."
+                    ],
+                    "otherText": "On the Horizon, 19(1), pp. 13-23. Also published in the proceedings of the 2010 International Conference of the Learning Sciences, Chicago, IL.",
+                    "cat": "gsm",
+                    "file": "2011_Peppler_Building_Creativity.pdf"
+                }
+            ]
+        },
+        {
+            "year": 2010,
+            "list": [
+                {
+                    "title": "Pedagogical dramas and transformational play: Narratively-rich games for education",
+                    "authors": [
+                        "Barab, S.",
+                        "Dodge, T.",
+                        "Ingram-Goble, A.",
+                        "Pettyjohn, P.",
+                        "Peppler, K.",
+                        "Volk, C.",
+                        "Solomou, M."
+                    ],
+                    "otherText": "Mind, Culture, and Activity, 17(3), pp. 1-30. Also presented at the International Conference on Interactive Digital Storytelling (ICIDS) 2009, LNCS 5915. Springer-Verlag: Berlin, Germany, pp. 332–335.",
+                    "cat": "gsm",
+                    "file": "2010_Peppler_Pedagogical_Dramas.pdf"
+                },
+                {
+                    "title": "BeeSign: Designing to support mediated group inquiry of complex science by early elementary students",
+                    "authors": [
+                        "Danish, J.",
+                        "Peppler, K.",
+                        "Phelps, D."
+                    ],
+                    "otherText": "Published in the proceedings of the 9th International Conference on Interaction Design and Children, Barcelona, Spain.",
+                    "cat": "sth",
+                    "file": "2010_Peppler_BeeSign.pdf"
+                },
+                {
+                    "title": "Building tunes block by block: Constructing musical and cross-cultural understanding through Impromptu",
+                    "authors": [
+                        "Downton, M.",
+                        "Peppler, K.",
+                        "Portowitz, A."
+                    ],
+                    "otherText": "Published in the proceedings of the 2010 Constructionism Conference, Paris, France.",
+                    "cat": "anc",
+                    "file": "2010_Peppler_Building_Tunes.pdf"
+                },
+                {
+                    "title": "E-textiles: The softer side of computing",
+                    "authors": [
+                        "Horcher, A. M.",
+                        "Peppler, K.",
+                        "Glosson, D."
+                    ],
+                    "otherText": "Published in the proceedings from the 2010 Grace Hopper Celebration of Women in Computing, Atlanta, GA.",
+                    "cat": "etx",
+                    "file": "2010_Peppler_E-Textiles.pdf"
+                },
+                {
+                    "title": "Fröbel’s forgotten gift: Textile construction kits as pathways into play, design and computation",
+                    "authors": [
+                        "Kafai, Y.",
+                        "Peppler, K.",
+                        "Burke, Q.",
+                        "Moore, M.",
+                        "Glosson, D."
+                    ],
+                    "otherText": "Published in the proceedings of the 9th International Conference on Interaction Design and Children, Barcelona, Spain.",
+                    "cat": "etx",
+                    "file": "2010_Peppler_Forgotten_Gift.pdf"
+                },
+                {
+                    "title": "Media arts: Arts education for a digital age",
+                    "authors": [
+                        "Peppler, K."
+                    ],
+                    "otherText": "Teachers College Record, 112(8), 2118–2153.",
+                    "cat": "scm",
+                    "file": "2010_Peppler_Media_Arts.pdf",
+                    "sug": true
+                },
+                {
+                    "title": "The new fundamentals: Introducing computation into arts education",
+                    "authors": [
+                        "Peppler, K."
+                    ],
+                    "otherText": "In E. Clapp & M. J. Bellino (Eds.) 20under40: reinventing the arts and arts education for the 21st century, Bloomington, IN: AuthorHouse.",
+                    "cat": "gsm",
+                    "file": "2010_Peppler_New_Fundamentals.pdf"
+                },
+                {
+                    "title": "BeeSim: Leveraging wearable computers in participatory simulations with young children",
+                    "authors": [
+                        "Peppler, K.",
+                        "Danish, J.",
+                        "Zaitlen, B.",
+                        "Glosson, D.",
+                        "Jacobs, A.",
+                        "Phelps, D."
+                    ],
+                    "otherText": "Published in the proceedings of the 9th International Conference on Interaction Design and Children, Barcelona, Spain.",
+                    "cat": "sth",
+                    "file": "2010_Peppler_BeeSim.pdf"
+                },
+                {
+                    "title": "Arts and learning: A review of the impact of arts and aesthetics on learning and opportunities for further research",
+                    "authors": [
+                        "Peppler, K.",
+                        "Davis, H."
+                    ],
+                    "otherText": "Published in the proceedings of the 2010 International Conference of the Learning Sciences (ICLS), Chicago, IL.",
+                    "cat": "anc",
+                    "file": "2010_Peppler_Arts_And_Learning.pdf"
+                },
+                {
+                    "title": "Gaming fluencies: Pathways into a participatory culture in a community design studio",
+                    "authors": [
+                        "Peppler, K.",
+                        "Kafai, Y. B."
+                    ],
+                    "otherText": "International Journal of Learning and Media, 1(4), pp. 1-14.",
+                    "cat": "gsm",
+                    "file": "2010_Peppler_Gaming_Fluencies.pdf"
+                },
+                {
+                    "title": "Game critics: Exploring the role of critique in game-design literacies",
+                    "authors": [
+                        "Peppler, K.",
+                        "Warschauer, M.",
+                        "Diazgranados, A."
+                    ],
+                    "otherText": "E-Learning and Digital Media, 7(1), pp. 35-48.",
+                    "cat": "gsm",
+                    "file": "2010_Peppler_Game-Design_Literacies.pdf"
+                }
+            ]
+        },
+        {
+            "year": 2009,
+            "list": [
+                {
+                    "title": "The multiple roles of mentors",
+                    "authors": [
+                        "Kafai, Y. B.",
+                        "Desai, S.",
+                        "Peppler, K.",
+                        "Chiu, G.",
+                        "Moya, J."
+                    ],
+                    "otherText": "In Kafai, Y.B., Peppler, K., & Chapman, R. (Eds.), The computer clubhouse: Creativity and constructionism in youth communities, Chapter 8. New York, NY: Teachers College Press.",
+                    "cat": "idl",
+                    "file": "2009_Peppler_CCch8_MultipleRolesMentors.pdf"
+                },
+                {
+                    "title": "The computer clubhouse: Creativity and constructionism in youth communities",
+                    "authors": [
+                        "Kafai, Y. B.",
+                        "Peppler, K.",
+                        "Chapman, R."
+                    ],
+                    "otherText": "New York, NY: Teachers College Press.",
+                    "cat": "idl",
+                    "file": "http://www.amazon.com/Computer-Clubhouse-Constructionism-Communities-Education--Connections/dp/0807749893/ref=sr_1_1?s=books&ie=UTF8&qid=1392148891&sr=1-1&keywords=the+computer+clubhouse"
+                },
+                {
+                    "title": "A place for the future",
+                    "authors": [
+                        "Kafai, Y. B.",
+                        "Peppler, K.",
+                        "Chapman, R."
+                    ],
+                    "otherText": "In Kafai, Y.B., Peppler, K., & Chapman, R. (Eds.), The computer clubhouse: Creativity and constructionism in youth communities, Epilogue. New York, NY: Teachers College Press.",
+                    "cat": "idl",
+                    "file": "2009_Peppler_CCEpil_Place_for_Future.pdf"
+                },
+                {
+                    "title": "The computer clubhouse: A place for youth",
+                    "authors": [
+                        "Kafai, Y. B.",
+                        "Peppler, K.",
+                        "Chapman, R."
+                    ],
+                    "otherText": "In Kafai, Y.B., Peppler, K., & Chapman, R. (Eds.), The computer clubhouse: Creativity and constructionism in youth communities, Introduction. New York, NY: Teachers College Press.",
+                    "cat": "idl",
+                    "file": "2009_Peppler_CCIntro_Place_for_Youth.pdf"
+                },
+                {
+                    "title": "From Photoshop to programming",
+                    "authors": [
+                        "Kafai, Y. B.",
+                        "Peppler, K.",
+                        "Chiu, G.",
+                        "Maloney, J.",
+                        "Rusk, N.",
+                        "Resnick, M."
+                    ],
+                    "otherText": "In Kafai, Y.B., Peppler, K., & Chapman, R. (Eds.), The computer clubhouse: Creativity and constructionism in youth communities, Chapter 12. New York, NY: Teachers College Press.",
+                    "cat": "scm",
+                    "file": "2009_Peppler_CCch12_PhotoshopProgramming.pdf"
+                },
+                {
+                    "title": "Evaluation of the Inner-City Arts Teachers’ Institute",
+                    "authors": [
+                        "Peppler, K."
+                    ],
+                    "otherText": "(Deliverable to the Heller Foundation). Los Angeles, CA: University of California.",
+                    "cat": "anc"
+                },
+                {
+                    "title": "Evaluation of the Inner-City Arts Creativity in the Classroom Series",
+                    "authors": [
+                        "Peppler, K.",
+                        "Alvarez, M."
+                    ],
+                    "otherText": "(Deliverable to the Heller Foundation). Los Angeles, CA: University of California.",
+                    "cat": "anc"
+                },
+                {
+                    "title": "Arts in the middle: A collaborative project of Inner-City Arts and Los Angeles Unified School District 4",
+                    "authors": [
+                        "Peppler, K.",
+                        "Catterall, J.",
+                        "Feilen, K."
+                    ],
+                    "otherText": "(Deliverable to the U.S. Department of Education). Bloomington, IN: Indiana University.",
+                    "cat": "anc",
+                    "file": "2009_Peppler_Arts_in-the_Middle.pdf"
+                },
+                {
+                    "title": "Perspectives from the field: It takes a village to raise a clubhouse",
+                    "authors": [
+                        "Peppler, K.",
+                        "Chapman, R.",
+                        "Kafai, Y. B."
+                    ],
+                    "otherText": "In Kafai, Y.B., Peppler, K., & Chapman, R. (Eds.), The computer clubhouse: Creativity and constructionism in youth communities, Chapter 3. New York, NY: Teachers College Press.",
+                    "cat": "idl",
+                    "file": "2009_Peppler_CCch3_PerspectivesField.pdf"
+                },
+                {
+                    "title": "Creative coding: Programming for personal expression",
+                    "authors": [
+                        "Peppler, K.",
+                        "Kafai, Y."
+                    ],
+                    "otherText": "Published in the proceedings of the 8th International Conference on Computer Supported Collaborative Learning (CSCL), Rhodes, Greece.",
+                    "cat": "scm",
+                    "file": "2009_Peppler_Creative_Coding_Personal.pdf"
+                },
+                {
+                    "title": "Making games, art, and animations with Scratch",
+                    "authors": [
+                        "Peppler, K.",
+                        "Kafai, Y. B."
+                    ],
+                    "otherText": "In Kafai, Y.B., Peppler, K., & Chapman, R. (Eds.), The computer clubhouse: Creativity and constructionism in youth communities, Chapter 4. New York, NY: Teachers College Press.",
+                    "cat": "scm",
+                    "file": "2009_Peppler_CCch4_MakingWithScratch.pdf"
+                },
+                {
+                    "title": "Video production and dance performances",
+                    "authors": [
+                        "Peppler, K.",
+                        "Kafai, Y. B."
+                    ],
+                    "otherText": "In Kafai, Y. B., Peppler, K., & Chapman, R. (Eds.), The computer clubhouse: Creativity and constructionism in youth communities, Chapter 6. New York, NY: Teachers College Press.",
+                    "cat": "anc",
+                    "file": "2009_Peppler_CCch6_YouthVideoProduction.pdf"
+                }
+            ]
+        },
+        {
+            "year": 2008,
+            "list": [
+                {
+                    "title": "New perspectives on learning through (game) design",
+                    "authors": [
+                        "Hayes, E.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "Published in the proceedings of the 2008 International Conference of the Learning Sciences (ICLS), Utrecht, Netherlands.",
+                    "cat": "gsm",
+                    "file": "2008_Peppler_New_Perspective_Learning.pdf"
+                },
+                {
+                    "title": "Mentoring partnerships in a community technology center: A constructionist approach for fostering equitable service learning",
+                    "authors": [
+                        "Kafai, Y. B.",
+                        "Desai, S.",
+                        "Peppler, K.",
+                        "Chiu, G.",
+                        "Moya, J."
+                    ],
+                    "otherText": "Mentoring & Tutoring, 16(2), (May 2008), pp. 191-205, doi:10.1080/13611260801916614",
+                    "cat": "idl",
+                    "file": "2008_Peppler_Mentoring_Partnerships.pdf"
+                },
+                {
+                    "title": "Media designs with Scratch: What urban youth can learn about programming in a computer clubhouse",
+                    "authors": [
+                        "Maloney, J.",
+                        "Peppler, K.",
+                        "Kafai, Y. B.",
+                        "Resnick, M.",
+                        "Rusk, N."
+                    ],
+                    "otherText": "Published in the proceedings of the 2008 International Conference of the Learning Sciences (ICLS), Utrecht, Netherlands.",
+                    "cat": "scm",
+                    "file": "2008_Peppler_Media_Designs.pdf"
+                },
+                {
+                    "title": "Programming by choice: Urban youth learning programming with Scratch",
+                    "authors": [
+                        "Maloney, J.",
+                        "Peppler, K.",
+                        "Kafai, Y. B.",
+                        "Resnick, M.",
+                        "Rusk, N."
+                    ],
+                    "otherText": "Published in the proceedings by the ACM Special Interest Group on Computer Science Education (SIGCSE) conference, Portland, OR.",
+                    "cat": "scm",
+                    "file": "2008_Peppler_Programming_By_Choice.pdf"
+                },
+                {
+                    "title": "Developing a design culture at the computer clubhouse: The role of local practices and mediators",
+                    "authors": [
+                        "Peppler, K.",
+                        "Kafai, Y. B."
+                    ],
+                    "otherText": "Published in the proceedings of the 2008 International Conference of the Learning Sciences (ICLS), Utrecht, Netherlands.",
+                    "cat": "idl",
+                    "file": "2008_Peppler_Developing_A_Design_Culture.pdf"
+                },
+                {
+                    "title": "Learning from krumping: Collective agency in dance performance cultures",
+                    "authors": [
+                        "Peppler, K.",
+                        "Kafai, Y. B."
+                    ],
+                    "otherText": "Published in the proceedings of the 2008 International Conference of the Learning Sciences (ICLS), Utrecht, Netherlands.",
+                    "cat": "anc",
+                    "file": "2008_Peppler_Learning_From_Krumping.pdf"
+                },
+                {
+                    "title": "New literacies and the learning sciences: A framework for understanding youths’ media arts practices",
+                    "authors": [
+                        "Peppler, K.",
+                        "Kafai, Y. B."
+                    ],
+                    "otherText": "Published in the proceedings of the 2008 International Conference of the Learning Sciences (ICLS), Utrecht, Netherlands.",
+                    "cat": "scm",
+                    "file": "2008_Peppler_New_Literacies.pdf"
+                },
+                {
+                    "title": "Youth as media art designers: Workshops for creative codings",
+                    "authors": [
+                        "Peppler, K.",
+                        "Kafai, Y."
+                    ],
+                    "otherText": "Published in the proceedings of the 2008 Interaction Design for Children (IDC) Conference held at Northwestern University, Chicago, IL.",
+                    "cat": "scm",
+                    "file": "2008_Peppler_Youth_As_Art_Designers.pdf"
+                }
+            ]
+        },
+        {
+            "year": 2007,
+            "list": [
+                {
+                    "title": "Learning in the visual arts and worldviews of young children",
+                    "authors": [
+                        "Catterall, J. S.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "Cambridge Journal of Education, 37(4), pp. 543-560. doi: 10.1080/03057640701705898",
+                    "cat": "anc",
+                    "file": "2007_learning_in_the_visual_arts.pdf"
+                },
+                {
+                    "title": "Learning in the visual arts and worldviews of young children: Where self-efficacy and originality meet",
+                    "authors": [
+                        "Catterall, J. S.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In Evaluating the Impact of Arts and Cultural Education: A European and International Research Symposium, Centre Pompidou, Paris.",
+                    "cat": "anc",
+                    "file": "2007_Peppler_Worldviews.pdf"
+                },
+                {
+                    "title": "Initiation aux arts visuels et vision du monde chez les jeunes enfants: quand confiance en son efficacité et originalité se rencontrent",
+                    "authors": [
+                        "Catterall, J. S.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "(French Translation) In Symposium européen et international de researche: Évaluer les effets de l’éducation artistique et culturelle (pp. 283-293). Paris: La documentation Française.",
+                    "cat": "anc",
+                    "file": "2007_nPeppler_French-Worldviews.pdf"
+                },
+                {
+                    "title": "High tech programmers in low-income communities: Seeding reform in a community technology center",
+                    "authors": [
+                        "Kafai, Y.",
+                        "Peppler, K.",
+                        "Chiu, G."
+                    ],
+                    "otherText": "In C. Steinfield, B. Pentland, M. Ackerman, &. N. Contractor (Eds.), Communities and technologies 2007 (pp. 545-564). New York: Springer.",
+                    "cat": "gsm",
+                    "file": "2007_Peppler_High_Tech_Programmers.pdf"
+                },
+                {
+                    "title": "Collaboration, computation, and creativity: Media arts practices in urban youth cultures",
+                    "authors": [
+                        "Peppler, K.",
+                        "Kafai, Y. B."
+                    ],
+                    "otherText": "Published in the proceedings of the 2007 Computer Supported Collaborative Learning (CSCL) Conference held at Rutgers University, New Brunswick, NJ.",
+                    "cat": "scm",
+                    "file": "2007_Peppler_Collaboration_Computation_Creativity.pdf"
+                },
+                {
+                    "title": "From SuperGoo to Scratch: exploring creative digital media production in informal learning",
+                    "authors": [
+                        "Peppler, K.",
+                        "Kafai, Y."
+                    ],
+                    "otherText": "Learning, Media, and Technology, 32(2), pp. 149-166. DOI:10.1080/17439880701343337",
+                    "cat": "scm",
+                    "file": "2007_Peppler_Supergoo.pdf"
+                },
+                {
+                    "title": "What video game making can teach us about learning and literacy: Alternative pathways into participatory culture",
+                    "authors": [
+                        "Peppler, K.",
+                        "Kafai, Y. B."
+                    ],
+                    "otherText": "In Akira Baba (Ed.), Situated Play: Proceedings of the Third International Conference of the Digital Games Research Association (DiGRA) (pp. 369-376). Tokyo, Japan: The University of Tokyo.",
+                    "cat": "gsm",
+                    "file": "2007_Peppler_Videogame_Making.pdf"
+                }
+            ]
+        },
+        {
+            "year": 2006,
+            "list": [
+                {
+                    "title": "Clubs, homes, and online communities as contexts for engaging youth in technological fluency-building activities",
+                    "authors": [
+                        "Barron, B.",
+                        "Kafai, Y.",
+                        "Joseph, D.",
+                        "Pinkard, N.",
+                        "Resnick, M.",
+                        "Martin, C.",
+                        "Schatz, C.",
+                        "Shapiro, B.",
+                        "Millner, A.",
+                        "Peppler, K.",
+                        "Chiu, G.",
+                        "Desai, S."
+                    ],
+                    "otherText": "Symposium and proceedings published in the 2006 International Conference of the Learning Sciences (pages 1022-1028), Bloomington, IN.",
+                    "cat": "idl",
+                    "file": "2006_Peppler_Clubs_Homes_OnlineCommunities.pdf"
+                },
+                {
+                    "title": "Seeds of a computer culture: An archival analysis of programming artifacts from a community technology center",
+                    "authors": [
+                        "Kafai, Y.",
+                        "Peppler, K.",
+                        "Alavez, M.",
+                        "Ruvalcaba, O."
+                    ],
+                    "otherText": "Proceedings Published in the 2006 International Conference of the Learning Sciences, Bloomington, IN.",
+                    "cat": "scm",
+                    "file": "2006_Peppler_Computer_Culture.pdf"
+                },
+                {
+                    "title": "Ryman Arts 2000-2006: An overview of the program and an assessment of student portfolio work",
+                    "authors": [
+                        "Peppler, K."
+                    ],
+                    "otherText": "(Deliverable to the Ryman Arts Program). Los Angeles, CA: University of California.",
+                    "cat": "anc",
+                    "file": "2006-Peppler_Ryman_Program_Evaluation.pdf"
+                },
+                {
+                    "title": "Year two findings on the arts learning of children enrolled in the LA’s BEST after school arts program",
+                    "authors": [
+                        "Peppler, K.",
+                        "Catterall, J. S."
+                    ],
+                    "otherText": "(Deliverable to the LA’s BEST After-School Arts Program). Los Angeles, CA: University of California.",
+                    "cat": "anc",
+                    "file": "2006_Peppler_YearTwo_Findings_ASAP_Report.pdf"
+                },
+                {
+                    "title": "Creative codings: Investigating cultural, personal, and epistemological connections in media arts programming",
+                    "authors": [
+                        "Peppler, K.",
+                        "Kafai, Y."
+                    ],
+                    "otherText": "Proceedings published in the 2006 International Conference of the Learning Sciences (ICLS), Bloomington, IN.",
+                    "cat": "scm",
+                    "file": "2006_Peppler_Creative_Codings.pdf"
+                }
+            ]
+        }
+    ],
+    "publicationAuthors": [
+        "Peppler, K.",
+        "Bender, S.",
+        "Davis, H.",
+        "Dahn, M.",
+        "Downton, M.",
+        "Glosson, D.",
+        "Garrison, E.",
+        "Huang, J.",
+        "Han, S.",
+        "Keune, A.",
+        "Phonethibsavads, A.",
+        "Shively, K.",
+        "Sampson, K.",
+        "Sedas, M.",
+        "Solomou, M.",
+        "Saxena, P.",
+        "Santo, R.",
+        "Thompson, N.",
+        "Tan, V.",
+        "Uttamchandani, S.",
+        "Yankova, N."
+    ],
+    "social_icons": [
+        "facebook",
+        "twitter",
+        "email",
+        "web",
+        "linkedin"
+    ],
+    "team": [
+        {
+            "name": "Dr. Kylie A. Peppler",
+            "photo": "team_kp.png",
+            "title": "Lab Director",
+            "intro": "Kylie is an Associate Professor in Informatics and Education at University of California, Irvine and Director of the Creativity Labs. An artist by training, she engages in research that focuses on the intersection of arts, media, new technologies, and informal learning.",
+            "social": [
+                {
+                    "type": "email",
+                    "url": "mailto:kpeppler@gmail.com"
+                },
+                {
+                    "type": "twitter",
+                    "url": "http://twitter.com/@DrPeppler"
+                },
+                {
+                    "type": "linkedin",
+                    "url": "https://www.linkedin.com/in/kylie-peppler-a284286"
+                },
+                {
+                    "type": "web",
+                    "url": "http://kpeppler.com/"
+                }
+            ]
+        },
+        {
+            "name": "Emily Schindler",
+            "photo": "team_es.png",
+            "title": "Lab Manager",
+            "intro": "",
+            "social": [
+                {
+                    "type": "email",
+                    "url": "mailto:eschind1@uci.edu"
+                }
+            ]
+        },
+        {
+            "name": "Shenshen Han",
+            "photo": "team_sh.png",
+            "title": "System Specialist",
+            "intro": "Shenshen is currently working as system/software specialist at Creativity Labs. His recent interest mainly lies on exploring the sense of the next generation Internet Computing. He is an enthusiast of computer networks and pervasive computing.",
+            "social": [
+                {
+                    "type": "email",
+                    "url": "mailto:hanaldo520124@gmail.com"
+                },
+                {
+                    "type": "web",
+                    "url": "https://hanaldo.github.io/me/"
+                },
+                {
+                    "type": "linkedin",
+                    "url": "https://www.linkedin.com/in/shenshen-han/"
+                }
+            ]
+        },
+        {
+            "name": "Anna Keune",
+            "photo": "team_ak.png",
+            "title": "Postdoctoral Researcher",
+            "intro": "As a new media artist and designer, she leverages her international experiences across four continents to engage in research that spans across art, technology design, and materiality of learning.",
+            "social": [
+                {
+                    "type": "email",
+                    "url": "mailto:anna.keune@aalto.fi"
+                },
+                {
+                    "type": "twitter",
+                    "url": "https://twitter.com/akeune"
+                },
+                {
+                    "type": "web",
+                    "url": "http://annakeune.com/"
+                }
+            ]
+        },
+        {
+            "name": "Maggie Dahn",
+            "photo": "team_md.png",
+            "title": "Postdoctoral Researcher",
+            "intro": "Maggie Dahn is a postdoctoral scholar working with the Creativity Labs at University of California, Irvine. She received her Ph.D. in Education from UCLA. As a former teacher, her research interests include the design of learning environments and the development of voice and identity through art making.",
+            "social": [
+                {
+                    "type": "email",
+                    "url": "mailto:maggiedahn@gmail.com"
+                },
+                {
+                    "type": "linkedin",
+                    "url": "https://www.linkedin.com/in/maggiedahn/"
+                }
+            ]
+        },
+        {
+            "name": "Naomi Thompson",
+            "photo": "team_nt.png",
+            "title": "Postdoctoral researcher",
+            "intro": "Coming from psychology, education, and arts, Naomi is interested in intersections of arts, making, and broadening STEM participation. She is currently working on systems thinking through play in BioSim, and is involved in the ReCrafting Math project.",
+            "social": [
+                {
+                    "type": "email",
+                    "url": "mailto:naothomp@indiana.edu"
+                },
+                {
+                    "type": "twitter",
+                    "url": "https://twitter.com/_naomithompson_"
+                },
+                {
+                    "type": "web",
+                    "url": "http://naomi-thompson.com/"
+                }
+            ]
+        },
+        {
+            "name": "Joey Huang",
+            "photo": "team_jh.png",
+            "title": "Postdoctoral researcher",
+            "intro": "She received her Ph.D. in Learning and Developmental Sciences from Indiana University Bloomington. Coming from educational psychology and computing, her research focuses on computational thinking, collaboration, and STEM learning. As a learning scientist by training, she aims to create more interesting and inspiring learning environments to promote equity and collaboration.",
+            "social": [
+                {
+                    "type": "email",
+                    "url": "mailto:joey.h@uci.edu"
+                },
+                {
+                    "type": "twitter",
+                    "url": "http://twitter.com/@JoeyYL"
+                },
+                {
+                    "type": "linkedin",
+                    "url": "https://www.linkedin.com/in/chujenhuang"
+                },
+                {
+                    "type": "web",
+                    "url": "http://chujenhuang.com/"
+                }
+            ]
+        },
+        {
+            "name": "Anthony Phonethibsavads",
+            "photo": "test.png",
+            "title": "Postdoctoral researcher",
+            "intro": "Tony fills a unique role in the labs as a specialist in creativity theory and assessment. Prior to joining the Creativity Labs, he worked on projects involving the measurement of creativity beliefs and stereotypes.",
+            "social": [
+                {
+                    "type": "email",
+                    "url": "mailto:anphonet@indiana.edu"
+                }
+            ]
+        },
+        {
+            "name": "Mishael Sedas",
+            "photo": "team_ms.png",
+            "title": "Graduate Student Researcher",
+            "intro": "Mishael is a doctoral student in education with a background in engineering. He is interested in using design to encourage and support interest-driven STEAM learning for non-dominant and low-income populations.",
+            "social": [
+                {
+                    "type": "email",
+                    "url": "mailto:rmsedas@indiana.edu"
+                },
+                {
+                    "type": "twitter",
+                    "url": "https://twitter.com/Mish_Sedas"
+                },
+                {
+                    "type": "linkedin",
+                    "url": "https://www.linkedin.com/pub/mishael-sedas/85/336/305"
+                },
+                {
+                    "type": "web",
+                    "url": "http://www.mishaelsedas.com/"
+                }
+            ]
+        },
+        {
+            "name": "Ernest Garrison",
+            "photo": "team_eg.png",
+            "title": "Graduate Student Researcher",
+            "intro": "Ernest focuses on innovation programming, micro-computing and project-based learning. He is the founding advisor for the Innovator Squad at UCI. Above all, Ernest’s greatest joy is teaching and helping others.",
+            "social": [
+                {
+                    "type": "email",
+                    "url": "mailto:garrisoe@uci.edu"
+                }
+            ]
+        },
+        {
+            "name": "Ariel Han",
+            "photo": "team_ah.png",
+            "title": "Graduate Student Researcher",
+            "intro": "Ariel is a Ph.D. student in informatics at UC Irvine with a background in fine arts, industrial design, and information technology. Her research interests lie in engineering education through playful activities and developing design toolkits for improving creative expressions for young people.",
+            "social": [
+                {
+                    "type": "email",
+                    "url": "mailto:ariel.han87@gmail.com"
+                },
+                {
+                    "type": "twitter",
+                    "url": "https://twitter.com/ArielJiyeon"
+                },
+                {
+                    "type": "linkedin",
+                    "url": "https://www.linkedin.com/in/arieljiyeonhan"
+                },
+                {
+                    "type": "web",
+                    "url": "https://arielhan.com/"
+                }
+            ]
+        },
+        {
+            "name": "Nikki Yankova",
+            "photo": "team_ny.png",
+            "title": "Graduate Student Researcher",
+            "intro": "Nikki is a Ph.D student in Education with a background in math, English literature, and creative writing. She is interested in developing tools to facilitate learning and creative thought to promote mathematical thinking and broadening participation of underrepresented groups in STEM fields.",
+            "social": []
+        }
+    ],
+    "private": [
+        "B017A8VKRSB",
+        "T27U0PZ4J",
+        "IIyar5qeQXlfg",
+        "Jl5MAIbKv4b"
+    ],
+    "partners": [
+        {
+            "link": "https://clalliance.org/",
+            "img": "img/partners/cla_logo.png",
+            "title": "Connected Learning Alliance"
+        },
+        {
+            "link": "http://www.inner-cityarts.org/",
+            "img": "img/partners/ICA_logo.jpg",
+            "title": "Inner-City Arts"
+        },
+        {
+            "link": "https://engineering.purdue.edu/cdesign/wp/",
+            "img": "img/partners/KarthikRamani_DesignLab-Purdue.PNG",
+            "title": "Purdue University's C Design Lab"
+        },
+        {
+            "link": "http://www.media.mit.edu/",
+            "img": "img/partners/MITmedialab2.jpg",
+            "title": "MIT MediaLab"
+        },
+        {
+            "link": "https://www.lrng.org/",
+            "img": "img/partners/LRNGlogo.png",
+            "title": "LRNG at Collective Shift"
+        },
+        {
+            "link": "https://digitalpromise.org/",
+            "img": "img/partners/digitalpromise.png",
+            "title": "Digital Promise"
+        },
+        {
+            "link": "https://staging.leapinnovations.org/",
+            "img": "img/partners/leapinnovations.png",
+            "title": "LEAP Innovations"
+        },
+        {
+            "link": "http://www.listoamerica.org/",
+            "img": "img/partners/ListoAmerica.jpg",
+            "title": "ListoAmerica"
+        },
+        {
+            "link": "https://capechicago.org/",
+            "img": "img/partners/capeLogo.png",
+            "title": "CAPE"
+        },
+        {
+            "link": "https://www.boeing.com/",
+            "img": "img/partners/boeing_logo@2x.png",
+            "title": "Boeing"
+        },
+        {
+            "link": "https://connectedlearning.uci.edu/",
+            "img": "img/partners/cll-logo@2x.png",
+            "title": "Connected Learning Lab"
+        },
+        {
+            "link": "http://www.schellgames.com/",
+            "img": "img/partners/SchellGamesLogoHZ.png",
+            "title": "Schell Games"
+        },
+        {
+            "link": "http://www.theprojectschool.org/",
+            "img": "img/partners/TPSlogo.jpg",
+            "title": "Bloomington Project School"
+        },
+        {
+            "link": "http://www.etc.cmu.edu/",
+            "img": "img/partners/etclogo.png",
+            "title": "Carnegie Mellon University's Entertainment Technology Center"
+        },
+        {
+            "link": "http://www.instructables.com/",
+            "img": "img/partners/Instructables.png",
+            "title": "Instructables.com"
+        },
+        {
+            "link": "http://ecoevodevo.com/",
+            "img": "img/partners/moczeklab.jpg",
+            "title": "Moczek Lab, IU"
+        },
+        {
+            "link": "http://scratch.mit.edu/",
+            "img": "img/partners/scratch.png",
+            "title": "Scratch"
+        },
+        {
+            "link": "http://www.croc-lab.org/",
+            "img": "img/partners/CRoC.PNG",
+            "title": "Center for Research on Creativity"
+        },
+        {
+            "link": "https://gamestarmechanic.com/",
+            "img": "img/partners/GSMlogo.jpg",
+            "title": "Gamestar Mechanic"
+        },
+        {
+            "link": "https://www.media.mit.edu/groups/lifelong-kindergarten/overview/",
+            "img": "img/partners/lifelong.png",
+            "title": "MIT's Lifelong Kindergarten Group"
+        },
+        {
+            "link": "http://www.monroe.lib.in.us/",
+            "img": "img/partners/Monroe_County_Public_Library.png",
+            "title": "Monroe County Public Library"
+        },
+        {
+            "link": "http://www.southfayette.org/",
+            "img": "img/partners/SouthFayettelogo.jpg",
+            "title": "South Fayette School District of Pittsburgh"
+        },
+        {
+            "link": "http://www.chicagosummeroflearning.org/",
+            "img": "img/partners/SummerLearning.png",
+            "title": "Chicago Summer of Learning 2013"
+        },
+        {
+            "link": "http://www.girlscoutsindiana.org/",
+            "img": "img/partners/GirlScouts.png",
+            "title": "Girl Scouts of Central Indiana"
+        },
+        {
+            "link": "https://www.mozilla.org/en-US/foundation/",
+            "img": "img/partners/mozilla.png",
+            "title": "The Mozilla Foundation"
+        },
+        {
+            "link": "https://www.sparkfun.com/",
+            "img": "img/partners/sparkfunlogo.png",
+            "title": "Sparkfun Electronics"
+        },
+        {
+            "link": "http://www.wonderlab.org/",
+            "img": "img/partners/wonderlab-logo.png",
+            "title": "Wonderlab Museum of Science, Health, and Technology"
+        },
+        {
+            "link": "http://www.depaul.edu/",
+            "img": "img/partners/depaul_logo.jpg",
+            "title": "DePaul University"
+        },
+        {
+            "link": "http://highlowtech.org/",
+            "img": "img/partners/HighLowTechGroup.jpg",
+            "title": "High-Low Tech Group"
+        },
+        {
+            "link": "http://makerbridge.si.umich.edu/",
+            "img": "img/partners/makerbridge.png",
+            "title": "MakerBridge"
+        },
+        {
+            "link": "http://www.nwp.org/",
+            "img": "img/partners/nwp_logo.jpg",
+            "title": "The National Writing Project"
+        },
+        {
+            "link": "http://www.gse.upenn.edu/tll",
+            "img": "img/partners/UPenn_logo.jpg",
+            "title": "University of Pennsylvania's Teaching, Learning, and Leadership Division"
+        },
+        {
+            "link": "http://digitalyouthnetwork.org/",
+            "img": "img/partners/DYNlogo.png",
+            "title": "Digital Youth Network"
+        },
+        {
+            "link": "http://imagination.is/",
+            "img": "img/partners/imagination.png",
+            "title": "imagination Foundation"
+        },
+        {
+            "link": "http://makered.org/",
+            "img": "img/partners/makered-new.png",
+            "title": "Maker Education Initiative"
+        },
+        {
+            "link": "http://www.vanderbilt.edu/",
+            "img": "img/partners/vanderbilt2.png",
+            "title": "Vanderbilt University"
+        },
+        {
+            "link": "http://diy.org/",
+            "img": "img/partners/DIY2.png",
+            "title": "DIY.org"
+        },
+        {
+            "link": "http://bgcbloomington.com/",
+            "img": "img/partners/BoysGirlsClubLogo.jpg",
+            "title": "Bloomington Boys and Girls Clubs"
+        },
+        {
+            "link": "http://www.instituteofplay.org/",
+            "img": "img/partners/InstituteOfPlay-logo.png",
+            "title": "Institute of Play"
+        },
+        {
+            "link": "http://dmlhub.net/",
+            "img": "img/partners/dml_logo.png",
+            "title": "Digital Media + Learning"
+        },
+        {
+            "link": "http://www.modkit.com/",
+            "img": "img/partners/modkitlogo.png",
+            "title": "Modkit"
+        }
+    ],
+    "news": [
+        {
+            "title": "Hands-on with <em>Augmented Reality</em> in remote classrooms",
+            "subTitle": "Apr 2020",
+            "media": "<iframe width='500' height='250' src='https://www.youtube.com/embed/WhdrEMY7-YE' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+            "text": "During the COVID-19 pandemic, the Creativity Labs is working with Purdue University on an app platform to help students and teachers to collaborate easily using augmented reality.",
+            "mediaType": "vid"
+        },
+        {
+            "title": "2019 Pass It On Award Winner Spotlight: <em>Anna Keune</em>",
+            "subTitle": "Mar 2020",
+            "text": "\"<a href='https://medium.com/wogrammer/2019-pass-it-on-award-winner-spotlight-anna-keune-544fc1dfa6e5' target='_blank'>Anna Keune remains an inspiring leader in the educational technology space since winning a Systers Pass it On Award in 2019.</a>\"",
+            "media": "news_20200324.png",
+            "mediaType": "img"
+        },
+        {
+            "title": "Dean Richard Arum Interviews Associate Professor <em>Kylie Peppler</em>",
+            "subTitle": "Feb 2020",
+            "media": "<iframe width='700' height='390' src='https://www.youtube.com/embed/BY-q8Un9MwU' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+            "mediaType": "vid"
+        },
+        {
+            "title": "The <em>Connected Learning Research Network</em>: Reflections on a Decade of Engaged Scholarship",
+            "subTitle": "Feb 2020",
+            "text": "\"We seek to understand the varied and often inequitable ways in which technology is deployed and new learning opportunities are accessed.\" The Connected Learning Research Network: Reflections on a Decade of Engaged Scholarship<br/><a href='https://connectedlearning.news/CLRNreportfb' target='_blank'>https://connectedlearning.news/CLRNreportfb</a>",
+            "media": "news_20200203.png",
+            "mediaType": "img"
+        },
+        {
+            "title": "NSF announces <em>awards</em> to shape the human-technology partnership for the well-being of workers and their productivity",
+            "subTitle": "Nov 2018",
+            "text": "The Creativity Labs is part of a National Science Foundation $25 million <a href='https://www.nsf.gov/news/news_summ.jsp?cntn_id=297116' target='_blank'>investment</a> to advance the cognitive and physical capabilities of workers in the context of human-technology interactions.",
+            "mediaType": "img",
+            "media": "news_20181105.jpg"
+        },
+        {
+            "title": "Why <em>Makerspaces</em> are the key to innovation",
+            "subTitle": "Jan 2018",
+            "text": "Edvocate features the work of the Creativity Labs that describes why <a href='https://www.thetechedvocate.org/why-makerspaces-are-the-key-to-innovation/' target='_blank'>makerspaces</a> are a key to innovation and an ideal method for equipping students to succeed in the future.",
+            "mediaType": "img",
+            "media": "news_20170119.jpg"
+        }
+    ]
+}
