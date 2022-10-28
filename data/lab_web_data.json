@@ -246,6 +246,287 @@
     ],
     "publications": [
         {
+            "year": 2021,
+            "list": [
+                {
+                    "_comment": "Comment",
+
+                    "title": "Learning to be Open: Expansive Family Networks and Emotional Support as Connection Pathways",
+                    "authors": [
+                        "Dahn, M.",
+                        "Yankova, N.",
+                        "Peppler, K.",
+                        "Lee, J.",
+                        "Montgomery, A.",
+                        "Sikkema, S.",
+                        "Spilberg, J."
+                    ],
+                    "otherText": "In de Vries, E., Hod, Y., & Ahn, J. (Eds.), Proceedings of the 15th International Conference of the Learning Sciences - ICLS 2021. (pp. 901-902). Bochum, Germany: International Society of the Learning Sciences.",
+                    "cat": "sth",
+                    "file": "2021 - CP57.pdf"
+                },
+
+                {
+                    "_comment": "Comment",
+
+                    "title": "“Way more relevant and a little less  theoretical”: How teaching artists designed for online learning in a pandemic",
+                    "authors": [
+                        "Dahn, M.",
+                        "Yankova, N.",
+                        "Peppler, K.",
+                        "Sikkema, S.",
+                        "Spilberg, J.",
+                        "Lee, J."
+                    ],
+                    "otherText": "Learning, Media, and Technology. https://doi.org/10.1080/17439884.2021.2012801",
+                    "cat": "anc",
+                    "file": "2021 - J40.pdf"
+                },
+
+                {
+                    "_comment": "Comment",
+
+                    "title": "Crafting Human-Material Collaborative Learning Processes and Technology Advances",
+                    "authors": [
+                        "Keune, A.",
+                        "Yankova, N.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In Hmelo-Silver, C. E., De Wever, B., & Oshima, J. (Eds.), Proceedings of the 14th International Conference on Computer-Supported Collaborative Learning - CSCL 2021 (pp. 193-196). Bochum, Germany: International Society of the Learning Sciences.",
+                    "cat": "anc",
+                    "file": "2021 - CP59.pdf"
+                },
+
+                {
+                    "_comment": "Comment",
+
+                    "title": "The Unexamined Influence: An Object’s Perceived Gender on Spatial Reasoning Skills in Girls",
+                    "authors": [
+                        "Keune, A.",
+                        "Zambrano-Gutiérrez, J.",
+                        "Phonethibsavads, A.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In de Vries, E., Hod, Y., & Ahn, J. (Eds.), Proceedings of the 15th International Conference of the Learning Sciences - ICLS 2021. (pp. 629-632). Bochum, Germany: International Society of the Learning Sciences.",
+                    "cat": "sth",
+                    "file": "2021 - CP58.pdf"
+                },
+
+                {
+                    "_comment": "Comment",
+
+                    "title": "Sustainability and scalability of CSCL",
+                    "authors": [
+                        "Law, N.",
+                        "Zhang, J.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In U. Cress, C. Rosé, A. Wise, & J. Oshima (Eds.) International handbook of computer-supported collaborative learning, vol. 19 (pp. 121-141). Springer, Cham.",
+                    "cat": "sth",
+                    "file": "2021 - BC29.pdf"
+                },
+
+                {
+                    "_comment": "Comment",
+
+                    "title": "Observing Empathy in Informal Engineering Activities with Girls Ages 7–14",
+                    "authors": [
+                        "Letourneau, S.",
+                        "Bennett, D.",
+                        "Liu, C.",
+                        "Argudo, Y.",
+                        "Peppler, K.",
+                        "Keune, A.",
+                        "Dahn, M.",
+                        "Culp, K. M."
+                    ],
+                    "otherText": "Journal of Pre-College Engineering Education Research, 11(2), 120–128. https://doi.org/10.7771/2157-9288.135",
+                    "cat": "sth",
+                    "file": "2021 - J44.pdf"
+                },
+
+                {
+                    "_comment": "Comment",
+
+                    "title": "Observing Empathy in Informal Engineering Activities with Girls Ages 7–14",
+                    "authors": [
+                        "Letourneau, S.",
+                        "Bennett, D.",
+                        "Liu, C.",
+                        "Argudo, Y.",
+                        "Peppler, K.",
+                        "Keune, A.",
+                        "Dahn, M.",
+                        "Culp, K. M."
+                    ],
+                    "otherText": "Proceedings of the Annual American Society of Engineering Education Conference & Exhibition (ASEE), Long Beach, CA, United States.",
+                    "cat": "sth",
+                    "file": "2021 - CP61.pdf"
+                },
+
+                {
+                    "_comment": "Comment",
+
+                    "title": "The trouble with steam and why we use it anyway",
+                    "authors": [
+                        "Mejias, S.",
+                        "Thompson, N.",
+                        "Sedas, R. M.",
+                        "Rosin, M.",
+                        "Wong, J.",
+                        "Price, N.",
+                        "Roche, J.",
+                        "Hurley, M.",
+                        "Peppler, K.",
+                        "Soep, L.",
+                        "Bevan, B.",
+                        "Bell, P."
+                    ],
+                    "otherText": "Science Education, 105(2), 209–231. https://doi.org/10.1002/sce.21605",
+                    "cat": "anc",
+                    "file": "2021 - J38.pdf"
+                },
+
+                {
+                    "_comment": "Comment",
+
+                    "title": "Afterword: Dwelling on Making",
+                    "authors": [
+                        "Peppler, K."
+                    ],
+                    "otherText": "In C. McLean & J. Rowell (Eds.) Maker Literacies and Maker Identities in the digital age: Learning and playing through modes and media (pp. 206-208). Routledge.",
+                    "cat": "etx",
+                    "file": "2021 - BC27.pdf"
+                },
+
+                {
+                    "_comment": "Comment",
+
+                    "title": "Artifact-oriented learning: A theoretical review of the impact of the Arts on Learning",
+                    "authors": [
+                        "Peppler, K.",
+                        "Davis-Soylu, H.J.",
+                        "Dahn, M."
+                    ],
+                    "otherText": "Arts Education Policy Review, 1–17. https://doi.org/10.1080/10632913.2021.1925609",
+                    "cat": "anc",
+                    "file": "2021 - J41.pdf"
+                },
+
+                {
+                    "_comment": "Comment",
+
+                    "title": "Cultivating data visualization literacy in museums",
+                    "authors": [
+                        "Peppler, K.",
+                        "Keune, A.",
+                        "Han, A."
+                    ],
+                    "otherText": "Information and Learning Sciences, 122(1/2), 1–16. https://doi.org/10.1108/ILS-04-2020-0132",
+                    "cat": "sth",
+                    "file": "https://doi.org/10.1108/ILS-04-2020-0132"
+                },
+
+                {
+                    "_comment": "Comment",
+
+                    "title": "Consensual assessment in the new domain of e-textiles: Comparing insights from expert, quasi-expert, and novice judges",
+                    "authors": [
+                        "Phonethibsavads, A.",
+                        "Dahn, M.",
+                        "Peppler, K.",
+                        "Fields, D. A.",
+                        "Kafai, Y. B."
+                    ],
+                    "otherText": "Psychology of Aesthetics, Creativity, and the Arts. https://doi.org/10.1037/aca0000370",
+                    "cat": "etx",
+                    "file": "2021 - J37.pdf"
+                },
+
+                {
+                    "_comment": "Saxena, P., Sedas, R. M., & Peppler, K. A. (2021). . ",
+
+                    "title": "Design thinking and the learning sciences: Theoretical, practical, and empirical perspectives",
+                    "authors": [
+                        "Saxena, P.",
+                        "Sedas, R. M.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "Oxford University Press. https://www.oxfordbibliographies.com/view/document/obo-9780199756810/obo-9780199756810-0267.xml",
+                    "cat": "sth",
+                    "file": "2021 - BC28.pdf"
+                },
+
+                {
+                    "_comment": "Sedas, R. M., Peppler, K., & Thompson, N. (2021). .  ",
+
+                    "title": "Breadboards and Paper Circuits: Differences in Advanced Circuitry Learning and PCB Layout Design",
+                    "authors": [
+                        "Sedas, R. M.",
+                        "Peppler, K.",
+                        "Thompson, N."
+                    ],
+                    "otherText": "In de Vries, E., Hod, Y., & Ahn, J. (Eds.), Proceedings of the 15th International Conference of the Learning Sciences - ICLS 2021. (pp. 1149-1150). Bochum, Germany: International Society of the Learning Sciences.",
+                    "cat": "scm",
+                    "file": "2021 - CP60.pdf"
+                },
+
+                {
+                    "_comment": "Spilberg, J., Dahn, M., Yankova, N., Peppler, K. (2021). . ",
+
+                    "title": "How the arts can unlocka closed curriculum",
+                    "authors": [
+                        "Sikkema, S.",
+                        "Lee, J.",
+                        "Spilberg, J.",
+                        "Dahn, M.",
+                        "Yankova, N.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "Phi Delta Kappan, 102(8), 20–25. https://doi.org/10.1177/00317217211013932",
+                    "cat": "anc",
+                    "file": "2021 - J42.pdf"
+                },
+
+                {
+                    "_comment": "Comment",
+
+                    "title": "Towards modeling of human skilling for electrical circuitry using augmented reality applications",
+                    "authors": [
+                        "Villanueva, A.",
+                        "Liu, Z.",
+                        "Kitaguchi, Y.",
+                        "Zhu, Z.",
+                        "Peppler, K.",
+                        "Redick, T.",
+                        "Ramani, K."
+                    ],
+                    "otherText": "International Journal of Educational Technology in Higher Education, 18(1). https://doi.org/10.1186/s41239-021-00268-9",
+                    "cat": "fow",
+                    "file": "2021 - J43.pdf"
+                },
+
+                {
+                    "_comment": "Comment",
+
+                    "title": "RobotAR: An augmented reality compatible teleconsulting robotics toolkit for augmented makerspaces experiences",
+                    "authors": [
+                        "Villanueva, A.",
+                        "Liu, Z.",
+                        "Zhu, Z.",
+                        "Du, X.",
+                        "Huang, J.",
+                        "Peppler, K.",
+                        "Ramani, K."
+                    ],
+                    "otherText": "The ACM CHI Conference on Human Factors in Computing Systems 2021. https://doi.org/10.1145/3411764.3445726",
+                    "cat": "fow",
+                    "file": "2021 - CP56.pdf"
+                }
+            ]
+        },
+
+        {
             "year": 2020,
             "list": [
                 {
