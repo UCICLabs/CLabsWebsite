@@ -428,22 +428,6 @@
                 },
 
                 {
-                    "_comment": "Comment",
-
-                    "title": "Consensual assessment in the new domain of e-textiles: Comparing insights from expert, quasi-expert, and novice judges",
-                    "authors": [
-                        "Phonethibsavads, A.",
-                        "Dahn, M.",
-                        "Peppler, K.",
-                        "Fields, D. A.",
-                        "Kafai, Y. B."
-                    ],
-                    "otherText": "Psychology of Aesthetics, Creativity, and the Arts. https://doi.org/10.1037/aca0000370",
-                    "cat": "etx",
-                    "file": "2021 - J37.pdf"
-                },
-
-                {
                     "_comment": "Saxena, P., Sedas, R. M., & Peppler, K. A. (2021). . ",
 
                     "title": "Design thinking and the learning sciences: Theoretical, practical, and empirical perspectives",
@@ -529,6 +513,23 @@
         {
             "year": 2020,
             "list": [
+
+                {
+                    "_comment": "Comment",
+
+                    "title": "Consensual assessment in the new domain of e-textiles: Comparing insights from expert, quasi-expert, and novice judges",
+                    "authors": [
+                        "Phonethibsavads, A.",
+                        "Dahn, M.",
+                        "Peppler, K.",
+                        "Fields, D. A.",
+                        "Kafai, Y. B."
+                    ],
+                    "otherText": "Psychology of Aesthetics, Creativity, and the Arts. https://doi.org/10.1037/aca0000370",
+                    "cat": "etx",
+                    "file": "2021 - J37.pdf"
+                },
+
                 {
                     "title": "Editorial: Advancing posthumanist perspectives on technology‐rich learning",
                     "authors": [
