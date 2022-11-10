@@ -246,6 +246,8 @@
     ],
     "publications": [
         {
+            "_comment": "TODO 2022 Publications",
+
             "year": 2021,
             "list": [
                 {
@@ -2527,7 +2529,9 @@
         "linkedin"
     ],
     "team": [
+
         {
+            "_comment": "TODO Add Team Members",
             "name": "Dr. Kylie A. Peppler",
             "photo": "team_kp.png",
             "title": "Lab Director",
