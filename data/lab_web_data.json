@@ -247,7 +247,191 @@
     "publications": [
         {
             "_comment": "TODO 2022 Publications",
+            "year": 2022,
+            "list":[
+                {
+                    "_comment": "Schindler, E., & Peppler, K. (2022). . ",
 
+                    "title": "Designing for connected arts learning through culturally sustaining practices",
+                    "authors": [
+                        "Dahn, M.",
+                        "Cawelti, L.",
+                        "Schindler, E.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In: J. Oshima, T. Mochizuki, & Y. Hayashi (Eds.) International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2022 (pp. 1946-1947). Hiroshima, Japan: International Society of the Learning Sciences.",
+                    "cat": "anc"
+                },
+
+                {
+                    "_comment": ". ",
+
+                    "title": "Visualizing Family Engagement in Museum Settings",
+                    "authors": [
+                        "Han, A.",
+                        "Keune, A.",
+                        "Huang, J.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In: J. Oshima, T. Mochizuki, & Y. Hayashi (Eds.) International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2022 (pp. 1904 - 1905). Hiroshima, Japan: International Society of the Learning Sciences.",
+                    "cat": "sth",
+                    "file": "2022 - CP63.pdf"
+                },
+
+                {
+                    "_comment": "CP65",
+
+                    "title": "Crafting paper circuits: Gendered materials for circuitry learning",
+                    "authors": [
+                        "Huang, J.",
+                        "Han, A.",
+                        "Sedas, M.",
+                        "Telfer-Radzat, K.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In J. Oshima, T. Mochizuki, & Y. Hayashi (Eds.) International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2022 (pp. 1293 - 1296). Hiroshima, Japan: International Society of the Learning Sciences.",
+                    "cat": "anc"
+                },
+
+                {
+                    "_comment": " . ",
+
+                    "title": "Towards modeling of virtual reality welding simulators to promote accessible and scalable training",
+                    "authors": [
+                        "Ipsita, A.",
+                        "Erickson, L.",
+                        "Dong, Y.",
+                        "Huang, J.",
+                        "Bushinski, A. K.",
+                        "Saradhi, S.",
+                        "Vilanueva, M. A.",
+                        "Peppler, K.",
+                        "Redick, S. T.",
+                        "Ramani, K."
+                    ],
+                    "otherText": "The ACM CHI Conference on Human Factors in Computing Systems 2022. https://doi.org/10.1145/3491102.3517696",
+                    "cat": "sth",
+                    "file": "2022 - CP62.pdf"
+                },
+
+                {
+                    "_comment": ". ",
+
+                    "title": "Connected portfolios: open assessment practices for maker communities",
+                    "authors": [
+                        "Keune, A.",
+                        "Peppler, K.",
+                        "Dahn, M."
+                    ],
+                    "otherText": "Information and Learning Sciences, Vol. 123 No. 7/8, pp. 462-481. https://doi.org/10.1108/ILS-03-2022-0029",
+                    "cat": "etx",
+                    "file": "https://doi.org/10.1108/ILS-03-2022-0029"
+                },
+
+                {
+                    "_comment": "Peppler, K., , & . (2022). . ",
+
+                    "title": "Mapping Posthuman Methodological Innovation in the Study of Learning",
+                    "authors": [
+                        "Keune, A.",
+                        "Ruiz-Cabello, P.",
+                        "Peppler, K.",
+                        "Chappell, K.",
+                        "Rowsell, J."
+                    ],
+                    "otherText": "In: J. Oshima, T. Mochizuki, & Y. Hayashi (Eds.) International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2022 (pp.113-116). Hiroshima, Japan: International Society of the Learning Sciences.",
+                    "cat": "sth",
+                    "file": "2022 - CP68.pdf"
+                },
+
+                {
+                    "_comment": ". . ",
+
+                    "title": "#Quiltsforpulse: Connected and shared production-centered socio-political activism through craftivism",
+                    "authors": [
+                        "Keune, A.",
+                        "Yankova, N.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "Learning, Media and Technology, 47(2), 251-267. https://doi.org/10.1080/17439884.2021.1961147",
+                    "cat": "anc",
+                    "file": "2022 - J47.pdf"
+                },
+
+                {
+                    "_comment": "Peppler, K. (2022). . ",
+
+                    "title": "Makerspaces: Supporting Creativity and Innovation by Design",
+                    "authors": [
+                        "Peppler, K."
+                    ],
+                    "otherText": "In J. A. Pluck (Ed.), Creativity and Innovation: Theory, Research, and Practice (pp. 265-273). Routledge. https://doi.org/10.4324/9781003233923",
+                    "cat": "sth",
+                    "file": "2022 - BC30.pdf"
+                },
+
+                {
+                    "_comment": ". ",
+
+                    "title": "Connected Arts Learning: Cultivating Equity Through Connected and Creative Educational Experiences",
+                    "authors": [
+                        "Peppler, K.",
+                        "Dahn, M.",
+                        "Ito, M."
+                    ],
+                    "otherText": "Review of Research in Education, 46(1), 264–287. https://doi.org/10.3102/0091732X221084322",
+                    "cat": "sth",
+                    "file": "2022 - J46.pdf"
+                },
+
+                {
+                    "_comment": "J45",
+
+                    "title": "Designing for Interpersonal Connections to Support Empathy in Museum Engineering Exhibits",
+                    "authors": [
+                        "Peppler, K.",
+                        "Keune, A.",
+                        "Dahn, M.",
+                        "Bennett, D.",
+                        "Letourneau, S."
+                    ],
+                    "otherText": "Information and Learning Sciences, 123(3), 129-153.",
+                    "cat": "sth"
+                },
+
+                {
+                    "_comment": "CP64",
+
+                    "title": "Teachers Noticing Student Interest: A Micro-interactional Foundation for Interest-driven Learning",
+                    "authors": [
+                        "Schindler, E.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In: J. Oshima, T. Mochizuki, & Y. Hayashi (Eds.) International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2022 (pp. 2010 - 2011). Hiroshima, Japan: International Society of the Learning Sciences.",
+                    "cat": "sth"
+                },
+
+                {
+                    "_comment": "file2022 - CP66.pdf",
+
+                    "title": "“Keeping them with us”: Constructing equitable online spaces for the theatre classroom",
+                    "authors": [
+                        "Yankova, N.",
+                        "Dahn, M.",
+                        "Peppler, K.",
+                        "Lee, J.",
+                        "Montgomery, A.",
+                        "Moser, S.",
+                        "Sikkema, S."
+                    ],
+                    "otherText": "In: J. Oshima, T. Mochizuki, & Y. Hayashi (Eds.) International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2022 (pp. 2138 - 2139). Hiroshima, Japan: International Society of the Learning Sciences.",
+                    "cat": "sth"
+                }
+            ]
+
+        },
+
+        {
             "year": 2021,
             "list": [
                 {
@@ -529,7 +713,7 @@
                     ],
                     "otherText": "Psychology of Aesthetics, Creativity, and the Arts. https://doi.org/10.1037/aca0000370",
                     "cat": "etx",
-                    "file": "2021 - J37.pdf"
+                    "file": "2020 - J37.pdf"
                 },
 
                 {
