@@ -2719,7 +2719,7 @@
             "name": "Dr. Kylie A. Peppler",
             "photo": "team_kp.png",
             "title": "Lab Director",
-            "intro": "Kylie is an Associate Professor in Informatics and Education at University of California, Irvine and Director of the Creativity Labs. An artist by training, she engages in research that focuses on the intersection of arts, media, new technologies, and informal learning.",
+            "intro": "Kylie is a Professor in Informatics and Education at University of California, Irvine and Director of the Creativity Labs. An artist by training, she engages in research that focuses on the intersection of the arts, computational technologies, and informal learning.",
             "social": [
                 {
                     "type": "email",
@@ -2739,62 +2739,11 @@
                 }
             ]
         },
-        {
-            "name": "Emily Schindler",
-            "photo": "team_es.png",
-            "title": "Lab Manager",
-            "intro": "",
-            "social": [
-                {
-                    "type": "email",
-                    "url": "mailto:eschind1@uci.edu"
-                }
-            ]
-        },
-        {
-            "name": "Shenshen Han",
-            "photo": "team_sh.png",
-            "title": "System Specialist",
-            "intro": "Shenshen is currently working as system/software specialist at Creativity Labs. His recent interest mainly lies on exploring the sense of the next generation Internet Computing. He is an enthusiast of computer networks and pervasive computing.",
-            "social": [
-                {
-                    "type": "email",
-                    "url": "mailto:hanaldo520124@gmail.com"
-                },
-                {
-                    "type": "web",
-                    "url": "https://hanaldo.github.io/me/"
-                },
-                {
-                    "type": "linkedin",
-                    "url": "https://www.linkedin.com/in/shenshen-han/"
-                }
-            ]
-        },
-        {
-            "name": "Anna Keune",
-            "photo": "team_ak.png",
-            "title": "Postdoctoral Researcher",
-            "intro": "As a new media artist and designer, she leverages her international experiences across four continents to engage in research that spans across art, technology design, and materiality of learning.",
-            "social": [
-                {
-                    "type": "email",
-                    "url": "mailto:anna.keune@aalto.fi"
-                },
-                {
-                    "type": "twitter",
-                    "url": "https://twitter.com/akeune"
-                },
-                {
-                    "type": "web",
-                    "url": "http://annakeune.com/"
-                }
-            ]
-        },
+        
         {
             "name": "Maggie Dahn",
             "photo": "team_md.png",
-            "title": "Postdoctoral Researcher",
+            "title": "Associate Project Scientist",
             "intro": "Maggie Dahn is a postdoctoral scholar working with the Creativity Labs at University of California, Irvine. She received her Ph.D. in Education from UCLA. As a former teacher, her research interests include the design of learning environments and the development of voice and identity through art making.",
             "social": [
                 {
@@ -2807,26 +2756,7 @@
                 }
             ]
         },
-        {
-            "name": "Naomi Thompson",
-            "photo": "team_nt.png",
-            "title": "Postdoctoral researcher",
-            "intro": "Coming from psychology, education, and arts, Naomi is interested in intersections of arts, making, and broadening STEM participation. She is currently working on systems thinking through play in BioSim, and is involved in the ReCrafting Math project.",
-            "social": [
-                {
-                    "type": "email",
-                    "url": "mailto:naothomp@indiana.edu"
-                },
-                {
-                    "type": "twitter",
-                    "url": "https://twitter.com/_naomithompson_"
-                },
-                {
-                    "type": "web",
-                    "url": "http://naomi-thompson.com/"
-                }
-            ]
-        },
+        
         {
             "name": "Joey Huang",
             "photo": "team_jh.png",
@@ -2855,7 +2785,7 @@
             "name": "Anthony Phonethibsavads",
             "photo": "test.png",
             "title": "Postdoctoral researcher",
-            "intro": "Tony fills a unique role in the labs as a specialist in creativity theory and assessment. Prior to joining the Creativity Labs, he worked on projects involving the measurement of creativity beliefs and stereotypes.",
+            "intro": "Born and raised in Orange County, Tony graduated from Indiana University Bloomington with a Ph.D in Learning Sciences. With deep roots in the arts (having attended OCSA as a high school student), his work investigates the intersection of learning and creativity. He utilizes a multimethod approach to examine authentic activities in context, such as improvisational theater, digital media integration, and learning analytics.",
             "social": [
                 {
                     "type": "email",
@@ -2863,42 +2793,8 @@
                 }
             ]
         },
-        {
-            "name": "Mishael Sedas",
-            "photo": "team_ms.png",
-            "title": "Graduate Student Researcher",
-            "intro": "Mishael is a doctoral student in education with a background in engineering. He is interested in using design to encourage and support interest-driven STEAM learning for non-dominant and low-income populations.",
-            "social": [
-                {
-                    "type": "email",
-                    "url": "mailto:rmsedas@indiana.edu"
-                },
-                {
-                    "type": "twitter",
-                    "url": "https://twitter.com/Mish_Sedas"
-                },
-                {
-                    "type": "linkedin",
-                    "url": "https://www.linkedin.com/pub/mishael-sedas/85/336/305"
-                },
-                {
-                    "type": "web",
-                    "url": "http://www.mishaelsedas.com/"
-                }
-            ]
-        },
-        {
-            "name": "Ernest Garrison",
-            "photo": "team_eg.png",
-            "title": "Graduate Student Researcher",
-            "intro": "Ernest focuses on innovation programming, micro-computing and project-based learning. He is the founding advisor for the Innovator Squad at UCI. Above all, Ernest’s greatest joy is teaching and helping others.",
-            "social": [
-                {
-                    "type": "email",
-                    "url": "mailto:garrisoe@uci.edu"
-                }
-            ]
-        },
+        
+        
         {
             "name": "Ariel Han",
             "photo": "team_ah.png",
@@ -2923,6 +2819,53 @@
                 }
             ]
         },
+
+        {
+            "name": "Shenshen Han",
+            "photo": "team_sh.png",
+            "title": "Graduate Student Researcher",
+            "intro": "Shenshen is currently working as system/software specialist at Creativity Labs. His recent interest mainly lies on exploring the sense of the next generation Internet Computing. He is an enthusiast of computer networks and pervasive computing.",
+            "social": [
+                {
+                    "type": "email",
+                    "url": "mailto:hanaldo520124@gmail.com"
+                },
+                {
+                    "type": "web",
+                    "url": "https://hanaldo.github.io/me/"
+                },
+                {
+                    "type": "linkedin",
+                    "url": "https://www.linkedin.com/in/shenshen-han/"
+                }
+            ]
+        },
+
+        {
+            "name": "Mishael Sedas",
+            "photo": "team_ms.png",
+            "title": "Graduate Student Researcher",
+            "intro": "Mishael is a doctoral student in education with a background in engineering. He is interested in using design to encourage and support interest-driven STEAM learning for non-dominant and low-income populations.",
+            "social": [
+                {
+                    "type": "email",
+                    "url": "mailto:rmsedas@indiana.edu"
+                },
+                {
+                    "type": "twitter",
+                    "url": "https://twitter.com/Mish_Sedas"
+                },
+                {
+                    "type": "linkedin",
+                    "url": "https://www.linkedin.com/pub/mishael-sedas/85/336/305"
+                },
+                {
+                    "type": "web",
+                    "url": "http://www.mishaelsedas.com/"
+                }
+            ]
+        },
+
         {
             "name": "Nikki Yankova",
             "photo": "team_ny.png",
@@ -2930,6 +2873,7 @@
             "intro": "Nikki is a Ph.D student in Education with a background in math, English literature, and creative writing. She is interested in developing tools to facilitate learning and creative thought to promote mathematical thinking and broadening participation of underrepresented groups in STEM fields.",
             "social": []
         }
+        
     ],
     "private": [
         "B017A8VKRSB",

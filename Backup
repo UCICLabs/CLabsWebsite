@@ -1,0 +1,69 @@
+[ 
+    {
+        "name": "Emily Schindler",
+        "photo": "team_es.png",
+        "title": "Lab Manager",
+        "intro": "",
+        "social": [
+            {
+                "type": "email",
+                "url": "mailto:eschind1@uci.edu"
+            }
+        ]
+    },
+    
+    {
+        "name": "Anna Keune",
+        "photo": "team_ak.png",
+        "title": "Postdoctoral Researcher",
+        "intro": "As a new media artist and designer, she leverages her international experiences across four continents to engage in research that spans across art, technology design, and materiality of learning.",
+        "social": [
+            {
+                "type": "email",
+                "url": "mailto:anna.keune@aalto.fi"
+            },
+            {
+                "type": "twitter",
+                "url": "https://twitter.com/akeune"
+            },
+            {
+                "type": "web",
+                "url": "http://annakeune.com/"
+            }
+        ]
+    },
+
+    {
+        "name": "Naomi Thompson",
+        "photo": "team_nt.png",
+        "title": "Postdoctoral researcher",
+        "intro": "Coming from psychology, education, and arts, Naomi is interested in intersections of arts, making, and broadening STEM participation. She is currently working on systems thinking through play in BioSim, and is involved in the ReCrafting Math project.",
+        "social": [
+            {
+                "type": "email",
+                "url": "mailto:naothomp@indiana.edu"
+            },
+            {
+                "type": "twitter",
+                "url": "https://twitter.com/_naomithompson_"
+            },
+            {
+                "type": "web",
+                "url": "http://naomi-thompson.com/"
+            }
+        ]
+    },
+
+    {
+        "name": "Ernest Garrison",
+        "photo": "team_eg.png",
+        "title": "Graduate Student Researcher",
+        "intro": "Ernest focuses on innovation programming, micro-computing and project-based learning. He is the founding advisor for the Innovator Squad at UCI. Above all, Ernest’s greatest joy is teaching and helping others.",
+        "social": [
+            {
+                "type": "email",
+                "url": "mailto:garrisoe@uci.edu"
+            }
+        ]
+    }
+]
