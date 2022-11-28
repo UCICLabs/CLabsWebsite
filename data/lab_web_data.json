@@ -249,6 +249,22 @@
             "_comment": "TODO 2022 Publications",
             "year": 2022,
             "list":[
+
+                {
+                    "_comment": "Peppler, K., Keune, A., Thompson, N., Saxena, P. (2022). .  ",
+
+                    "title": "Craftland is mathland: Mathematical insight and the generative role of fiber crafts in Maker Education",
+                    "authors": [
+                        "Peppler, K.",
+                        "Keune, A.",
+                        "Thompson, N.",
+                        "Saxena, P."
+                    ],
+                    "otherText": "Frontiers in Education, 7. https://doi.org/10.3389/feduc.2022.1029175",
+                    "cat": "etx",
+                    "file": "2022 - J49.pdf"
+                },
+
                 {
                     "_comment": "Schindler, E., & Peppler, K. (2022). . ",
 
