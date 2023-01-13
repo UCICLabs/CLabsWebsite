@@ -2809,8 +2809,97 @@
                 }
             ]
         },
-        
-        
+
+        {
+            "name": "Aakriti Bisht",
+            "photo": "team_ab.png",
+            "title": "Graduate Student Researcher",
+            "intro": "Aakriti is a Ph.D student in Education with a background in Science, Arts and Education. Prior to joining the program she was working on community based education programs in India which motivated her research interest around the importance of out-of-school learning spaces and the role of community in it.",
+            "social": [
+                {
+                    "type": "email",
+                    "url": "mailto:abisht1@uci.edu"
+                },
+                {
+                    "type": "twitter",
+                    "url": "https://twitter.com/bisht_aakriti"
+                },
+                {
+                    "type": "linkedin",
+                    "url": "http://linkedin.com/in/aakriti-bisht-2230a6123"
+                }
+            ]
+        },
+
+        {
+            "name": "Zhenyao Cai",
+            "photo": "team_zc.png",
+            "title": "Graduate Student Researcher",
+            "intro": "Zhenyao Cai is a first-year Ph.D. student in Education. Her previous research projects involved tech-enhanced collaborative learning, AI literacy, maker education, and AR and embodied learning. In the long term, she wants to design and build technologies that involve participants in STEM learning at scale, and to investigate how the interactions that these technologies afford can shape and transform learners’ cognitive and affective capabilities.",
+            "social": [
+                {
+                    "type": "email",
+                    "url": "mailto:abisht1@uci.edu"
+                },
+                {
+                    "type": "twitter",
+                    "url": "https://twitter.com/ZhenyaoC"
+                },
+                {
+                    "type": "web",
+                    "url": "https://zhenyao-cai.github.io/"
+                }
+            ]
+        },
+
+        {
+            "name": "Lora Cawelti",
+            "photo": "team_lc.png",
+            "title": "Graduate Student Researcher",
+            "intro": "Lora Cawelti is a Ph.D. student in Education with a background in performing arts, teaching artistry, and arts programming in schools and community spaces. She is focused on understanding unique arts learning pathways and designing for arts learning that is rooted in inclusive, culturally sustaining pedagogies. Lora is interested in community engaged research practices and research practice partnerships.",
+            "social": [
+                {
+                    "type": "web",
+                    "url": "https://education.uci.edu/phd-cawelti-l.html"
+                },
+                {
+                    "type": "linkedin",
+                    "url": "https://www.linkedin.com/in/lora-cawelti-b135034/"
+                }
+            ]
+        },
+
+
+        {
+            "name": "Phebe Chew",
+            "photo": "team_pc.png",
+            "title": "Graduate Student Researcher",
+            "intro": "Phebe Chew is a Ph.D. student in Education. She is interested in sociocultural perspectives around learning in out-of-school spaces, with special interest around how identity and relationships shape learning in the culinary arts and food media. She has experience in community-based research, ethnographic approaches, life history approaches, and participatory design.",
+            "social": [
+                {
+                    "type": "linkedin",
+                    "url": "https://www.linkedin.com/in/phebechew/"
+                }
+            ]
+        },
+
+        {
+            "name": "Mengqi Gao",
+            "photo": "team_mg.png",
+            "title": "Graduate Student Researcher",
+            "intro": "Mengqi is a Ph.D. student in Informatics with a background in arts and game design. Mengqi's research focuses on the intersection of arts, AI, and ethics.",
+            "social": [
+                {
+                    "type": "email",
+                    "url": "mailto:mengqig1@uci.edu"
+                },
+                {
+                    "type": "web",
+                    "url": "https://www.mengqigao.com/"
+                }
+            ]
+        },
+
         {
             "name": "Ariel Han",
             "photo": "team_ah.png",
@@ -2858,6 +2947,23 @@
         },
 
         {
+            "name": "Santiago Ojeda-Ramirez",
+            "photo": "team_sor.png",
+            "title": "Graduate Student Researcher",
+            "intro": "Santiago Ojeda-Ramirez is a Ph.D. student in Education. His background spans fields as engineering, literature and digital humanities. He is interested in sociocultural perspectives around STEAM education and more specifically Computer Science Education. He is also interested in Computational and Ai Literacies in intersection with Latine and Hispanic Culture. He has experience using both quantitative and qualitative methods and community-based research.",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://twitter.com/santiagojedar"
+                },
+                {
+                    "type": "web",
+                    "url": "http://santiagojedaramirez.com/"
+                }
+            ]
+        },
+
+        {
             "name": "Mishael Sedas",
             "photo": "team_ms.png",
             "title": "Graduate Student Researcher",
@@ -2883,11 +2989,37 @@
         },
 
         {
+            "name": "Seth Van Doren",
+            "photo": "team_svd.png",
+            "title": "Graduate Student Researcher",
+            "intro": "Seth is a PhD student in Education interested in designing STEM learning experiences using participatory design research methods that center the values, desires, and aspirations of the groups that will engage with them. His experiences conducting design-based research and engaging in co-design with youth, informal science educators, science content experts, and researchers have shaped his current research interests.",
+            "social": [
+                {
+                    "type": "linkedin",
+                    "url": "https://www.linkedin.com/in/seth-van-doren-75a987174"
+                }
+            ]
+        },
+
+        {
             "name": "Nikki Yankova",
             "photo": "team_ny.png",
             "title": "Graduate Student Researcher",
             "intro": "Nikki is a Ph.D student in Education with a background in math, English literature, and creative writing. She is interested in developing tools to facilitate learning and creative thought to promote mathematical thinking and broadening participation of underrepresented groups in STEM fields.",
             "social": []
+        },
+
+        {
+            "name": "Ulia Zaman",
+            "photo": "team_uz.jpg",
+            "title": "Undergraduate Student Researcher ",
+            "intro": "Ulia Zaman is a undergraduate Computer Science student. She has a passion for software programming and is interested in exploring the possibilities of AI in our daily lives.",
+            "social": [
+                {
+                    "type": "linkedin",
+                    "url": "https://www.linkedin.com/in/uliazaman/"
+                }
+            ]
         }
         
     ],
