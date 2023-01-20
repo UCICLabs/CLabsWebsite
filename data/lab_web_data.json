@@ -245,8 +245,44 @@
         }
     ],
     "publications": [
+
         {
-            "_comment": "TODO 2022 Publications",
+            "_comment": "TODO 2023 Publications",
+            "year": 2023,
+            "list":[
+
+                {
+                    "_comment": "Dahn, M., Peppler, K., & Ito, M. (2023). ",
+
+                    "title": "“We hear everyday, ‘This isn’t me.’” Translating interests toward STEM through entrepreneurial making",
+                    "authors": [
+                        "Dahn, M.",
+                        "Peppler, K.",
+                        "Ito, M."
+                    ],
+                    "otherText": "Frontiers, 7(2), 1-6. https://doi.org/10.3389/feduc.2022.1033742",
+                    "cat": "sth",
+                    "file": "2023 - J51.pdf"
+                },
+               
+                {
+                    "_comment": "file2023 - J50.pdf; Peppler, K., Sedas, M., & Thompson, N. (2023). . ",
+
+                    "title": "Paper Circuits vs. Breadboards: Materializing Learners’ Powerful Ideas Around Circuitry and Layout Design",
+                    "authors": [
+                        "Peppler, K.",
+                        "Sedas, M.",
+                        "Thompson, N."
+                    ],
+                    "otherText": "Journal of Science Education and Technology.",
+                    "cat": "scm"
+                }
+            ]
+
+        },
+
+        {
+            "_comment": "2022 Publications",
             "year": 2022,
             "list":[
 
