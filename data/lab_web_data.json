@@ -2791,7 +2791,37 @@
                 }
             ]
         },
-        
+
+        {
+            "name": "Julie Herrick",
+            "photo": "team_julieh.png",
+            "title": "Head of Operations",
+            "intro": "Julie Herrick joined the CLL team in 2018 as the program administrator. In July of 2020 Julie became the head of operations for the CLL.She brings nearly two decades of experience in nonprofit administration and event planning. She holds a bachelor’s degree in organizational leadership from Chapman University.",
+            "social": [
+                {
+                    "type": "web",
+                    "url": "https://connectedlearning.uci.edu/"
+                },
+                {
+                    "type": "linkedin",
+                    "url": "https://linkedin.com/in/julieherrick"
+                }
+            ]
+        },
+
+        {
+            "name": "Jenna Abrams",
+            "photo": "team_ja.png",
+            "title": "Program Administrator",
+            "intro": "Jenna Abrams is a Program Administrator at the Connected Learning Lab, where she assists administratively on CLL research projects alongside managing the CLA newsletter and blog. She holds an MFA in Writing from UC Irvine.",
+            "social": [
+                {
+                    "type": "email",
+                    "url": "mailto:jlabrams@uci.edu"
+                }
+            ]
+        },
+
         {
             "name": "Maggie Dahn",
             "photo": "team_md.png",
@@ -2805,6 +2835,19 @@
                 {
                     "type": "linkedin",
                     "url": "https://www.linkedin.com/in/maggiedahn/"
+                }
+            ]
+        },
+
+        {
+            "name": "Seth Corrigan",
+            "photo": "team_sc.png",
+            "title": "Associate Project Scientist",
+            "intro": "Seth Corrigan is a research scientist working with the Creativity Labs at University of California, Irvine. He specializes in the use of quantitative methods with a focus on measurement, psychometrics and machine learning to develop novel learning and assessment technologies.",
+            "social": [
+                {
+                    "type": "linkedin",
+                    "url": "https://www.linkedin.com/in/seth-corrigan-9a238945/"
                 }
             ]
         },
@@ -2835,13 +2878,38 @@
         },
         {
             "name": "Anthony Phonethibsavads",
-            "photo": "test.png",
+            "photo": "team_tp.png",
             "title": "Postdoctoral researcher",
             "intro": "Born and raised in Orange County, Tony graduated from Indiana University Bloomington with a Ph.D in Learning Sciences. With deep roots in the arts (having attended OCSA as a high school student), his work investigates the intersection of learning and creativity. He utilizes a multimethod approach to examine authentic activities in context, such as improvisational theater, digital media integration, and learning analytics.",
             "social": [
                 {
                     "type": "email",
                     "url": "mailto:anphonet@indiana.edu"
+                }
+            ]
+        },
+
+        {
+            "name": "Layne Jackson Hubbard",
+            "photo": "team_ljh.png",
+            "title": "Postdoctoral Researcher",
+            "intro": "Layne is a Computing Innovation Fellow in the School of Education, with a triple Ph.D. in computer science, cognitive science, and neuroscience from the University of Colorado Boulder. As a former preschool teacher, Layne loves exploring how playful interaction design can support young children in sharing their ideas with the world.",
+            "social": [
+                {
+                    "type": "email",
+                    "url": "mailto:layneh@uci.edu"
+                },
+                {
+                    "type": "twitter",
+                    "url": "https://twitter.com/yolayne"
+                },
+                {
+                    "type": "linkedin",
+                    "url": "http://linkedin.com/in/dreamlayne"
+                },
+                {
+                    "type":"web",
+                    "url":"https://laynes.world/"
                 }
             ]
         },
