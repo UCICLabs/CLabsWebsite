@@ -276,6 +276,25 @@
                     ],
                     "otherText": "Journal of Science Education and Technology.",
                     "cat": "scm"
+                },
+
+                {
+                    "_comment": "Zhu, Z., Liu, Z., Zhang Y., Zhu, L., Huang, J., Villanueva, A., Qian, X., Peppler, K., Ramani, K. (2023).  ",
+
+                    "title": "LearnIoTVR: An End-to-end Virtual Reality Environment Providing Authentic Learning Experiences for Internet of Things",
+                    "authors": [
+                        "Zhu, Z.",
+                        "Liu, Z.",
+                        "Zhang, Y.",
+                        "Zhu, L.",
+                        "Huang, J.",
+                        "Villanueva, A.",
+                        "Qian, X.",
+                        "Peppler, K.",
+                        "Ramani, K."
+                    ],
+                    "otherText": "The ACM CHI Conference on Human Factors in Computing Systems 2023.",
+                    "cat": "fow"
                 }
             ]
 
