@@ -690,9 +690,11 @@
             <img src="img/projects/project_details_narr_1.jpg" alt="" class="project-details-img">
             <span class="project-details-sub-title"><em>Representative Publications</em></span>
             <p>
-                <!--p>
-                    Letourneau, S., Bennett, D., Liu, C., Argudo, Y., Peppler, K., Keune, A., Dahn, M., Culp, K. M.,  (2021). "Observing Empathy in Informal Engineering Activities with Girls Ages 7–14". Journal of Pre-College Engineering Education Research, 11(2), 120–128. https://doi.org/10.7771/2157-9288.135
-                </p-->
+
+                <my-simple-pub-item v-bind:show-year="2021" v-bind:paper="getPaper(2021, 'with Girls Ages 7–14')">
+                </my-simple-pub-item>
+
+
                 <my-simple-pub-item v-bind:show-year="2020" v-bind:paper="getPaper(2020, 'pathways to engineering')">
                 </my-simple-pub-item>
                 <my-simple-pub-item v-bind:show-year="2020" v-bind:paper="getPaper(2020, 'data in science museums')">
