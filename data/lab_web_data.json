@@ -264,6 +264,47 @@
                     "cat": "sth",
                     "file": "2023 - J51.pdf"
                 },
+
+                {
+                    "_comment": "Han, A (2023).  ",
+
+                    "title": "Implications of AI art generators to broaden visual literacy and creative expression for young learners",
+                    "authors": [
+                        "Han, A."
+                    ],
+                    "otherText": "International Society of the Learning Sciences (ISLS) Annual Meeting 2023. International Society of the Learning Sciences.",
+                    "cat": "sug",
+                    "file": "2023 - J23HanImplications.pdf"
+                },
+
+                {
+                    "_comment": "Han, A., Cai, Z., Jeong, S., & Choi, S. M. (2023). . ",
+
+                    "title": "AIStory: design implication of using generative arts AI for visual storytelling",
+                    "authors": [
+                        "Han, A.",
+                        "Cai, Z.",
+                        "Jeong, S.",
+                        "Choi, S. M."
+                    ],
+                    "otherText": "Child-Centred AI Design: Definition, Operation, and Considerations ACM CHI 2023 Workshop.",
+                    "cat": "sug",
+                    "file": "2023 - J23HanAIStory.pdf"
+                },
+
+                {
+                    "_comment": "Peppler, K., Dahn, M., & Ito, M. (2023). . The Wallace Foundation.",
+
+                    "title": "The Connected Arts Learning Framework: An expanded view of the purposes and possibilities for arts learning",
+                    "authors": [
+                        "Peppler, K.",
+                        "Dahn, M.",
+                        "Ito, M."
+                    ],
+                    "otherText": "The Wallace Foundation.",
+                    "cat": "sug",
+                    "file": "2023 - W23ConnectedArtsLearning.pdf"
+                },
                
                 {
                     "_comment": "file2023 - J50.pdf; Peppler, K., Sedas, M., & Thompson, N. (2023). . ",
@@ -317,6 +358,24 @@
                     ],
                     "otherText": "In: J. Oshima, T. Mochizuki, & Y. Hayashi (Eds.) International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2022 (pp. 1946-1947). Hiroshima, Japan: International Society of the Learning Sciences.",
                     "cat": "anc"
+                },
+
+                {
+                    "_comment": "Han, A., Huang, J., Villanueva, A. M., Peppler, K. A., Liu, Z., Zhu, Z., & Ramani, K. (2022). . ",
+
+                    "title": "Coding a MacGuffin: Recommendations for Teaching Narrative-based IoT Design",
+                    "authors": [
+                        "Han, A.",
+                        "Huang, J.",
+                        "Villanueva, A.",
+                        "Peppler, K.",
+                        "Liu, Z.",
+                        "Zhu, Z.",
+                        "Ramani, K."
+                    ],
+
+                    "otherText": "In Proceedings of the 2022 AERA.",
+                    "cat": "sug"
                 },
 
                 {
