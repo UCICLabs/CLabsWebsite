@@ -76,17 +76,18 @@
             "id": "ceica",
             "pic": "img/projects/project_icon_ceica.png",
             "title": "Creative Economy at Inner-City Arts",
-            "abstract": "<strong>Funded by the Donald Bren School of ICS Dean’s Office and Department of Informatics</strong><br/>This project, Workforce Readiness for the Creative Economy of Southern California: Developing Pathways for Youth through Research-Practice Partnership, funded by UC-Irvine’s Donald Bren School of Information and Computer Sciences, builds on...",
+            "abstract": "<strong>Funded by the Donald Bren School of ICS Dean’s Office and Department of Informatics</strong><br/>This project, Workforce Readiness for the Creative Economy of Southern California: Developing Pathways for Youth through Research-Practice Partnership, funded by UC-Irvine’s Donald Bren School of Information and Computer Sciences, is interested in understanding (1) how the arts can equip youth with foundational skills to enter and thrive in the creative economy of Southern California and (2) how personalized learning pathways create bridges between youth’s interests, skills, and authentic learning opportunities to build youth’s social networks and prepare them for the future of work...",
             "groups": [
                 0,
                 2
-            ]
+            ],
+            "done": true
         },
         {
             "id": "narr",
             "pic": "img/projects/project_icon_narr.png",
             "title": "How Narrative Elements Shape Girls' Engagement in Engineering",
-            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=1712803&HistoricalAwards=false\" target=\"blank\">(DRL #1712803)</a></strong><br/>This project will systematically investigate whether and how narrative elements of engineering design activities can influence engagement with those activities...",
+            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=1712803&HistoricalAwards=false\" target=\"blank\">(DRL #1712803)</a></strong><br/>This project systematically investigated whether and how narrative elements of engineering design activities can influence engagement with those activities. The goal was to build evidence-based guidance for exhibit and program development and for facilitation of engineering design activities that can provide equitable, effective engineering design experiences for girls, who are often weakly engaged by challenge-based engineering design activities...",
             "groups": [
                 1
             ]
