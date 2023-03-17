@@ -139,7 +139,7 @@
             "pic": "img/projects/project_icon_makered.png",
             "title": "Maker Ed Open Portfolio Project",
             "link": "http://makered.org/",
-            "abstract": "<strong>Funded by The Gordon and Betty Moore Foundation</strong><br/>The Open Portfolio Project is aimed at developing technology solutions and a common set of practices for portfolio creation, reflection, sharing, and assessment. Through our investigations we will develop a guiding philosophy of what constitutes an open and decentralized lifetime portfolio system for makers...",
+            "abstract": "<strong>Funded by The Gordon and Betty Moore Foundation</strong><br/>The Open Portfolio Project aimed to develop technology solutions and a common set of practices for portfolio creation, reflection, sharing, and assessment. Through our investigations we developed a guiding philosophy of what constitutes an open and decentralized lifetime portfolio system for makers....",
             "groups": [
                 1
             ],
@@ -150,7 +150,7 @@
             "pic": "img/projects/project_icon_biosim.png",
             "title": "BioSim",
             "link": "https://sites.uci.edu/biosim/",
-            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=1324047\" target=\"blank\">(IIS #1324047)</a></strong><br/>Complex systems are widespread and the conceptual ability to describe and examine complex-systems-related concepts is generative, supporting youth in potentially understanding a wide range of issues across domains...",
+            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=1324047\" target=\"blank\">(IIS #1324047)</a></strong><br/>BioSim, a participatory simulation where young students (grades K-3) enact the roles of honeybee and army ants in biological systems through the assistance of computer-enhanced e-puppets, is designed to elevate youths’ understanding of complex systems though novel combinations of play, reflection, interaction, and exploration...",
             "groups": [
                 1
             ],
@@ -160,7 +160,7 @@
             "id": "inter",
             "pic": "img/projects/project_icon_inter.png",
             "title": "A Systems Approach to Curriculum for Schools and After-School Spaces",
-            "abstract": "<strong>Funded by the John D. and Catherine T. MacArthur Foundation</strong><br/>Through a collaborative effort across a leading group of designers and educators from the Creativity Labs @ Indiana University, Vanderbilt University, Institute of Play, the Digital Youth Network and...",
+            "abstract": "<strong>Funded by the John D. and Catherine T. MacArthur Foundation</strong><br/>Interconnections: Understanding Systems through Digital Designs, is a curriculum designed for school and non-school use and builds on the existing work of educators, management theorists, designers, and learning scientists who are aiming to promote systems thinking in young people...",
             "groups": [
                 1
             ],
@@ -180,7 +180,7 @@
             "id": "scratch",
             "pic": "img/projects/project_icon_scratch.png",
             "title": "Scratch for Media Art Making",
-            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=0325828\" target=\"blank\">(IIS #0325828)</a> and Spencer Foundation</strong><br/>While new technologies have been largely absent in arts education curriculum, they offer opportunities to address arts integration, equity, and the technological prerequisites of an increasingly digital age...",
+            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=0325828\" target=\"blank\">(IIS #0325828)</a> and Spencer Foundation</strong><br/>Peppler’s dissertation work draws upon the emerging professional field of “media arts” and the ways that youth use Scratch and other new technologies for communication as a way to design a 21st century K-12 arts education curriculum...",
             "groups": [
                 1
             ],
@@ -190,7 +190,7 @@
             "id": "fow",
             "pic": "img/projects/project_icon_fow.png",
             "title": "Future of Work at the Human-Technology Frontier",
-            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=1839896&HistoricalAwards=false\" target=\"blank\">(DUE #1839896)</a></strong><br/>It is known that the U.S. manufacturing industry has lost its global market share in past decades while less developed countries have increased their manufacturing capabilities...",
+            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=1839896&HistoricalAwards=false\" target=\"blank\">(DUE #1839896)</a></strong><br/>Our project takes a multidisciplinary approach to address new technologies for more effective collaboration between workers, robotics, IoT, and AI into the product lifecycle, as well as the ramifications that this shift has on education systems and labor economics...",
             "groups": [
                 2
             ]
@@ -199,7 +199,7 @@
             "id": "caccel",
             "pic": "img/projects/project_icon_caccel.png",
             "title": "Skill-LeARn: Augmented Reality Platform for Scaling Workforce Training",
-            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937036&HistoricalAwards=false\" target=\"blank\">(OIA #1937036)</a></strong><br/>The National Science Foundation (NSF) recently handed out 43 awards totaling $39 million through its Convergence Accelerator pilot. The program is “leveraging multidisciplinary research teams...",
+            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937036&HistoricalAwards=false\" target=\"blank\">(OIA #1937036)</a></strong><br/>Through the lens of learning sciences, we aim to create and improve current approaches to pre-skill a new generation of workers as well as refine our approach for industry re-skilling efforts in the future of work...",
             "groups": [
                 2
             ]
@@ -217,7 +217,7 @@
             "id": "makevis",
             "pic": "img/projects/project_icon_makevis.png",
             "title": "Advancing Data Visualization Literacy in Museums",
-            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=1713567\" target=\"blank\">(DRL #1713567)</a></strong><br/>This Innovations in Development AISL project is motivated by the insight that in the information age, being able to “read and write” data visualizations is becoming as important as being able to read and write text...",
+            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=1713567\" target=\"blank\">(DRL #1713567)</a></strong><br/>This innovations in Development AISL project is motivated by the insight that in the information age, being able to 'read and write' data visualizations is becoming as important as being able to read and write text..",
             "groups": [
                 2
             ]
@@ -238,11 +238,112 @@
             "pic": "img/projects/project_icon_hive.png",
             "title": "Hive Research Lab",
             "link": "http://hiveresearchlab.org/",
-            "abstract": "<strong>Funded by the Spencer Foundation, John D. and Catherine T. MacArthur Foundation, and New York Community Trust</strong><br/>Hive Research Lab is a research-practice partnership led by Indiana University and New York University that studies and collaborates with the Mozilla Hive NYC Learning Network...",
+            "abstract": "<strong>Funded by the Spencer Foundation, John D. and Catherine T. MacArthur Foundation, and New York Community Trust</strong><br/>Hive Research Lab is a research-practice partnership led by Indiana University and New York University that studies and collaborates with the Mozilla Hive NYC Learning Network. Its research and collaborations with Hive NYC members have produced insights around participatory knowledge building methodologies, the affordances of “Working Open” in a distributed network, and the importance of brokering learning opportunities as a way to support youth pathways...",
             "groups": [
                 2
             ],
             "done": true
+        },
+
+        {
+            "id": "aixr",
+            "pic": "img/projects/project_icon_aixr.png",
+            "title": "Exploring Tacit Knowledge with AI and XR",
+            "abstract": "<strong>Funded by the National Science Foundation.</strong><br/>This project deepens the fundamental understanding of tacit knowledge through a mixed-method research framework to clear a pathway to develop a feasible solution to train future machinists and understand the acquisition and transmission of tacit knowledge in workplace settings...",
+            "groups": [
+                2
+            ]
+        },
+
+        {
+            "id": "rcs",
+            "pic": "img/projects/project_icon_rcs.png",
+            "title": "ReCrafting Computer Science",
+            "abstract": "<strong>Funded by the National Science Foundatation (ECR-EHR-2100401).</strong><br/>Concretizing Computational Thinking via Tangible Fiber Crafts...",
+            "groups": [
+                0,1
+            ]
+        },
+
+        {
+            "id": "teecap",
+            "pic": "img/projects/project_icon_teecap.png",
+            "title": "Tracing the Enduring Effects of Community Arts Programs (TEECAP)",
+            "abstract": "<strong>Funded by the Wallace Foundation.</strong><br/>The TEECAP project gathers and analyzes extensive life history interviews with former participants of community arts out-of-school programs to gain insight into how attendance and participation in such programs influenced participants’ understanding of the value and meaning of these informal arts learning experiences over the life course...",
+            "groups": [
+                0
+            ]
+        },
+
+        {
+            "id": "moonshot",
+            "pic": "img/projects/project_icon_moonshot.png",
+            "title": "Making Connections for the Million Girl Moonshot",
+            "abstract": "<strong>Funded by STEM Next Opportunity Fund and the Gordon and Betty Moore Foundation.</strong><br/>Through research with partners on the national, state, and local program levels, this project leverages the connected learning framework to study the strategies and models STEM programs use and create to support middle school girls through transitions from one out-of-school STEM program to another or to specific in-school support programs...",
+            "groups": [
+                1,2
+            ]
+        },
+
+        {
+            "id": "library",
+            "pic": "img/projects/project_icon_library.png",
+            "title": "Connected Learning in Libraries",
+            "abstract": "<strong>Funded by the City of Santa Ana.</strong><br/>This project aims build capacity among librarians and library staff around interest driven learning in libraries...",
+            "groups": [
+                0,1
+            ]
+        },
+
+        {
+            "id": "calearning",
+            "pic": "img/projects/project_icon_calearning.png",
+            "title": "Connected Arts Learning",
+            "abstract": "<strong>Funded by the Wallace Foundation.</strong><br/>The connected arts learning project calls attention to how community arts programs intentionally foster not only youth achievements within the arts or academics, but also youth and community thriving—through outcomes such as youth civic engagement, occupational identities, and wellness...",
+            "groups": [
+                0
+            ]
+        },
+
+        {
+            "id": "humanrobo",
+            "pic": "img/projects/project_icon_humanrobo.png",
+            "title": "Designing Future Factory Human-Robot Workflows",
+            "abstract": "<strong>Funded by the National Science Foundation (DUE-1931227).</strong><br/>Understanding and designing human-robot workflows for the future using a physical simulation platform...",
+            "groups": [
+                2
+            ]
+        },
+
+        {
+            "id": "orch",
+            "pic": "img/projects/project_icon_orch.png",
+            "title": "AI For Classroom Orchestration",
+            "abstract": "<strong>Funded by Digital Promise.</strong><br/>This project advanced a Research-Practice-Industry Partnership (RPIP) model for the development of AI that can be introduced into classrooms in ways that augment teaching and learning...",
+            "groups": [
+                2
+            ]
+        },
+
+        {
+            "id": "summer",
+            "pic": "img/projects/project_icon_summer.png",
+            "title": "Encouraging Wonderment via Summer STEAM",
+            "link":"https://designmakelearn.org/",
+            "abstract": "<strong>Funded by Design, Make, Learn and in partnership with the Long Beach Unified School District.</strong><br/>This research and evaluation partnership centers on design thinking and making in out-of-school learning...",
+            "groups": [
+                0,1
+            ]
+        },
+
+        {
+            "id": "immrobo",
+            "pic": "img/projects/project_icon_immrobo.png",
+            "title": "Intelligent Immersive Environments for Learning Robotics",
+            "abstract": "<strong>Funded by the National Science Foundation (#2202611).</strong><br/>This research and development effort is creating immersive and responsive environments for robotics instruction...",
+            "groups": [
+                2
+            ]
         }
     ],
     "publications": [
@@ -2902,6 +3003,19 @@
         },
 
         {
+            "name": "Amanda Wortman",
+            "photo": "team_aw.png",
+            "title": "Senior Research Manager",
+            "intro": "Amanda is the Senior Research Manager of the Connected Learning Lab, and has been with the CLL since 2011. Building on her experiences as a statistician at the Center for Research on Information Technology and Organizations (UC Irvine) and a program coordinator at a local education nonprofit, Amanda serves as the data and research manager for the Lab’s research projects. She holds a Masters degree in Demographic and Social Analysis from UC Irvine.",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "http://twitter.com/@DMLamanda"
+                }
+            ]
+        },
+
+        {
             "name": "Maggie Dahn",
             "photo": "team_md.png",
             "title": "Associate Project Scientist",
@@ -2921,7 +3035,7 @@
         {
             "name": "Seth Corrigan",
             "photo": "team_sc.png",
-            "title": "Associate Project Scientist",
+            "title": "R&D Scientist",
             "intro": "Seth Corrigan is a research scientist working with the Creativity Labs at University of California, Irvine. He specializes in the use of quantitative methods with a focus on measurement, psychometrics and machine learning to develop novel learning and assessment technologies.",
             "social": [
                 {
