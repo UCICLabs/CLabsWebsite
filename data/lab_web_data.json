@@ -354,6 +354,39 @@
             "list":[
 
                 {
+                    "_comment": "Blikstein, P., Davis, R., Rosenbaum, L., Zheng, Y., Halverson, E., Martin, L., Peppler, K.,  Thomas Murphy, C., Vossoughi, S., Worsley, M., Yankova, N., Hooper, P. (2023). . ",
+
+                    "title": "The future of maker education",
+                    "authors": [
+                        "Blikstein, P.",
+                        "Davis, R.",
+                        "Rosenbaum, L.",
+                        "Zheng, Y.",
+                        "Halberson, E.",
+                        "Martin, L.",
+                        "Peppler, K.",
+                        "Thomas Murphy, C.",
+                        "Vossoughi, S.",
+                        "Worsley, M.",
+                        "Yankova, N.",
+                        "Hooper, P."
+                    ],
+                    "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
+                    "cat": "etx"
+                },
+
+                {
+                    "_comment": "",
+
+                    "title": "Navigating Tensions: Dominant Traditions and Culturally Sustaining Practices in Music Learning",
+                    "authors": [
+                        "Cawelti, L."
+                    ],
+                    "otherText": "In: NAMES (Eds.) International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
+                    "cat": "anc"
+                },
+
+                {
                     "_comment": "Dahn, M., Peppler, K., & Ito, M. (2023). ",
 
                     "title": "“We hear everyday, ‘This isn’t me.’” Translating interests toward STEM through entrepreneurial making",
@@ -418,6 +451,17 @@
                         "Thompson, N."
                     ],
                     "otherText": "Journal of Science Education and Technology.",
+                    "cat": "scm"
+                },
+
+                {
+                    "_comment": "Yankova, N. (2023). . International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences. ",
+
+                    "title": "Toward a “queering” of mathematics: Understanding the LGBTQ+ experience and designing to disrupt normative learning practices",
+                    "authors": [
+                        "Yankova, N."
+                    ],
+                    "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
                     "cat": "scm"
                 },
 
@@ -2915,27 +2959,6 @@
         }
     ],
     "publicationAuthors": [
-        "Peppler, K.",
-        "Bender, S.",
-        "Davis, H.",
-        "Dahn, M.",
-        "Downton, M.",
-        "Glosson, D.",
-        "Garrison, E.",
-        "Huang, J.",
-        "Han, S.",
-        "Keune, A.",
-        "Phonethibsavads, A.",
-        "Shively, K.",
-        "Sampson, K.",
-        "Sedas, M.",
-        "Solomou, M.",
-        "Saxena, P.",
-        "Santo, R.",
-        "Thompson, N.",
-        "Tan, V.",
-        "Uttamchandani, S.",
-        "Yankova, N."
     ],
     "social_icons": [
         "facebook",
