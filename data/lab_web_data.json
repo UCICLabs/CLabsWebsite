@@ -35,10 +35,19 @@
     ],
     "projects": [
         {
-            "id": "nexus",
-            "pic": "img/projects/project_icon_nexus.png",
-            "title": "Designing a New Nexus",
-            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=1553398&HistoricalAwards=false\" target=\"_blank\">(IIS #1553398)</a></strong><br/>This project, Designing a New Nexus: Examining the Social Construction of Electronic Tools and Materials to Broaden Participation and Deepen Learning, funded by Dr. Peppler's Early CAREER award from NSF...",
+            "id": "teecap",
+            "pic": "img/projects/project_icon_teecap.png",
+            "title": "Tracing the Enduring Effects of Community Arts Programs (TEECAP)",
+            "abstract": "<strong>Funded by the Wallace Foundation. The TEECAP project gathers and analyzes extensive life history interviews with former participants of community arts out-of-school programs to gain insight into how participation in such programs influenced participants’ understanding of the value of informal arts learning over the life course...",
+            "groups": [
+                0
+            ]
+        },
+        {
+            "id": "calearning",
+            "pic": "img/projects/project_icon_calearning.png",
+            "title": "Connected Arts Learning",
+            "abstract": "<strong>Funded by the Wallace Foundation.</strong><br/>The connected arts learning project calls attention to how community arts programs intentionally foster not only youth achievements within the arts or academics, but also youth and community thriving—through outcomes such as youth civic engagement, occupational identities, and wellness...",
             "groups": [
                 0
             ]
@@ -47,17 +56,16 @@
             "id": "slearn",
             "pic": "img/projects/project_icon_slearn.png",
             "title": "STEAM as a Means for Educational Equity",
-            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=1647150&HistoricalAwards=false\" target=\"blank\">(#1647150)</a> and Wellcome Trust</strong><br/>This study, part of the broader Science Learning + (SL+) project Creativity and Equity in STEM Learning, asks the question: How does the materiality of tools and materials shape learning? ...",
+            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=1647150&HistoricalAwards=false\" target=\"blank\">(#1647150)</a> and Wellcome Trust</strong><br/>As part of the broader Science Learning+ project Creativity and Equity in STEM Learning, this project explores how does the materiality of tools and materials shape learning in arts-and-science experiences...",
             "groups": [
                 0
             ]
         },
         {
-            "id": "rcm",
-            "pic": "img/projects/project_icon_rcm.png",
-            "title": "Re-Crafting Mathematics Education",
-            "link": "https://sites.uci.edu/rcmath/",
-            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://nsf.gov/awardsearch/showAward?AWD_ID=1420303\" target=\"blank\">(DRL #1420303)</a></strong><br/>This collaborative project, titled \"Re-Crafting Mathematics Education: Designing Tangible Manipulatives Rooted in Traditional Female Crafts,\" is based on our prior work studying design, mathematics, and traditional female crafts, particularly when integrated with electronics in what we call \"e-textiles.\"...",
+            "id": "nexus",
+            "pic": "img/projects/project_icon_nexus.png",
+            "title": "Designing a New Nexus",
+            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=1553398&HistoricalAwards=false\" target=\"_blank\">(IIS #1553398)</a></strong><br/>Extending earlier work on computational textiles (e-textiles) through systematic comparisons across a variety of new tools, materials, and practices used in electronics and computing, this project more fully theorizes how the social construction of various tools and materials shapes learning and participation...",
             "groups": [
                 0
             ]
@@ -73,23 +81,13 @@
             ]
         },
         {
-            "id": "ceica",
-            "pic": "img/projects/project_icon_ceica.png",
-            "title": "Creative Economy at Inner-City Arts",
-            "abstract": "<strong>Funded by the Donald Bren School of ICS Dean’s Office and Department of Informatics</strong><br/>This project, Workforce Readiness for the Creative Economy of Southern California: Developing Pathways for Youth through Research-Practice Partnership, funded by UC-Irvine’s Donald Bren School of Information and Computer Sciences, is interested in understanding (1) how the arts can equip youth with foundational skills to enter and thrive in the creative economy of Southern California and (2) how personalized learning pathways create bridges between youth’s interests, skills, and authentic learning opportunities to build youth’s social networks and prepare them for the future of work...",
+            "id": "rcm",
+            "pic": "img/projects/project_icon_rcm.png",
+            "title": "Re-Crafting Mathematics Education",
+            "link": "https://sites.uci.edu/rcmath/",
+            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://nsf.gov/awardsearch/showAward?AWD_ID=1420303\" target=\"blank\">(DRL #1420303)</a></strong><br/>his collaborative project, titled ‘Re-Crafting Mathematics Education: Designing Tangible Manipulatives Rooted in Traditional Female Crafts,’ is based on our prior work studying design, mathematics, and traditional female crafts, particularly when integrated with electronics (i.e., e-textiles)....",
             "groups": [
-                0,
-                2
-            ],
-            "done": true
-        },
-        {
-            "id": "narr",
-            "pic": "img/projects/project_icon_narr.png",
-            "title": "How Narrative Elements Shape Girls' Engagement in Engineering",
-            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=1712803&HistoricalAwards=false\" target=\"blank\">(DRL #1712803)</a></strong><br/>This project systematically investigated whether and how narrative elements of engineering design activities can influence engagement with those activities. The goal was to build evidence-based guidance for exhibit and program development and for facilitation of engineering design activities that can provide equitable, effective engineering design experiences for girls, who are often weakly engaged by challenge-based engineering design activities...",
-            "groups": [
-                1
+                0
             ]
         },
         {
@@ -97,10 +95,9 @@
             "pic": "img/projects/project_icon_etext.png",
             "title": "Computational Textiles as Materials for Creativity",
             "link": "http://computationaltextiles.blogspot.com/",
-            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=0855886\" target=\"blank\">(IIS-0855886)</a></strong><br/>We are researching how to encourage youth (ages 10 to 18) to creatively engage with e-textiles in after-school and school settings. E-textiles integrate electronic circuits and computer technology with cloth, allowing designers to embed fabric-based items such as...",
+            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=0855886\" target=\"blank\">(IIS-0855886)</a></strong><br/>This project explored how to encourage youth (ages 10 to 18) to contribute in meaningful ways to the emergent field of computational textile design....",
             "groups": [
-                0,
-                1
+                0
             ],
             "done": true
         },
@@ -108,7 +105,7 @@
             "id": "idal",
             "pic": "img/projects/project_icon_idal.png",
             "title": "Interest-Driven Arts Learning",
-            "abstract": "<strong>Funded by the <a href=\"http://www.wallacefoundation.org\" target=\"blank\">Wallace Foundation</a></strong><br/>New technologies offer unprecedented opportunities for youths to create and participate in the visual, performing and new media arts through computer applications, video game consoles, mobile phones, and online communities across a variety of informal settings...",
+            "abstract": "<strong>Funded by the <a href=\"http://www.wallacefoundation.org\" target=\"blank\">Wallace Foundation</a></strong><br/>This project examined the influence and potential impact of new technologies for arts learning to help us understand and validate today’s wide range of arts learning experiences, conceptualize learning in the arts during the out-of-school hours, and suggest strategies for how we might support and sustain interest-driven arts learning in a digital age...",
             "groups": [
                 0
             ],
@@ -118,7 +115,7 @@
             "id": "lata",
             "pic": "img/projects/project_icon_lata.png",
             "title": "Learning and Achieving Through the Arts (LATA)",
-            "abstract": "<strong>Funded by the <a href=\"https://www.ed.gov/\" target=\"blank\">U.S. Department of Education</a></strong><br/>The Learning and Achieving Through the Arts (LATA) program provides arts education to youth (grades K through 6) who are facing barriers to succeed in school that stem from poverty, homelessness, and limited English-language proficiency...",
+            "abstract": "<strong>Funded by the <a href=\"https://www.ed.gov/\" target=\"blank\">The Learning and Achieving Through the Arts (LATA) program provided arts education to youth (grades K through 6) who were facing barriers to succeed in school that stem from poverty, homelessness, and limited English-language proficiency...",
             "groups": [
                 0
             ],
@@ -128,11 +125,52 @@
             "id": "rgame",
             "pic": "img/projects/project_icon_rgame.png",
             "title": "Rhythmic Games and Digital Composition",
-            "abstract": "<strong>Funded by the John D. and Catherine T. MacArthur Foundation</strong><br/>Prior studies in music have attempted to address the failures of the music notational system to reflect what is heard in the musical experience and to attract musicians trained to learn music “by ear” (i.e., without learning to read or write music notation). Rhythmic action games...",
+            "abstract": "<strong>Funded by the John D. and Catherine T. MacArthur Foundation</strong><br/>Our research—spanning youth, rock musicians, professional gamers with no musical experience, music educators, and professional classical musicians—sought to understand more deeply how rhythmic action games and the tools and representations of these types of games further mediate preparation and participation in more formal music context. ...",
             "groups": [
                 0
             ],
             "done": true
+        },
+
+        {
+            "id": "rcs",
+            "pic": "img/projects/project_icon_rcs.png",
+            "title": "ReCrafting Computer Science",
+            "abstract": "<strong>Funded by the National Science Foundatation (ECR-EHR-2100401).</strong><br/>This project theorizes that activities that place computational thinking within a broader socio-technical context will not only broaden participation and collaboration in computer science, but also expand definitions of what counts as valuable learning in CS education...",
+            "groups": [
+                1
+            ]
+        },
+
+        {
+            "id": "library",
+            "pic": "img/projects/project_icon_library.png",
+            "title": "Connected Learning in Libraries",
+            "abstract": "<strong>Funded by the City of Santa Ana.</strong><br/>This project aims build capacity among librarians and library staff around interest driven learning in libraries...",
+            "groups": [
+                1
+            ]
+        },
+
+        {
+            "id": "summer",
+            "pic": "img/projects/project_icon_summer.png",
+            "title": "Encouraging Wonderment via Summer STEAM",
+            "link":"https://designmakelearn.org/",
+            "abstract": "<strong>Funded by Design, Make, Learn and in partnership with the Long Beach Unified School District.</strong><br/>This research and evaluation partnership centers on design thinking and making in out-of-school learning...",
+            "groups": [
+                1
+            ]
+        },
+
+        {
+            "id": "narr",
+            "pic": "img/projects/project_icon_narr.png",
+            "title": "How Narrative Elements Shape Girls' Engagement in Engineering",
+            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=1712803&HistoricalAwards=false\" target=\"blank\">(DRL #1712803)</a></strong><br/>This project systematically investigated whether and how narrative elements of engineering design activities can influence engagement with those activities. The goal was to build evidence-based guidance for exhibit and program development and for facilitation of engineering design activities that can provide equitable, effective engineering design experiences for girls, who are often weakly engaged by challenge-based engineering design activities...",
+            "groups": [
+                1
+            ]
         },
         {
             "id": "makered",
@@ -186,29 +224,32 @@
             ],
             "done": true
         },
+
         {
-            "id": "fow",
-            "pic": "img/projects/project_icon_fow.png",
-            "title": "Future of Work at the Human-Technology Frontier",
-            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=1839896&HistoricalAwards=false\" target=\"blank\">(DUE #1839896)</a></strong><br/>Our project takes a multidisciplinary approach to address new technologies for more effective collaboration between workers, robotics, IoT, and AI into the product lifecycle, as well as the ramifications that this shift has on education systems and labor economics...",
+            "id": "moonshot",
+            "pic": "img/projects/project_icon_moonshot.png",
+            "title": "Making Connections for the Million Girl Moonshot",
+            "abstract": "<strong>Funded by STEM Next Opportunity Fund and the Gordon and Betty Moore Foundation.</strong><br/>Through research with partners on the national, state, and local program levels, this project leverages the connected learning framework to study the strategies STEM programs create to support middle school girls through transitions from one out-of-school STEM program to another...",
             "groups": [
                 2
             ]
         },
+
         {
-            "id": "caccel",
-            "pic": "img/projects/project_icon_caccel.png",
-            "title": "Skill-LeARn: Augmented Reality Platform for Scaling Workforce Training",
-            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937036&HistoricalAwards=false\" target=\"blank\">(OIA #1937036)</a></strong><br/>Through the lens of learning sciences, we aim to create and improve current approaches to pre-skill a new generation of workers as well as refine our approach for industry re-skilling efforts in the future of work...",
+            "id": "immrobo",
+            "pic": "img/projects/project_icon_immrobo.png",
+            "title": "Intelligent Immersive Environments for Learning Robotics",
+            "abstract": "<strong>Funded by the National Science Foundation (#2202611).</strong><br/>This research and development effort is creating immersive and responsive environments for robotics instruction...",
             "groups": [
                 2
             ]
         },
+
         {
-            "id": "boeing",
-            "pic": "img/projects/project_icon_boeing.png",
-            "title": "Workforce Upskilling via Online Learning",
-            "abstract": "<strong>Funded by The Boeing Company</strong><br/>The goal of this research is to understand how to design online professional engineering courses to be more efficient for learners and make inferences about what participants are actually learning...",
+            "id": "aixr",
+            "pic": "img/projects/project_icon_aixr.png",
+            "title": "Exploring Tacit Knowledge with AI and XR",
+            "abstract": "<strong>Funded by the National Science Foundation.</strong><br/>This project deepens the fundamental understanding of tacit knowledge through a mixed-method research framework to clear a pathway to develop a feasible solution to train future machinists and understand the acquisition and transmission of tacit knowledge in workplace settings...",
             "groups": [
                 2
             ]
@@ -223,6 +264,66 @@
             ]
         },
         {
+            "id": "humanrobo",
+            "pic": "img/projects/project_icon_humanrobo.png",
+            "title": "Designing Future Factory Human-Robot Workflows",
+            "abstract": "<strong>Funded by the National Science Foundation (DUE-1931227).</strong><br/>This project explores how to understand and design human-robot workflows for the future using a physical simulation platform...",
+            "groups": [
+                2
+            ],
+            "done":true
+        },
+        {
+            "id": "orch",
+            "pic": "img/projects/project_icon_orch.png",
+            "title": "AI For Classroom Orchestration",
+            "abstract": "<strong>Funded by Digital Promise.</strong><br/>This project advanced a Research-Practice-Industry Partnership (RPIP) model for the development of AI that can be introduced into classrooms in ways that augment teaching and learning...",
+            "groups": [
+                2
+            ],
+            "done":true
+        },
+        {
+            "id": "fow",
+            "pic": "img/projects/project_icon_fow.png",
+            "title": "Future of Work at the Human-Technology Frontier",
+            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=1839896&HistoricalAwards=false\" target=\"blank\">(DUE #1839896)</a></strong><br/>Our project takes a multidisciplinary approach to address new technologies for more effective collaboration between workers, robotics, IoT, and AI into the product lifecycle, as well as the ramifications that this shift has on education systems and labor economics...",
+            "groups": [
+                2
+            ],
+            "done":true
+        },
+        {
+            "id": "caccel",
+            "pic": "img/projects/project_icon_caccel.png",
+            "title": "Skill-LeARn: Augmented Reality Platform for Scaling Workforce Training",
+            "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937036&HistoricalAwards=false\" target=\"blank\">(OIA #1937036)</a></strong><br/>Through the lens of learning sciences, we aim to create and improve current approaches to pre-skill a new generation of workers as well as refine our approach for industry re-skilling efforts in the future of work...",
+            "groups": [
+                2
+            ],
+            "done":true
+        },
+        {
+            "id": "boeing",
+            "pic": "img/projects/project_icon_boeing.png",
+            "title": "Workforce Upskilling via Online Learning",
+            "abstract": "<strong>Funded by The Boeing Company</strong><br/>The goal of this research is to understand how to design online professional engineering courses to be more efficient for learners and make inferences about what participants are actually learning...",
+            "groups": [
+                2
+            ],
+            "done":true
+        },
+        {
+            "id": "ceica",
+            "pic": "img/projects/project_icon_ceica.png",
+            "title": "Creative Economy at Inner-City Arts",
+            "abstract": "<strong>Funded by the Donald Bren School of ICS Dean’s Office and Department of Informatics</strong><br/>This project examines how the arts can equip youth with foundational skills to enter and thrive in the creative economy of Southern California and how personalized learning pathways can build youth’s social networks and prepare them for the future of work....",
+            "groups": [
+                2
+            ],
+            "done": true
+        },
+        {
             "id": "lrng",
             "pic": "img/projects/project_icon_lrng.png",
             "title": "LRNG: Join the Evolution of Learning",
@@ -233,118 +334,19 @@
             ],
             "done": true
         },
+        
         {
             "id": "hive",
             "pic": "img/projects/project_icon_hive.png",
             "title": "Hive Research Lab",
             "link": "http://hiveresearchlab.org/",
-            "abstract": "<strong>Funded by the Spencer Foundation, John D. and Catherine T. MacArthur Foundation, and New York Community Trust</strong><br/>Hive Research Lab is a research-practice partnership led by Indiana University and New York University that studies and collaborates with the Mozilla Hive NYC Learning Network. Its research and collaborations with Hive NYC members have produced insights around participatory knowledge building methodologies, the affordances of “Working Open” in a distributed network, and the importance of brokering learning opportunities as a way to support youth pathways...",
+            "abstract": "<strong>Funded by the Spencer Foundation, John D. and Catherine T. MacArthur Foundation, and New York Community Trust</strong><br/>Hive Research Lab was a research-practice partnership led by Indiana University and New York University that studied and collaborated with the Mozilla Hive NYC Learning Network. Its research and collaborations with Hive NYC members produced insights around participatory knowledge building methodologies, the affordances of “Working Open” in a distributed network, and the importance of brokering learning opportunities as a way to support youth pathways....",
             "groups": [
                 2
             ],
             "done": true
-        },
-
-        {
-            "id": "aixr",
-            "pic": "img/projects/project_icon_aixr.png",
-            "title": "Exploring Tacit Knowledge with AI and XR",
-            "abstract": "<strong>Funded by the National Science Foundation.</strong><br/>This project deepens the fundamental understanding of tacit knowledge through a mixed-method research framework to clear a pathway to develop a feasible solution to train future machinists and understand the acquisition and transmission of tacit knowledge in workplace settings...",
-            "groups": [
-                2
-            ]
-        },
-
-        {
-            "id": "rcs",
-            "pic": "img/projects/project_icon_rcs.png",
-            "title": "ReCrafting Computer Science",
-            "abstract": "<strong>Funded by the National Science Foundatation (ECR-EHR-2100401).</strong><br/>Concretizing Computational Thinking via Tangible Fiber Crafts...",
-            "groups": [
-                0,1
-            ]
-        },
-
-        {
-            "id": "teecap",
-            "pic": "img/projects/project_icon_teecap.png",
-            "title": "Tracing the Enduring Effects of Community Arts Programs (TEECAP)",
-            "abstract": "<strong>Funded by the Wallace Foundation.</strong><br/>The TEECAP project gathers and analyzes extensive life history interviews with former participants of community arts out-of-school programs to gain insight into how attendance and participation in such programs influenced participants’ understanding of the value and meaning of these informal arts learning experiences over the life course...",
-            "groups": [
-                0
-            ]
-        },
-
-        {
-            "id": "moonshot",
-            "pic": "img/projects/project_icon_moonshot.png",
-            "title": "Making Connections for the Million Girl Moonshot",
-            "abstract": "<strong>Funded by STEM Next Opportunity Fund and the Gordon and Betty Moore Foundation.</strong><br/>Through research with partners on the national, state, and local program levels, this project leverages the connected learning framework to study the strategies and models STEM programs use and create to support middle school girls through transitions from one out-of-school STEM program to another or to specific in-school support programs...",
-            "groups": [
-                1,2
-            ]
-        },
-
-        {
-            "id": "library",
-            "pic": "img/projects/project_icon_library.png",
-            "title": "Connected Learning in Libraries",
-            "abstract": "<strong>Funded by the City of Santa Ana.</strong><br/>This project aims build capacity among librarians and library staff around interest driven learning in libraries...",
-            "groups": [
-                0,1
-            ]
-        },
-
-        {
-            "id": "calearning",
-            "pic": "img/projects/project_icon_calearning.png",
-            "title": "Connected Arts Learning",
-            "abstract": "<strong>Funded by the Wallace Foundation.</strong><br/>The connected arts learning project calls attention to how community arts programs intentionally foster not only youth achievements within the arts or academics, but also youth and community thriving—through outcomes such as youth civic engagement, occupational identities, and wellness...",
-            "groups": [
-                0
-            ]
-        },
-
-        {
-            "id": "humanrobo",
-            "pic": "img/projects/project_icon_humanrobo.png",
-            "title": "Designing Future Factory Human-Robot Workflows",
-            "abstract": "<strong>Funded by the National Science Foundation (DUE-1931227).</strong><br/>Understanding and designing human-robot workflows for the future using a physical simulation platform...",
-            "groups": [
-                2
-            ]
-        },
-
-        {
-            "id": "orch",
-            "pic": "img/projects/project_icon_orch.png",
-            "title": "AI For Classroom Orchestration",
-            "abstract": "<strong>Funded by Digital Promise.</strong><br/>This project advanced a Research-Practice-Industry Partnership (RPIP) model for the development of AI that can be introduced into classrooms in ways that augment teaching and learning...",
-            "groups": [
-                2
-            ]
-        },
-
-        {
-            "id": "summer",
-            "pic": "img/projects/project_icon_summer.png",
-            "title": "Encouraging Wonderment via Summer STEAM",
-            "link":"https://designmakelearn.org/",
-            "abstract": "<strong>Funded by Design, Make, Learn and in partnership with the Long Beach Unified School District.</strong><br/>This research and evaluation partnership centers on design thinking and making in out-of-school learning...",
-            "groups": [
-                0,1
-            ]
-        },
-
-        {
-            "id": "immrobo",
-            "pic": "img/projects/project_icon_immrobo.png",
-            "title": "Intelligent Immersive Environments for Learning Robotics",
-            "abstract": "<strong>Funded by the National Science Foundation (#2202611).</strong><br/>This research and development effort is creating immersive and responsive environments for robotics instruction...",
-            "groups": [
-                2
-            ]
         }
+        
     ],
     "publications": [
 
@@ -3558,18 +3560,46 @@
     ],
     "news": [
         {
+            "title": "<em>Dr. Peppler</em> Joins No Such Thing Podcast at SXSW EDU",
+            "subTitle": "Mar 2023",
+            "text": "\"<a href='https://schedule.sxswedu.com/2023/events/PP122536' target='_blank'>Dr. Peppler speaks at SXSW EDU 2023 on research storytelling for the digital age</a>\"",
+            "media": "news_March23.jpeg",
+            "mediaType": "img"
+        },
+        {
+            "title": "<em>Teaching, Learning & Robots:</em> The Rise of Adaptive Learning with Artificial Intelligence",
+            "subTitle": "Jun 2022",
+            "text": "\"<a href='https://www.fenews.co.uk/exclusive/teaching-learning-robots-the-rise-of-adaptive-learning-with-artificial-intelligence/' target='_blank'>Creativity Labs research is featured in an article on how the application of artificial intelligence will have a major impact on the world of education and learning</a>\"",
+            "media": "news_Jun2022.jpeg",
+            "mediaType": "img"
+        },
+        {
+            "title": "<em>Dr. Peppler</em> Joins Merlyn Mind at ASU+GSV to Discuss Research-Practice-Industry Partnerships",
+            "subTitle": "Apr 2022",
+            "media": "<iframe width='560' height='315' src='https://www.youtube.com/embed/3FujshjQfN4' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>",
+            "text": "Dr. Peppler talks with partners at Merlyn Mind, Epic Games, and Digital Promise about grounding ed tech products in practice at the 2022 ASU+GSV Summit.",
+            "mediaType": "vid"
+        },
+        {
+            "title": "Faculty researchers secure another <em>workforce development grant</em> to support growth of machinists in manufacturing",
+            "subTitle": "Oct 2022",
+            "text": "\"<a href='https://www.ics.uci.edu/community/news/view_news?id=2222' target='_blank'>Creativity Labs teams up with the Rochester Institute of Technology to develop a system that improves passage of tacit knowledge from skilled machinists to those coming into the field.</a>\"",
+            "media": "news_Oct2022.jpeg",
+            "mediaType": "img"
+        },
+        {
+            "title": "<em>Connected Learning Alliance:</em> Performing Mathematics Through Crafting",
+            "subTitle": "Nov 2022",
+            "text": "\"<a href='https://clalliance.org/blog/performing-mathematics-through-crafting-a-workshop-from-a-constructionist-approach/?utm_source=mailchimp.com&utm_medium=email&utm_campaign=Vol197' target='_blank'>At the 2022 Connected Learning Summit, we had the opportunity to facilitate two math-crafts activities with conference attendees during our workshop “Creating A Doll Skirt Or A Basket: Performing Proportional Reasoning And Spatial Visualizations”.</a>\"",
+            "media": "news_Nov2022.jpeg",
+            "mediaType": "img"
+        },
+        {
             "title": "Hands-on with <em>Augmented Reality</em> in remote classrooms",
             "subTitle": "Apr 2020",
             "media": "<iframe width='500' height='250' src='https://www.youtube.com/embed/WhdrEMY7-YE' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
             "text": "During the COVID-19 pandemic, the Creativity Labs is working with Purdue University on an app platform to help students and teachers to collaborate easily using augmented reality.",
             "mediaType": "vid"
-        },
-        {
-            "title": "2019 Pass It On Award Winner Spotlight: <em>Anna Keune</em>",
-            "subTitle": "Mar 2020",
-            "text": "\"<a href='https://medium.com/wogrammer/2019-pass-it-on-award-winner-spotlight-anna-keune-544fc1dfa6e5' target='_blank'>Anna Keune remains an inspiring leader in the educational technology space since winning a Systers Pass it On Award in 2019.</a>\"",
-            "media": "news_20200324.png",
-            "mediaType": "img"
         },
         {
             "title": "Dean Richard Arum Interviews Associate Professor <em>Kylie Peppler</em>",
