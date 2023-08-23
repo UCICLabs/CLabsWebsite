@@ -131,7 +131,6 @@
             ],
             "done": true
         },
-
         {
             "id": "rcs",
             "pic": "img/projects/project_icon_rcs.png",
@@ -141,7 +140,6 @@
                 1
             ]
         },
-
         {
             "id": "library",
             "pic": "img/projects/project_icon_library.png",
@@ -151,18 +149,16 @@
                 1
             ]
         },
-
         {
             "id": "summer",
             "pic": "img/projects/project_icon_summer.png",
             "title": "Encouraging Wonderment via Summer STEAM",
-            "link":"https://designmakelearn.org/",
+            "link": "https://designmakelearn.org/",
             "abstract": "<strong>Funded by Design, Make, Learn and in partnership with the Long Beach Unified School District.</strong><br/>This research and evaluation partnership centers on design thinking and making in out-of-school learning...",
             "groups": [
                 1
             ]
         },
-
         {
             "id": "narr",
             "pic": "img/projects/project_icon_narr.png",
@@ -224,7 +220,6 @@
             ],
             "done": true
         },
-
         {
             "id": "moonshot",
             "pic": "img/projects/project_icon_moonshot.png",
@@ -234,7 +229,6 @@
                 2
             ]
         },
-
         {
             "id": "immrobo",
             "pic": "img/projects/project_icon_immrobo.png",
@@ -244,7 +238,6 @@
                 2
             ]
         },
-
         {
             "id": "aixr",
             "pic": "img/projects/project_icon_aixr.png",
@@ -271,7 +264,7 @@
             "groups": [
                 2
             ],
-            "done":true
+            "done": true
         },
         {
             "id": "orch",
@@ -281,7 +274,7 @@
             "groups": [
                 2
             ],
-            "done":true
+            "done": true
         },
         {
             "id": "fow",
@@ -291,7 +284,7 @@
             "groups": [
                 2
             ],
-            "done":true
+            "done": true
         },
         {
             "id": "caccel",
@@ -301,7 +294,7 @@
             "groups": [
                 2
             ],
-            "done":true
+            "done": true
         },
         {
             "id": "boeing",
@@ -311,7 +304,7 @@
             "groups": [
                 2
             ],
-            "done":true
+            "done": true
         },
         {
             "id": "ceica",
@@ -334,7 +327,6 @@
             ],
             "done": true
         },
-        
         {
             "id": "hive",
             "pic": "img/projects/project_icon_hive.png",
@@ -346,18 +338,14 @@
             ],
             "done": true
         }
-        
     ],
     "publications": [
-
         {
             "_comment": "TODO 2023 Publications",
             "year": 2023,
-            "list":[
-
+            "list": [
                 {
                     "_comment": "Blikstein, P., Davis, R., Rosenbaum, L., Zheng, Y., Halverson, E., Martin, L., Peppler, K.,  Thomas Murphy, C., Vossoughi, S., Worsley, M., Yankova, N., Hooper, P. (2023). . ",
-
                     "title": "The future of maker education",
                     "authors": [
                         "Blikstein, P.",
@@ -376,10 +364,8 @@
                     "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
                     "cat": "etx"
                 },
-
                 {
                     "_comment": "",
-
                     "title": "Navigating Tensions: Dominant Traditions and Culturally Sustaining Practices in Music Learning",
                     "authors": [
                         "Cawelti, L."
@@ -387,10 +373,8 @@
                     "otherText": "In: NAMES (Eds.) International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
                     "cat": "anc"
                 },
-
                 {
                     "_comment": "",
-
                     "title": "“Let’s Go; We’re Writing a Song”: Co-Creating Auditory and Placial Space in an Afterschool Music Program",
                     "authors": [
                         "Cawelti, L.",
@@ -405,10 +389,8 @@
                     "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
                     "cat": "anc"
                 },
-
                 {
                     "_comment": "Chew, P., Peppler, K., DiGiacomo, D., Nelligan, P., Sefton-Green, J. (2023). . ",
-
                     "title": "Relational connective tissue: A case study of freedom of movement in culinary learning",
                     "authors": [
                         "Chew, P.",
@@ -420,10 +402,8 @@
                     "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
                     "cat": "anc"
                 },
-
                 {
                     "_comment": "Dahn, M., Peppler, K., & Ito, M. (2023). ",
-
                     "title": "“We hear everyday, ‘This isn’t me.’” Translating interests toward STEM through entrepreneurial making",
                     "authors": [
                         "Dahn, M.",
@@ -434,10 +414,8 @@
                     "cat": "sth",
                     "file": "2023 - J51.pdf"
                 },
-
                 {
                     "_comment": "DiGiacomo, D., Chew, P., Nelligan, P., Mejias, S., & Peppler, K. (2023). . International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
-
                     "title": "The interdependence of identity, belonging, and learning: Evidence from an out-of-school arts life-course study",
                     "authors": [
                         "DiGiacomo, D.",
@@ -449,10 +427,8 @@
                     "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
                     "cat": "anc"
                 },
-
                 {
                     "_comment": "Fishman, B., Herrenkohl, L., Pinkard, N., Taylor, K., Cederquist, S., Gu, X., Jones, D., Lee, J., Lee, L., Majors, Y., Reid, C., Samuelson, A., Henriquez, A., Penuel W., & Peppler, K. (2023). . ",
-
                     "title": "Out-of-School Time: Divergent Learning, Divergent Opportunities",
                     "authors": [
                         "Fishman, B.",
@@ -474,10 +450,8 @@
                     "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
                     "cat": "sth"
                 },
-
                 {
                     "_comment": "Han, A (2023).  ",
-
                     "title": "Implications of AI art generators to broaden visual literacy and creative expression for young learners",
                     "authors": [
                         "Han, A."
@@ -486,10 +460,8 @@
                     "cat": "sug",
                     "file": "2023 - J23HanImplications.pdf"
                 },
-
                 {
                     "_comment": "Han, A., Cai, Z., Jeong, S., & Choi, S. M. (2023). . ",
-
                     "title": "AIStory: design implication of using generative arts AI for visual storytelling",
                     "authors": [
                         "Han, A.",
@@ -501,10 +473,8 @@
                     "cat": "sug",
                     "file": "2023 - J23HanAIStory.pdf"
                 },
-
                 {
                     "_comment": "Huang, J., Cawelti, L., Peppler, K. (2023).  . ",
-
                     "title": "Exploring algorithm building through designing and making kinetic sculpture",
                     "authors": [
                         "Huang, J.",
@@ -514,10 +484,8 @@
                     "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
                     "cat": "anc"
                 },
-
                 {
                     "_comment": "Kumar, V., Fields, D., Blikstein, P., Peppler, K. Dahn., M., Ito, M., Braaten, M., Hayden, R., Roque, R., Chang, M. A., Philip, T., Worsley, M., Pinkard, N. (2023). . ",
-
                     "title": "Expansive Lenses to Examine Interventions (of) Moving Across Contexts",
                     "authors": [
                         "Kumar, V.",
@@ -537,10 +505,8 @@
                     "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
                     "cat": "sth"
                 },
-
                 {
                     "_comment": "Ojeda-Ramírez, S., Cawelti, L., Huang, J., Peppler, K. (2023). . ",
-
                     "title": "Tools dictate the divide: entrenched gendered practices in the making of kinetic sculptures",
                     "authors": [
                         "Ojeda-Ramírez, S.",
@@ -551,10 +517,8 @@
                     "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
                     "cat": "anc"
                 },
-
                 {
                     "_comment": "Ojeda-Ramírez, S., Sedas, M., Peppler, K. (2023). . ",
-
                     "title": "Community Cultural Wealth in LatinoFuturism: Leveraging Speculative Fiction for STEM + Arts Asset-Based Pedagogies",
                     "authors": [
                         "Ojeda-Ramírez, S.",
@@ -564,10 +528,8 @@
                     "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
                     "cat": "anc"
                 },
-
                 {
                     "_comment": "Peppler, K., Dahn, M., & Ito, M. (2023). . The Wallace Foundation.",
-
                     "title": "The Connected Arts Learning Framework: An expanded view of the purposes and possibilities for arts learning",
                     "authors": [
                         "Peppler, K.",
@@ -578,10 +540,8 @@
                     "cat": "sug",
                     "file": "2023 - W23ConnectedArtsLearning.pdf"
                 },
-
                 {
                     "_comment": "Peppler, K., Huang, J. (2023). . ",
-
                     "title": "Visual Learning Analytics to Upskill Aerospace Engineers in Advanced Manufacturing",
                     "authors": [
                         "Peppler, K.",
@@ -590,10 +550,8 @@
                     "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
                     "cat": "sth"
                 },
-
                 {
                     "_comment": "Peppler, K., Keune, A., Bender, S., Yankova, N. (2023). . ",
-
                     "title": "Theorizing mathematical unitizing through fiber crafts",
                     "authors": [
                         "Peppler, K.",
@@ -604,10 +562,8 @@
                     "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
                     "cat": "anc"
                 },
-               
                 {
                     "_comment": "file2023 - J50.pdf; Peppler, K., Sedas, M., & Thompson, N. (2023). . ",
-
                     "title": "Paper Circuits vs. Breadboards: Materializing Learners’ Powerful Ideas Around Circuitry and Layout Design",
                     "authors": [
                         "Peppler, K.",
@@ -617,10 +573,8 @@
                     "otherText": "Journal of Science Education and Technology.",
                     "cat": "scm"
                 },
-
                 {
                     "_comment": "Saxena, P., Keune, A., Thompson, N., Peppler, K. (2023). . ",
-
                     "title": "The Interplay of Math and Crafts: Investigating the Breadth and Depth of Mathematics in Fiber Crafts",
                     "authors": [
                         "Saxena, P.",
@@ -631,10 +585,8 @@
                     "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
                     "cat": "anc"
                 },
-
                 {
                     "_comment": "Vitiello, R., Huang, J., Speer, S., Yankova, N., Peppler, K., Orta-Martinez, M., Rose, C. (2023). . International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
-
                     "title": "Studying interdisciplinary collaboration as a core skill",
                     "authors": [
                         "Vitiello, R.",
@@ -648,10 +600,8 @@
                     "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
                     "cat": "sth"
                 },
-
                 {
                     "_comment": "Yankova, N. (2023). . International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences. ",
-
                     "title": "Toward a “queering” of mathematics: Understanding the LGBTQ+ experience and designing to disrupt normative learning practices",
                     "authors": [
                         "Yankova, N."
@@ -659,10 +609,8 @@
                     "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
                     "cat": "scm"
                 },
-
                 {
                     "_comment": "Yankova, N., Huang, J., Vitiello, R., Speer, S., Orta-Martinez, M., Rose, C., Peppler, K. (2023). . ",
-
                     "title": "“Where is the Z-axis?“: Negotiating understanding of servo rotation through gestures and tools",
                     "authors": [
                         "Yankova, N.",
@@ -676,10 +624,8 @@
                     "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
                     "cat": "sth"
                 },
-
                 {
                     "_comment": "Zhu, Z., Liu, Z., Zhang Y., Zhu, L., Huang, J., Villanueva, A., Qian, X., Peppler, K., Ramani, K. (2023).  ",
-
                     "title": "LearnIoTVR: An End-to-end Virtual Reality Environment Providing Authentic Learning Experiences for Internet of Things",
                     "authors": [
                         "Zhu, Z.",
@@ -696,17 +642,13 @@
                     "cat": "fow"
                 }
             ]
-
         },
-
         {
             "_comment": "2022 Publications",
             "year": 2022,
-            "list":[
-
+            "list": [
                 {
                     "_comment": "Schindler, E., & Peppler, K. (2022). . ",
-
                     "title": "Designing for connected arts learning through culturally sustaining practices",
                     "authors": [
                         "Dahn, M.",
@@ -717,10 +659,8 @@
                     "otherText": "In: J. Oshima, T. Mochizuki, & Y. Hayashi (Eds.) International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2022 (pp. 1946-1947). Hiroshima, Japan: International Society of the Learning Sciences.",
                     "cat": "anc"
                 },
-
                 {
                     "_comment": "Han, A., Huang, J., Villanueva, A. M., Peppler, K. A., Liu, Z., Zhu, Z., & Ramani, K. (2022). . ",
-
                     "title": "Coding a MacGuffin: Recommendations for Teaching Narrative-based IoT Design",
                     "authors": [
                         "Han, A.",
@@ -731,14 +671,11 @@
                         "Zhu, Z.",
                         "Ramani, K."
                     ],
-
                     "otherText": "In Proceedings of the 2022 AERA.",
                     "cat": "sug"
                 },
-
                 {
                     "_comment": ". ",
-
                     "title": "Visualizing Family Engagement in Museum Settings",
                     "authors": [
                         "Han, A.",
@@ -750,9 +687,7 @@
                     "cat": "sth",
                     "file": "2022 - CP63.pdf"
                 },
-
                 {
-
                     "title": "Crafting paper circuits: Gendered materials for circuitry learning",
                     "authors": [
                         "Huang, J.",
@@ -765,10 +700,8 @@
                     "cat": "anc",
                     "file": "2022 - CP65.pdf"
                 },
-
                 {
                     "_comment": " . ",
-
                     "title": "Towards modeling of virtual reality welding simulators to promote accessible and scalable training",
                     "authors": [
                         "Ipsita, A.",
@@ -786,10 +719,8 @@
                     "cat": "sth",
                     "file": "2022 - CP62.pdf"
                 },
-
                 {
                     "_comment": ". ",
-
                     "title": "Connected portfolios: open assessment practices for maker communities",
                     "authors": [
                         "Keune, A.",
@@ -800,10 +731,8 @@
                     "cat": "etx",
                     "file": "https://doi.org/10.1108/ILS-03-2022-0029"
                 },
-
                 {
                     "_comment": "Peppler, K., , & . (2022). . ",
-
                     "title": "Mapping Posthuman Methodological Innovation in the Study of Learning",
                     "authors": [
                         "Keune, A.",
@@ -816,10 +745,8 @@
                     "cat": "sth",
                     "file": "2022 - CP68.pdf"
                 },
-
                 {
                     "_comment": ". . ",
-
                     "title": "#Quiltsforpulse: Connected and shared production-centered socio-political activism through craftivism",
                     "authors": [
                         "Keune, A.",
@@ -830,10 +757,8 @@
                     "cat": "anc",
                     "file": "2022 - J47.pdf"
                 },
-
                 {
                     "_comment": "Peppler, K. (2022). . ",
-
                     "title": "Makerspaces: Supporting Creativity and Innovation by Design",
                     "authors": [
                         "Peppler, K."
@@ -842,10 +767,8 @@
                     "cat": "sth",
                     "file": "2022 - BC30.pdf"
                 },
-
                 {
                     "_comment": ". ",
-
                     "title": "Connected Arts Learning: Cultivating Equity Through Connected and Creative Educational Experiences",
                     "authors": [
                         "Peppler, K.",
@@ -856,10 +779,8 @@
                     "cat": "sth",
                     "file": "2022 - J46.pdf"
                 },
-
                 {
                     "_comment": "J45",
-
                     "title": "Designing for Interpersonal Connections to Support Empathy in Museum Engineering Exhibits",
                     "authors": [
                         "Peppler, K.",
@@ -871,10 +792,8 @@
                     "otherText": "Information and Learning Sciences, 123(3), 129-153.",
                     "cat": "sth"
                 },
-
                 {
                     "_comment": "Peppler, K., Keune, A., Thompson, N., Saxena, P. (2022). .  ",
-
                     "title": "Craftland is mathland: Mathematical insight and the generative role of fiber crafts in Maker Education",
                     "authors": [
                         "Peppler, K.",
@@ -886,10 +805,8 @@
                     "cat": "etx",
                     "file": "2022 - J49.pdf"
                 },
-
                 {
                     "_comment": "CP64",
-
                     "title": "Teachers Noticing Student Interest: A Micro-interactional Foundation for Interest-driven Learning",
                     "authors": [
                         "Schindler, E.",
@@ -898,10 +815,8 @@
                     "otherText": "In: J. Oshima, T. Mochizuki, & Y. Hayashi (Eds.) International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2022 (pp. 2010 - 2011). Hiroshima, Japan: International Society of the Learning Sciences.",
                     "cat": "sth"
                 },
-
                 {
                     "_comment": "file2022 - CP66.pdf",
-
                     "title": "“Keeping them with us”: Constructing equitable online spaces for the theatre classroom",
                     "authors": [
                         "Yankova, N.",
@@ -916,15 +831,12 @@
                     "cat": "sth"
                 }
             ]
-
         },
-
         {
             "year": 2021,
             "list": [
                 {
                     "_comment": "Comment",
-
                     "title": "Learning to be Open: Expansive Family Networks and Emotional Support as Connection Pathways",
                     "authors": [
                         "Dahn, M.",
@@ -939,10 +851,8 @@
                     "cat": "sth",
                     "file": "2021 - CP57.pdf"
                 },
-
                 {
                     "_comment": "Dahn, M., Yankova, N., Peppler, K., Sikkema, S., Spilberg, J., & Lee, J. (2021). “Way more relevant and a little less  theoretical”: How teaching artists designed for online learning in a pandemic. Learning, Media, and Technology, 47(4), 456-470. https://doi.org/10.1080/17439884.2021.2012801",
-
                     "title": "“Way more relevant and a little less  theoretical”: How teaching artists designed for online learning in a pandemic",
                     "authors": [
                         "Dahn, M.",
@@ -956,10 +866,8 @@
                     "cat": "anc",
                     "file": "2021 - J40.pdf"
                 },
-
                 {
                     "_comment": "Comment",
-
                     "title": "Crafting Human-Material Collaborative Learning Processes and Technology Advances",
                     "authors": [
                         "Keune, A.",
@@ -970,10 +878,8 @@
                     "cat": "anc",
                     "file": "2021 - CP59.pdf"
                 },
-
                 {
                     "_comment": "Comment",
-
                     "title": "The Unexamined Influence: An Object’s Perceived Gender on Spatial Reasoning Skills in Girls",
                     "authors": [
                         "Keune, A.",
@@ -985,10 +891,8 @@
                     "cat": "sth",
                     "file": "2021 - CP58.pdf"
                 },
-
                 {
                     "_comment": "Comment",
-
                     "title": "Sustainability and scalability of CSCL",
                     "authors": [
                         "Law, N.",
@@ -999,10 +903,8 @@
                     "cat": "sth",
                     "file": "2021 - BC29.pdf"
                 },
-
                 {
                     "_comment": "Comment",
-
                     "title": "Observing Empathy in Informal Engineering Activities with Girls Ages 7–14",
                     "authors": [
                         "Letourneau, S.",
@@ -1018,10 +920,8 @@
                     "cat": "sth",
                     "file": "2021 - J44.pdf"
                 },
-
                 {
                     "_comment": "Comment",
-
                     "title": "Observing Empathy in Informal Engineering Activities With Girls Ages 7–14",
                     "authors": [
                         "Letourneau, S.",
@@ -1037,10 +937,8 @@
                     "cat": "sth",
                     "file": "2021 - CP61.pdf"
                 },
-
                 {
                     "_comment": "Comment",
-
                     "title": "The trouble with steam and why we use it anyway",
                     "authors": [
                         "Mejias, S.",
@@ -1060,10 +958,8 @@
                     "cat": "anc",
                     "file": "2021 - J38.pdf"
                 },
-
                 {
                     "_comment": "Comment",
-
                     "title": "Afterword: Dwelling on Making",
                     "authors": [
                         "Peppler, K."
@@ -1072,10 +968,8 @@
                     "cat": "etx",
                     "file": "2021 - BC27.pdf"
                 },
-
                 {
                     "_comment": "Comment",
-
                     "title": "Artifact-oriented learning: A theoretical review of the impact of the Arts on Learning",
                     "authors": [
                         "Peppler, K.",
@@ -1086,10 +980,8 @@
                     "cat": "anc",
                     "file": "2021 - J41.pdf"
                 },
-
                 {
                     "_comment": "Comment",
-
                     "title": "Cultivating data visualization literacy in museums",
                     "authors": [
                         "Peppler, K.",
@@ -1100,10 +992,8 @@
                     "cat": "sth",
                     "file": "https://doi.org/10.1108/ILS-04-2020-0132"
                 },
-
                 {
                     "_comment": "Saxena, P., Sedas, R. M., & Peppler, K. A. (2021). . ",
-
                     "title": "Design thinking and the learning sciences: Theoretical, practical, and empirical perspectives",
                     "authors": [
                         "Saxena, P.",
@@ -1114,10 +1004,8 @@
                     "cat": "sth",
                     "file": "2021 - BC28.pdf"
                 },
-
                 {
                     "_comment": "Sedas, R. M., Peppler, K., & Thompson, N. (2021). .  ",
-
                     "title": "Breadboards and Paper Circuits: Differences in Advanced Circuitry Learning and PCB Layout Design",
                     "authors": [
                         "Sedas, R. M.",
@@ -1128,10 +1016,8 @@
                     "cat": "scm",
                     "file": "2021 - CP60.pdf"
                 },
-
                 {
                     "_comment": "Spilberg, J., Dahn, M., Yankova, N., Peppler, K. (2021). . ",
-
                     "title": "How the arts can unlocka closed curriculum",
                     "authors": [
                         "Sikkema, S.",
@@ -1145,10 +1031,8 @@
                     "cat": "anc",
                     "file": "2021 - J42.pdf"
                 },
-
                 {
                     "_comment": "Comment",
-
                     "title": "Towards modeling of human skilling for electrical circuitry using augmented reality applications",
                     "authors": [
                         "Villanueva, A.",
@@ -1163,10 +1047,8 @@
                     "cat": "fow",
                     "file": "2021 - J43.pdf"
                 },
-
                 {
                     "_comment": "Comment",
-
                     "title": "RobotAR: An augmented reality compatible teleconsulting robotics toolkit for augmented makerspaces experiences",
                     "authors": [
                         "Villanueva, A.",
@@ -1183,14 +1065,11 @@
                 }
             ]
         },
-
         {
             "year": 2020,
             "list": [
-
                 {
                     "_comment": "Comment",
-
                     "title": "Consensual assessment in the new domain of e-textiles: Comparing insights from expert, quasi-expert, and novice judges",
                     "authors": [
                         "Phonethibsavads, A.",
@@ -1203,7 +1082,6 @@
                     "cat": "etx",
                     "file": "2020 - J37.pdf"
                 },
-
                 {
                     "title": "Editorial: Advancing posthumanist perspectives on technology‐rich learning",
                     "authors": [
@@ -3170,8 +3048,7 @@
             ]
         }
     ],
-    "publicationAuthors": [
-    ],
+    "publicationAuthors": [],
     "social_icons": [
         "facebook",
         "twitter",
@@ -3180,9 +3057,7 @@
         "linkedin"
     ],
     "team": [
-
         {
-            "_comment": "TODO Add Team Members",
             "name": "Dr. Kylie A. Peppler",
             "photo": "team_kp.png",
             "title": "Lab Director",
@@ -3206,7 +3081,6 @@
                 }
             ]
         },
-
         {
             "name": "Julie Herrick",
             "photo": "team_julieh.png",
@@ -3223,7 +3097,6 @@
                 }
             ]
         },
-
         {
             "name": "Jenna Abrams",
             "photo": "team_ja.png",
@@ -3236,20 +3109,6 @@
                 }
             ]
         },
-
-        {
-            "name": "Amanda Wortman",
-            "photo": "team_aw.png",
-            "title": "Senior Research Manager",
-            "intro": "Amanda is the Senior Research Manager of the Connected Learning Lab, and has been with the CLL since 2011. Building on her experiences as a statistician at the Center for Research on Information Technology and Organizations (UC Irvine) and a program coordinator at a local education nonprofit, Amanda serves as the data and research manager for the Lab’s research projects. She holds a Masters degree in Demographic and Social Analysis from UC Irvine.",
-            "social": [
-                {
-                    "type": "twitter",
-                    "url": "http://twitter.com/@DMLamanda"
-                }
-            ]
-        },
-
         {
             "name": "Maggie Dahn",
             "photo": "team_md.png",
@@ -3266,7 +3125,6 @@
                 }
             ]
         },
-
         {
             "name": "Seth Corrigan",
             "photo": "team_sc.png",
@@ -3279,7 +3137,6 @@
                 }
             ]
         },
-        
         {
             "name": "Joey Huang",
             "photo": "team_jh.png",
@@ -3305,44 +3162,6 @@
             ]
         },
         {
-            "name": "Anthony Phonethibsavads",
-            "photo": "team_tp.png",
-            "title": "Postdoctoral researcher",
-            "intro": "Born and raised in Orange County, Tony graduated from Indiana University Bloomington with a Ph.D in Learning Sciences. With deep roots in the arts (having attended OCSA as a high school student), his work investigates the intersection of learning and creativity. He utilizes a multimethod approach to examine authentic activities in context, such as improvisational theater, digital media integration, and learning analytics.",
-            "social": [
-                {
-                    "type": "email",
-                    "url": "mailto:anphonet@indiana.edu"
-                }
-            ]
-        },
-
-        {
-            "name": "Layne Jackson Hubbard",
-            "photo": "team_ljh.png",
-            "title": "Postdoctoral Researcher",
-            "intro": "Layne is a Computing Innovation Fellow in the School of Education, with a triple Ph.D. in computer science, cognitive science, and neuroscience from the University of Colorado Boulder. As a former preschool teacher, Layne loves exploring how playful interaction design can support young children in sharing their ideas with the world.",
-            "social": [
-                {
-                    "type": "email",
-                    "url": "mailto:layneh@uci.edu"
-                },
-                {
-                    "type": "twitter",
-                    "url": "https://twitter.com/yolayne"
-                },
-                {
-                    "type": "linkedin",
-                    "url": "http://linkedin.com/in/dreamlayne"
-                },
-                {
-                    "type":"web",
-                    "url":"https://laynes.world/"
-                }
-            ]
-        },
-
-        {
             "name": "Aakriti Bisht",
             "photo": "team_ab.png",
             "title": "Graduate Student Researcher",
@@ -3362,7 +3181,6 @@
                 }
             ]
         },
-
         {
             "name": "Zhenyao Cai",
             "photo": "team_zc.png",
@@ -3383,7 +3201,6 @@
                 }
             ]
         },
-
         {
             "name": "Lora Cawelti",
             "photo": "team_lc.png",
@@ -3400,8 +3217,6 @@
                 }
             ]
         },
-
-
         {
             "name": "Phebe Chew",
             "photo": "team_pc.png",
@@ -3414,24 +3229,6 @@
                 }
             ]
         },
-
-        {
-            "name": "Mengqi Gao",
-            "photo": "team_mg.png",
-            "title": "Graduate Student Researcher",
-            "intro": "Mengqi is a Ph.D. student in Informatics with a background in arts and game design. Mengqi's research focuses on the intersection of arts, AI, and ethics.",
-            "social": [
-                {
-                    "type": "email",
-                    "url": "mailto:mengqig1@uci.edu"
-                },
-                {
-                    "type": "web",
-                    "url": "https://www.mengqigao.com/"
-                }
-            ]
-        },
-
         {
             "name": "Ariel Han",
             "photo": "team_ah.png",
@@ -3456,7 +3253,6 @@
                 }
             ]
         },
-
         {
             "name": "Shenshen Han",
             "photo": "team_sh.png",
@@ -3477,7 +3273,6 @@
                 }
             ]
         },
-
         {
             "name": "Santiago Ojeda-Ramirez",
             "photo": "team_sor.png",
@@ -3494,7 +3289,6 @@
                 }
             ]
         },
-
         {
             "name": "Mishael Sedas",
             "photo": "team_ms.png",
@@ -3519,7 +3313,6 @@
                 }
             ]
         },
-
         {
             "name": "Seth Van Doren",
             "photo": "team_svd.png",
@@ -3532,7 +3325,6 @@
                 }
             ]
         },
-
         {
             "name": "Nikki Yankova",
             "photo": "team_ny.png",
@@ -3540,7 +3332,6 @@
             "intro": "Nikki is a Ph.D student in Education with a background in math, English literature, and creative writing. She is interested in developing tools to facilitate learning and creative thought to promote mathematical thinking and broadening participation of underrepresented groups in STEM fields.",
             "social": []
         },
-
         {
             "name": "Ulia Zaman",
             "photo": "team_uz.jpg",
@@ -3553,7 +3344,6 @@
                 }
             ]
         }
-        
     ],
     "private": [
         "B017A8VKRSB",
