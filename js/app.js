@@ -153,7 +153,7 @@ function initVue() {
         });
 
         Vue.component("my-simple-pub-item", {
-            template: "<div v-if='showThisPaper'><strong v-for='author in paper.authors' v-bind:class=\"{'my-tag-on-author': author.show && !showAllAuthors}\">{{author.name}},&nbsp;</strong><span v-if='showYear'>&nbsp;({{showYear}}).&nbsp;</span><a v-bind:href='paper.file' target='_blank' v-bind:class=\"{'my-link-no-file': !paper.file}\">\"{{paper.title}}\"</a><span>.&nbsp;</span><span>{{paper.otherText}}</span></div>",
+            template: "#my-pub-comp-temp",
             props: ["paper", "showAllAuthors", "allCats", "showYear"],
             computed: {
                 showThisPaper() {
@@ -185,6 +185,19 @@ function initVue() {
                         }
                     }
                     return haveOneAuthorToShow && showThisCat;
+                },
+                authorText() {
+                    let index = this.paper.authors.length - 1;
+                    let text = "";
+                    if (index > -1) {
+                        text += this.paper.authors[index].name;
+                        index -= 1;
+                    }
+                    while (index >= 0) {
+                        text = this.paper.authors[index].name + ", " + text;
+                        index -= 1;
+                    }
+                    return text;
                 }
             }
         });
