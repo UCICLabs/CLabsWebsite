@@ -341,9 +341,20 @@
     ],
     "publications": [
         {
-            "_comment": "TODO 2023 Publications",
             "year": 2023,
             "list": [
+                {
+                    "title": "Lights up! Assessing standards-based performance skills in drama education.",
+                    "authors": [
+                        "Peppler, K.",
+                        "Bender, S.",
+                        "Phonethibsavads, T.",
+                        "Yankova, N."
+                    ],
+                    "otherText": "Studies in Educational Evaluation.",
+                    "cat": "etx",
+                    "file": "2023_J52.pdf"
+                },
                 {
                     "_comment": "Blikstein, P., Davis, R., Rosenbaum, L., Zheng, Y., Halverson, E., Martin, L., Peppler, K.,  Thomas Murphy, C., Vossoughi, S., Worsley, M., Yankova, N., Hooper, P. (2023). . ",
                     "title": "The future of maker education",
