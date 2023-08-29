@@ -32,8 +32,8 @@
     <script type="text/x-template" id="my-pub-comp-temp">
         <div v-if="showThisPaper">
             <strong>{{authorText}}</strong>
-            <span v-if="showYear">&nbsp;({{showYear}}).</span>
-            <a v-bind:href="paper.file" target="_blank" v-bind:class="{'my-link-no-file': !paper.file}">&nbsp;{{paper.title}}</a><span>.&nbsp;</span><span>{{paper.otherText}}</span>
+            <span v-if="showYear">({{showYear}}).</span>
+            <a v-bind:href="paper.file" target="_blank" v-bind:class="{'my-link-no-file': !paper.file}">{{paper.title}}</a><span>.&nbsp;</span><span>{{paper.otherText}}</span>
         </div>
       </script>
     <header class="responsive-nav hidden-lg hidden-md">
