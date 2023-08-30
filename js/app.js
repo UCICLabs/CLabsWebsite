@@ -191,6 +191,9 @@ function initVue() {
                     let text = "";
                     if (index > -1) {
                         text += this.paper.authors[index].name;
+                        if (this.paper.authors.length > 1) {
+                            text = " & " + text;
+                        }
                         index -= 1;
                     }
                     while (index >= 0) {
