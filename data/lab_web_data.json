@@ -344,7 +344,20 @@
             "year": 2023,
             "list": [
                 {
-                    "title": "Lights up! Assessing standards-based performance skills in drama education.",
+                    "title": "RoboLoom: An Open-Source Loom Kit for Interdisciplinary Engagement in Math, Engineering, and Textiles",
+                    "authors": [
+                        "Speer, S.",
+                        "Huang, J.",
+                        "Yankova, N.",
+                        "Rose, C.",
+                        "Peppler, K.",
+                        "Orta-Martinez, M."
+                    ],
+                    "otherText": "The ACM Symposium on User Interface Software and Technology (UIST) 2023. San Francisco, CA.",
+                    "cat": "etx"
+                },
+                {
+                    "title": "Lights up! Assessing standards-based performance skills in drama education",
                     "authors": [
                         "Peppler, K.",
                         "Bender, S.",
@@ -356,7 +369,6 @@
                     "file": "2023_J52.pdf"
                 },
                 {
-                    "_comment": "Blikstein, P., Davis, R., Rosenbaum, L., Zheng, Y., Halverson, E., Martin, L., Peppler, K.,  Thomas Murphy, C., Vossoughi, S., Worsley, M., Yankova, N., Hooper, P. (2023). . ",
                     "title": "The future of maker education",
                     "authors": [
                         "Blikstein, P.",
@@ -373,19 +385,20 @@
                         "Hooper, P."
                     ],
                     "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
-                    "cat": "etx"
+                    "cat": "etx",
+                    "file": "2023_CP83.pdf"
                 },
                 {
-                    "_comment": "",
                     "title": "Navigating Tensions: Dominant Traditions and Culturally Sustaining Practices in Music Learning",
                     "authors": [
-                        "Cawelti, L."
+                        "Cawelti, L.",
+                        "Peppler, K."
                     ],
-                    "otherText": "In: NAMES (Eds.) International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
-                    "cat": "anc"
+                    "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
+                    "cat": "anc",
+                    "file": "2023_CP84.pdf"
                 },
                 {
-                    "_comment": "",
                     "title": "“Let’s Go; We’re Writing a Song”: Co-Creating Auditory and Placial Space in an Afterschool Music Program",
                     "authors": [
                         "Cawelti, L.",
@@ -398,10 +411,10 @@
                         "Sikkema, S."
                     ],
                     "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
-                    "cat": "anc"
+                    "cat": "anc",
+                    "file": "2023_CP82.pdf"
                 },
                 {
-                    "_comment": "Chew, P., Peppler, K., DiGiacomo, D., Nelligan, P., Sefton-Green, J. (2023). . ",
                     "title": "Relational connective tissue: A case study of freedom of movement in culinary learning",
                     "authors": [
                         "Chew, P.",
@@ -411,7 +424,8 @@
                         "Sefton-Green, J."
                     ],
                     "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
-                    "cat": "anc"
+                    "cat": "anc",
+                    "file": "2023_CP81.pdf"
                 },
                 {
                     "_comment": "Dahn, M., Peppler, K., & Ito, M. (2023). ",
@@ -426,7 +440,6 @@
                     "file": "2023 - J51.pdf"
                 },
                 {
-                    "_comment": "DiGiacomo, D., Chew, P., Nelligan, P., Mejias, S., & Peppler, K. (2023). . International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
                     "title": "The interdependence of identity, belonging, and learning: Evidence from an out-of-school arts life-course study",
                     "authors": [
                         "DiGiacomo, D.",
@@ -436,10 +449,10 @@
                         "Peppler, K."
                     ],
                     "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
-                    "cat": "anc"
+                    "cat": "anc",
+                    "file": "2023_CP80.pdf"
                 },
                 {
-                    "_comment": "Fishman, B., Herrenkohl, L., Pinkard, N., Taylor, K., Cederquist, S., Gu, X., Jones, D., Lee, J., Lee, L., Majors, Y., Reid, C., Samuelson, A., Henriquez, A., Penuel W., & Peppler, K. (2023). . ",
                     "title": "Out-of-School Time: Divergent Learning, Divergent Opportunities",
                     "authors": [
                         "Fishman, B.",
@@ -459,7 +472,8 @@
                         "Peppler, K."
                     ],
                     "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
-                    "cat": "sth"
+                    "cat": "sth",
+                    "file": "2023_CP79.pdf"
                 },
                 {
                     "_comment": "Han, A (2023).  ",
@@ -574,15 +588,15 @@
                     "cat": "anc"
                 },
                 {
-                    "_comment": "file2023 - J50.pdf; Peppler, K., Sedas, M., & Thompson, N. (2023). . ",
                     "title": "Paper Circuits vs. Breadboards: Materializing Learners’ Powerful Ideas Around Circuitry and Layout Design",
                     "authors": [
                         "Peppler, K.",
                         "Sedas, M.",
                         "Thompson, N."
                     ],
-                    "otherText": "Journal of Science Education and Technology.",
-                    "cat": "scm"
+                    "otherText": "Journal of Science Education and Technology, 32, 469–492 (2023).",
+                    "cat": "scm",
+                    "file": "2023_j50.pdf"
                 },
                 {
                     "_comment": "Saxena, P., Keune, A., Thompson, N., Peppler, K. (2023). . ",
