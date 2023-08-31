@@ -344,6 +344,21 @@
             "year": 2023,
             "list": [
                 {
+                    "title": "Learning at Work: Visual Learning Analytics to Upskill Aerospace Engineers in Advanced Manufacturing",
+                    "authors": [
+                        "Peppler, K.",
+                        "Huang, J.",
+                        "Richey, M.",
+                        "Ginda, M.",
+                        "Börner, K.",
+                        "Quinlan, H.",
+                        "Hart, J."
+                    ],
+                    "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
+                    "cat": "etx",
+                    "file": "2023_CP74.pdf"
+                },
+                {
                     "title": "RoboLoom: An Open-Source Loom Kit for Interdisciplinary Engagement in Math, Engineering, and Textiles",
                     "authors": [
                         "Speer, S.",
@@ -499,7 +514,6 @@
                     "file": "2023 - J23HanAIStory.pdf"
                 },
                 {
-                    "_comment": "Huang, J., Cawelti, L., Peppler, K. (2023).  . ",
                     "title": "Exploring algorithm building through designing and making kinetic sculpture",
                     "authors": [
                         "Huang, J.",
@@ -507,10 +521,10 @@
                         "Peppler, K."
                     ],
                     "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
-                    "cat": "anc"
+                    "cat": "anc",
+                    "file": "2023_CP78.pdf"
                 },
                 {
-                    "_comment": "Kumar, V., Fields, D., Blikstein, P., Peppler, K. Dahn., M., Ito, M., Braaten, M., Hayden, R., Roque, R., Chang, M. A., Philip, T., Worsley, M., Pinkard, N. (2023). . ",
                     "title": "Expansive Lenses to Examine Interventions (of) Moving Across Contexts",
                     "authors": [
                         "Kumar, V.",
@@ -528,10 +542,10 @@
                         "Pinkard, N."
                     ],
                     "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
-                    "cat": "sth"
+                    "cat": "sth",
+                    "file": "2023_CP77.pdf"
                 },
                 {
-                    "_comment": "Ojeda-Ramírez, S., Cawelti, L., Huang, J., Peppler, K. (2023). . ",
                     "title": "Tools dictate the divide: entrenched gendered practices in the making of kinetic sculptures",
                     "authors": [
                         "Ojeda-Ramírez, S.",
@@ -540,10 +554,10 @@
                         "Peppler, K."
                     ],
                     "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
-                    "cat": "anc"
+                    "cat": "anc",
+                    "file": "2023_CP76.pdf"
                 },
                 {
-                    "_comment": "Ojeda-Ramírez, S., Sedas, M., Peppler, K. (2023). . ",
                     "title": "Community Cultural Wealth in LatinoFuturism: Leveraging Speculative Fiction for STEM + Arts Asset-Based Pedagogies",
                     "authors": [
                         "Ojeda-Ramírez, S.",
@@ -551,7 +565,8 @@
                         "Peppler, K."
                     ],
                     "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
-                    "cat": "anc"
+                    "cat": "anc",
+                    "file": "2023_CP75.pdf"
                 },
                 {
                     "_comment": "Peppler, K., Dahn, M., & Ito, M. (2023). . The Wallace Foundation.",
@@ -576,7 +591,6 @@
                     "cat": "sth"
                 },
                 {
-                    "_comment": "Peppler, K., Keune, A., Bender, S., Yankova, N. (2023). . ",
                     "title": "Theorizing mathematical unitizing through fiber crafts",
                     "authors": [
                         "Peppler, K.",
@@ -585,7 +599,8 @@
                         "Yankova, N."
                     ],
                     "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
-                    "cat": "anc"
+                    "cat": "anc",
+                    "file": "2023_CP73.pdf"
                 },
                 {
                     "title": "Paper Circuits vs. Breadboards: Materializing Learners’ Powerful Ideas Around Circuitry and Layout Design",
