@@ -344,6 +344,18 @@
             "year": 2023,
             "list": [
                 {
+                    "title": "To Quilt is to Math: Investigating the Breadth and Depth of Mathematics in Fiber Crafts",
+                    "authors": [
+                        "Saxena, P.",
+                        "Keune, A.",
+                        "Thompson, N.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
+                    "cat": "etx",
+                    "file": "2023_CP72.pdf"
+                },
+                {
                     "title": "Learning at Work: Visual Learning Analytics to Upskill Aerospace Engineers in Advanced Manufacturing",
                     "authors": [
                         "Peppler, K.",
@@ -626,7 +638,6 @@
                     "cat": "anc"
                 },
                 {
-                    "_comment": "Vitiello, R., Huang, J., Speer, S., Yankova, N., Peppler, K., Orta-Martinez, M., Rose, C. (2023). . International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
                     "title": "Studying interdisciplinary collaboration as a core skill",
                     "authors": [
                         "Vitiello, R.",
@@ -638,7 +649,8 @@
                         "Rose, C."
                     ],
                     "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
-                    "cat": "sth"
+                    "cat": "sth",
+                    "file": "2023_CP71.pdf"
                 },
                 {
                     "_comment": "Yankova, N. (2023). . International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences. ",
@@ -650,7 +662,6 @@
                     "cat": "scm"
                 },
                 {
-                    "_comment": "Yankova, N., Huang, J., Vitiello, R., Speer, S., Orta-Martinez, M., Rose, C., Peppler, K. (2023). . ",
                     "title": "“Where is the Z-axis?“: Negotiating understanding of servo rotation through gestures and tools",
                     "authors": [
                         "Yankova, N.",
@@ -662,10 +673,10 @@
                         "Peppler, K."
                     ],
                     "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
-                    "cat": "sth"
+                    "cat": "sth",
+                    "file": "2023_CP70.pdf"
                 },
                 {
-                    "_comment": "Zhu, Z., Liu, Z., Zhang Y., Zhu, L., Huang, J., Villanueva, A., Qian, X., Peppler, K., Ramani, K. (2023).  ",
                     "title": "LearnIoTVR: An End-to-end Virtual Reality Environment Providing Authentic Learning Experiences for Internet of Things",
                     "authors": [
                         "Zhu, Z.",
@@ -679,7 +690,8 @@
                         "Ramani, K."
                     ],
                     "otherText": "The ACM CHI Conference on Human Factors in Computing Systems 2023.",
-                    "cat": "fow"
+                    "cat": "fow",
+                    "file": "2023_CP69.pdf"
                 }
             ]
         },
