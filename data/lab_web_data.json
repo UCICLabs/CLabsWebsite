@@ -581,7 +581,6 @@
                     "file": "2023_CP75.pdf"
                 },
                 {
-                    "_comment": "Peppler, K., Dahn, M., & Ito, M. (2023). . The Wallace Foundation.",
                     "title": "The Connected Arts Learning Framework: An expanded view of the purposes and possibilities for arts learning",
                     "authors": [
                         "Peppler, K.",
@@ -590,7 +589,7 @@
                     ],
                     "otherText": "The Wallace Foundation.",
                     "cat": "sug",
-                    "file": "2023 - W23ConnectedArtsLearning.pdf"
+                    "file": "2023_TR22.pdf"
                 },
                 {
                     "_comment": "Peppler, K., Huang, J. (2023). . ",
@@ -696,11 +695,22 @@
             ]
         },
         {
-            "_comment": "2022 Publications",
             "year": 2022,
             "list": [
                 {
-                    "_comment": "Schindler, E., & Peppler, K. (2022). . ",
+                    "title": "Designing for others: the roles of narrative and empathy in supporting girls’ engineering engagement",
+                    "authors": [
+                        "Peppler, K.",
+                        "Keune, A.",
+                        "Dahn, M.",
+                        "Bennet, D.",
+                        "Letourneau, S. M."
+                    ],
+                    "otherText": "Information and Learning Sciences, 123(3), 129-153.",
+                    "cat": "sth",
+                    "file": "2022_J45.pdf"
+                },
+                {
                     "title": "Designing for connected arts learning through culturally sustaining practices",
                     "authors": [
                         "Dahn, M.",
@@ -709,7 +719,8 @@
                         "Peppler, K."
                     ],
                     "otherText": "In: J. Oshima, T. Mochizuki, & Y. Hayashi (Eds.) International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2022 (pp. 1946-1947). Hiroshima, Japan: International Society of the Learning Sciences.",
-                    "cat": "anc"
+                    "cat": "anc",
+                    "file": "2022_CP67.pdf"
                 },
                 {
                     "_comment": "Han, A., Huang, J., Villanueva, A. M., Peppler, K. A., Liu, Z., Zhu, Z., & Ramani, K. (2022). . ",
@@ -798,7 +809,6 @@
                     "file": "2022 - CP68.pdf"
                 },
                 {
-                    "_comment": ". . ",
                     "title": "#Quiltsforpulse: Connected and shared production-centered socio-political activism through craftivism",
                     "authors": [
                         "Keune, A.",
@@ -810,7 +820,6 @@
                     "file": "2022 - J47.pdf"
                 },
                 {
-                    "_comment": "Peppler, K. (2022). . ",
                     "title": "Makerspaces: Supporting Creativity and Innovation by Design",
                     "authors": [
                         "Peppler, K."
@@ -820,7 +829,6 @@
                     "file": "2022 - BC30.pdf"
                 },
                 {
-                    "_comment": ". ",
                     "title": "Connected Arts Learning: Cultivating Equity Through Connected and Creative Educational Experiences",
                     "authors": [
                         "Peppler, K.",
@@ -832,7 +840,6 @@
                     "file": "2022 - J46.pdf"
                 },
                 {
-                    "_comment": "J45",
                     "title": "Designing for Interpersonal Connections to Support Empathy in Museum Engineering Exhibits",
                     "authors": [
                         "Peppler, K.",
@@ -845,7 +852,6 @@
                     "cat": "sth"
                 },
                 {
-                    "_comment": "Peppler, K., Keune, A., Thompson, N., Saxena, P. (2022). .  ",
                     "title": "Craftland is mathland: Mathematical insight and the generative role of fiber crafts in Maker Education",
                     "authors": [
                         "Peppler, K.",
@@ -858,17 +864,16 @@
                     "file": "2022 - J49.pdf"
                 },
                 {
-                    "_comment": "CP64",
                     "title": "Teachers Noticing Student Interest: A Micro-interactional Foundation for Interest-driven Learning",
                     "authors": [
                         "Schindler, E.",
                         "Peppler, K."
                     ],
                     "otherText": "In: J. Oshima, T. Mochizuki, & Y. Hayashi (Eds.) International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2022 (pp. 2010 - 2011). Hiroshima, Japan: International Society of the Learning Sciences.",
-                    "cat": "sth"
+                    "cat": "sth",
+                    "file": "2022_CP64.pdf"
                 },
                 {
-                    "_comment": "file2022 - CP66.pdf",
                     "title": "“Keeping them with us”: Constructing equitable online spaces for the theatre classroom",
                     "authors": [
                         "Yankova, N.",
@@ -880,7 +885,8 @@
                         "Sikkema, S."
                     ],
                     "otherText": "In: J. Oshima, T. Mochizuki, & Y. Hayashi (Eds.) International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2022 (pp. 2138 - 2139). Hiroshima, Japan: International Society of the Learning Sciences.",
-                    "cat": "sth"
+                    "cat": "sth",
+                    "file": "2022_CP66.pdf"
                 }
             ]
         },
@@ -944,7 +950,6 @@
                     "file": "2021 - CP58.pdf"
                 },
                 {
-                    "_comment": "Comment",
                     "title": "Sustainability and scalability of CSCL",
                     "authors": [
                         "Law, N.",
@@ -956,7 +961,6 @@
                     "file": "2021 - BC29.pdf"
                 },
                 {
-                    "_comment": "Comment",
                     "title": "Observing Empathy in Informal Engineering Activities with Girls Ages 7–14",
                     "authors": [
                         "Letourneau, S.",
@@ -973,7 +977,6 @@
                     "file": "2021 - J44.pdf"
                 },
                 {
-                    "_comment": "Comment",
                     "title": "Observing Empathy in Informal Engineering Activities With Girls Ages 7–14",
                     "authors": [
                         "Letourneau, S.",
@@ -990,7 +993,6 @@
                     "file": "2021 - CP61.pdf"
                 },
                 {
-                    "_comment": "Comment",
                     "title": "The trouble with steam and why we use it anyway",
                     "authors": [
                         "Mejias, S.",
@@ -1057,7 +1059,6 @@
                     "file": "2021 - BC28.pdf"
                 },
                 {
-                    "_comment": "Sedas, R. M., Peppler, K., & Thompson, N. (2021). .  ",
                     "title": "Breadboards and Paper Circuits: Differences in Advanced Circuitry Learning and PCB Layout Design",
                     "authors": [
                         "Sedas, R. M.",
@@ -1301,16 +1302,6 @@
                     "otherText": "In M. Gresalfi & I. Horn (Eds.), The interdisciplinarity of the learning sciences: International conference of the learning sciences (ICLS) 2020. Nashville, TN: International Society of the Learning Sciences.",
                     "cat": "anc",
                     "file": "2020_Tuning_into_the_craft.pdf"
-                },
-                {
-                    "title": "Sustainability and scalability of CSCL",
-                    "authors": [
-                        "Law, N.",
-                        "Zhang, J.",
-                        "Peppler, K."
-                    ],
-                    "otherText": "In the International handbook of computer-supported collaborative learning.",
-                    "cat": "idl"
                 },
                 {
                     "title": "Reclaiming traditionally feminine practices and materials for STEM learning through the modern maker movement",
