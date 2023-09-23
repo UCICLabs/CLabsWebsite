@@ -115,7 +115,7 @@
             "id": "lata",
             "pic": "img/projects/project_icon_lata.png",
             "title": "Learning and Achieving Through the Arts (LATA)",
-            "abstract": "<strong>Funded by the <a href=\"https://www.ed.gov/\" target=\"blank\">The Learning and Achieving Through the Arts (LATA) program provided arts education to youth (grades K through 6) who were facing barriers to succeed in school that stem from poverty, homelessness, and limited English-language proficiency...",
+            "abstract": "<strong>Funded by the <a href=\"https://www.ed.gov/\" target=\"blank\">US Department of Education</a></strong><br/>The Learning and Achieving Through the Arts (LATA) program provided arts education to youth (grades K through 6) who were facing barriers to succeed in school that stem from poverty, homelessness, and limited English-language proficiency...",
             "groups": [
                 0
             ],
@@ -623,18 +623,6 @@
                     "otherText": "Journal of Science Education and Technology, 32, 469–492 (2023).",
                     "cat": "scm",
                     "file": "2023_j50.pdf"
-                },
-                {
-                    "_comment": "Saxena, P., Keune, A., Thompson, N., Peppler, K. (2023). . ",
-                    "title": "The Interplay of Math and Crafts: Investigating the Breadth and Depth of Mathematics in Fiber Crafts",
-                    "authors": [
-                        "Saxena, P.",
-                        "Keune, A.",
-                        "Thompson, N.",
-                        "Peppler, K."
-                    ],
-                    "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
-                    "cat": "anc"
                 },
                 {
                     "title": "Studying interdisciplinary collaboration as a core skill",
@@ -3599,6 +3587,11 @@
             "link": "http://www.modkit.com/",
             "img": "img/partners/modkitlogo.png",
             "title": "Modkit"
+        },
+        {
+            "link": "https://www.samueli.org/",
+            "img": "img/partners/samueli.jpg",
+            "title": "Samueli Foundation"
         }
     ],
     "news": [
