@@ -374,14 +374,17 @@
                     "title": "RoboLoom: An Open-Source Loom Kit for Interdisciplinary Engagement in Math, Engineering, and Textiles",
                     "authors": [
                         "Speer, S.",
+                        "Garcia-Alonzo, A.",
                         "Huang, J.",
                         "Yankova, N.",
                         "Rose, C.",
                         "Peppler, K.",
+                        "McCann, J.",
                         "Orta-Martinez, M."
                     ],
                     "otherText": "The ACM Symposium on User Interface Software and Technology (UIST) 2023. San Francisco, CA.",
-                    "cat": "etx"
+                    "cat": "etx",
+                    "file": "uist23-12-accessible.pdf"
                 },
                 {
                     "title": "Lights up! Assessing standards-based performance skills in drama education",
@@ -592,7 +595,6 @@
                     "file": "2023_TR22.pdf"
                 },
                 {
-                    "_comment": "Peppler, K., Huang, J. (2023). . ",
                     "title": "Visual Learning Analytics to Upskill Aerospace Engineers in Advanced Manufacturing",
                     "authors": [
                         "Peppler, K.",
