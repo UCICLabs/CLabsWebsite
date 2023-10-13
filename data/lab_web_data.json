@@ -371,18 +371,16 @@
                     "file": "2023_CP74.pdf"
                 },
                 {
-                    "title": "RoboLoom: An Open-Source Loom Kit for Interdisciplinary Engagement in Math, Engineering, and Textiles",
+                    "title": "RoboLoom: Collaboratively re-crafting CS education",
                     "authors": [
                         "Speer, S.",
-                        "Garcia-Alonzo, A.",
                         "Huang, J.",
                         "Yankova, N.",
                         "Rose, C.",
                         "Peppler, K.",
-                        "McCann, J.",
                         "Orta-Martinez, M."
                     ],
-                    "otherText": "The ACM Symposium on User Interface Software and Technology (UIST) 2023. San Francisco, CA.",
+                    "otherText": "In J. D. Slotta & E., Charles (Eds.) 3rd Annual Meeting of the International Society of the Learning Sciences (ISLS) Annual Meeting 2023 (pp. 31-34). Montreal, Canada: International Society of the Learning Sciences.",
                     "cat": "etx",
                     "file": "uist23-12-accessible.pdf"
                 },
@@ -458,7 +456,6 @@
                     "file": "2023_CP81.pdf"
                 },
                 {
-                    "_comment": "Dahn, M., Peppler, K., & Ito, M. (2023). ",
                     "title": "“We hear everyday, ‘This isn’t me.’” Translating interests toward STEM through entrepreneurial making",
                     "authors": [
                         "Dahn, M.",
@@ -506,7 +503,6 @@
                     "file": "2023_CP79.pdf"
                 },
                 {
-                    "_comment": "Han, A (2023).  ",
                     "title": "Implications of AI art generators to broaden visual literacy and creative expression for young learners",
                     "authors": [
                         "Han, A."
@@ -516,7 +512,6 @@
                     "file": "2023 - J23HanImplications.pdf"
                 },
                 {
-                    "_comment": "Han, A., Cai, Z., Jeong, S., & Choi, S. M. (2023). . ",
                     "title": "AIStory: design implication of using generative arts AI for visual storytelling",
                     "authors": [
                         "Han, A.",
@@ -535,7 +530,7 @@
                         "Cawelti, L.",
                         "Peppler, K."
                     ],
-                    "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
+                    "otherText": "In P. Blikstein, J. V. Aalst, R. Kizito, & K. Brennan (Eds.) 17th International Conference of the Learning Sciences (ICLS) (pp. 1494-1497). Montreal, Canada: International Society of the Learning Sciences.",
                     "cat": "anc",
                     "file": "2023_CP78.pdf"
                 },
@@ -568,7 +563,7 @@
                         "Huang, J.",
                         "Peppler, K."
                     ],
-                    "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
+                    "otherText": "In P. Blikstein, J. V. Aalst, R. Kizito, K. Brennan (Eds.) 17th International Conference of the Learning Sciences (ICLS) (pp. 1964-1966). Montreal, Canada: International Society of the Learning Sciences.",
                     "cat": "anc",
                     "file": "2023_CP76.pdf"
                 },
@@ -600,7 +595,7 @@
                         "Peppler, K.",
                         "Huang, J."
                     ],
-                    "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
+                    "otherText": "In P. Blikstein, J. V. Aalst, R. Kizito, K. Brennan (Eds.) 17th International Conference of the Learning Sciences (ICLS) (pp. 1900-1902). Montreal, Canada: International Society of the Learning Sciences.",
                     "cat": "sth"
                 },
                 {
@@ -637,12 +632,11 @@
                         "Orta-Martinez, M.",
                         "Rose, C."
                     ],
-                    "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
+                    "otherText": "In C. Damșa, M. Borge, E. Koh, & M. Worsley (Eds.) 16th International Conference on Computer-Supported Collaborative Learning (CSCL) H(pp. 378-379). Montreal, Canada: International Society of the Learning Sciences.",
                     "cat": "sth",
                     "file": "2023_CP71.pdf"
                 },
                 {
-                    "_comment": "Yankova, N. (2023). . International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences. ",
                     "title": "Toward a “queering” of mathematics: Understanding the LGBTQ+ experience and designing to disrupt normative learning practices",
                     "authors": [
                         "Yankova, N."
@@ -651,7 +645,7 @@
                     "cat": "scm"
                 },
                 {
-                    "title": "“Where is the Z-axis?“: Negotiating understanding of servo rotation through gestures and tools",
+                    "title": "\"Where is the Z-axis?\": Negotiating understanding of servo rotation through gestures and tools",
                     "authors": [
                         "Yankova, N.",
                         "Huang, J.",
@@ -661,7 +655,7 @@
                         "Rose, C.",
                         "Peppler, K."
                     ],
-                    "otherText": "International Collaboration toward Educational Innovation for All: International Society of the Learning Sciences (ISLS) Annual Meeting 2023. Montreal, Canada: International Society of the Learning Sciences.",
+                    "otherText": "In P. Blikstein, J. V. Aalst, R. Kizito, & K. Brennan (Eds.) 17th International Conference of the Learning Sciences (ICLS) (pp. 1254-1257). Montreal, Canada: International Society of the Learning Sciences.",
                     "cat": "sth",
                     "file": "2023_CP70.pdf"
                 },
