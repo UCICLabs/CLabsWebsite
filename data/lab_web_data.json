@@ -59,7 +59,8 @@
             "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=1647150&HistoricalAwards=false\" target=\"blank\">(#1647150)</a> and Wellcome Trust</strong><br/>As part of the broader Science Learning+ project Creativity and Equity in STEM Learning, this project explores how does the materiality of tools and materials shape learning in arts-and-science experiences...",
             "groups": [
                 0
-            ]
+            ],
+            "done": true
         },
         {
             "id": "nexus",
@@ -147,7 +148,8 @@
             "abstract": "<strong>Funded by the City of Santa Ana.</strong><br/>This project aims build capacity among librarians and library staff around interest driven learning in libraries...",
             "groups": [
                 1
-            ]
+            ],
+            "done": true
         },
         {
             "id": "summer",
@@ -157,7 +159,8 @@
             "abstract": "<strong>Funded by Design, Make, Learn and in partnership with the Long Beach Unified School District.</strong><br/>This research and evaluation partnership centers on design thinking and making in out-of-school learning...",
             "groups": [
                 1
-            ]
+            ],
+            "done": true
         },
         {
             "id": "narr",
@@ -166,7 +169,8 @@
             "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=1712803&HistoricalAwards=false\" target=\"blank\">(DRL #1712803)</a></strong><br/>This project systematically investigated whether and how narrative elements of engineering design activities can influence engagement with those activities. The goal was to build evidence-based guidance for exhibit and program development and for facilitation of engineering design activities that can provide equitable, effective engineering design experiences for girls...",
             "groups": [
                 1
-            ]
+            ],
+            "done": true
         },
         {
             "id": "makered",
@@ -254,7 +258,8 @@
             "abstract": "<strong>Funded by The National Science Foundation <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=1713567\" target=\"blank\">(DRL #1713567)</a></strong><br/>This innovations in Development AISL project is motivated by the insight that in the information age, being able to 'read and write' data visualizations is becoming as important as being able to read and write text..",
             "groups": [
                 2
-            ]
+            ],
+            "done": true
         },
         {
             "id": "humanrobo",
