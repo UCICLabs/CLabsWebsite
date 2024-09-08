@@ -3847,6 +3847,18 @@
             "title": "Samueli Foundation"
         }
     ],
+    "partners2": [
+        {
+            "link": "https://www.texthelp.com/",
+            "img": "img/partners/texthelp-master-logo.png",
+            "title": "Texthelp"
+        },
+        {
+            "link": "https://stemnext.org/",
+            "img": "img/partners/stem_next.png",
+            "title": "STEM Next Opportunity Fund"
+        }
+    ],
     "news": [
         {
             "title": "<em>StoryAI</em> advanced in NSF-sponsored VITAL Prize Challenge Semi-Final Round",

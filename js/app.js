@@ -151,6 +151,13 @@ function initVue() {
             }
             partnerRows[partnerRows.length - 1].push(p);
         });
+        var partnerRows2 = [];
+        res.partners2.forEach(function (p, index) {
+            if (index % 5 === 0) {
+                partnerRows2.push([]);
+            }
+            partnerRows2[partnerRows2.length - 1].push(p);
+        });
 
         Vue.component("my-simple-pub-item", {
             template: "#my-pub-comp-temp",
@@ -228,6 +235,7 @@ function initVue() {
                     contactSubject: "",
                     contactMessage: "",
                     partners: partnerRows,
+                    partners2: partnerRows2,
                     news: res.news,
                     projects: projects
                 },
