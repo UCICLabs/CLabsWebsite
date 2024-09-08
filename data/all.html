@@ -1219,7 +1219,8 @@
             </div>
             <span class="project-details-sub-title"><em>Representative Publications</em></span>
             <p>
-                Coming Soon!
+                <my-simple-pub-item v-bind:show-year="2024" v-bind:paper="getPaper(2024, 'knowledge in machinists')">
+                </my-simple-pub-item>
             </p>
         </div>
     </li>
@@ -1252,7 +1253,15 @@
             </div>
             <span class="project-details-sub-title"><em>Representative Publications</em></span>
             <p>
-                Coming Soon!
+                <my-simple-pub-item v-bind:show-year="2024"
+                    v-bind:paper="getPaper(2024, 'Disrupt Normative Practices')">
+                </my-simple-pub-item>
+                <my-simple-pub-item v-bind:show-year="2024"
+                    v-bind:paper="getPaper(2024, 'Math, Engineering, and Textiles')">
+                </my-simple-pub-item>
+                <my-simple-pub-item v-bind:show-year="2024"
+                    v-bind:paper="getPaper(2024, 'parse mathematical abstraction')">
+                </my-simple-pub-item>
             </p>
         </div>
     </li>
@@ -1282,7 +1291,17 @@
             </div>
             <span class="project-details-sub-title"><em>Representative Publications</em></span>
             <p>
-                Coming Soon!
+                <my-simple-pub-item v-bind:show-year="2023"
+                    v-bind:paper="getPaper(2023, 'movement in culinary learning')">
+                </my-simple-pub-item>
+                <my-simple-pub-item v-bind:show-year="2024"
+                    v-bind:paper="getPaper(2024, 'Rhetorical Structure Theory')">
+                </my-simple-pub-item>
+                <my-simple-pub-item v-bind:show-year="2024"
+                    v-bind:paper="getPaper(2024, 'automated inductive annotation')">
+                </my-simple-pub-item>
+                <my-simple-pub-item v-bind:show-year="2024" v-bind:paper="getPaper(2024, 'perspective in the arts')">
+                </my-simple-pub-item>
             </p>
         </div>
     </li>
@@ -1329,11 +1348,9 @@
             </div>
             <span class="project-details-sub-title"><em>Representative Publications</em></span>
             <p>
-                <my-simple-pub-item v-bind:show-year="2023" v-bind:paper="getPaper(2023, 'learning settings')">
-                </my-simple-pub-item>
                 <my-simple-pub-item v-bind:show-year="2023" v-bind:paper="getPaper(2023, 'entrepreneurial making')">
                 </my-simple-pub-item>
-                <my-simple-pub-item v-bind:show-year="2023" v-bind:paper="getPaper(2023, 'across settings')">
+                <my-simple-pub-item v-bind:show-year="2023" v-bind:paper="getPaper(2023, 'out-of-school experiences')">
                 </my-simple-pub-item>
             </p>
         </div>
@@ -1360,7 +1377,8 @@
             </div>
             <span class="project-details-sub-title"><em>Representative Publications</em></span>
             <p>
-                Coming Soon!
+                <my-simple-pub-item v-bind:show-year="2023" v-bind:paper="getPaper(2023, 'through design cycles')">
+                </my-simple-pub-item>
             </p>
         </div>
     </li>
@@ -1400,7 +1418,8 @@
             </div>
             <span class="project-details-sub-title"><em>Representative Publications</em></span>
             <p>
-                <my-simple-pub-item v-bind:show-year="2023" v-bind:paper="getPaper(2023, 'Learning')">
+                <my-simple-pub-item v-bind:show-year="2023"
+                    v-bind:paper="getPaper(2023, 'possibilities for arts learning')">
                 </my-simple-pub-item>
                 <my-simple-pub-item v-bind:show-year="2022" v-bind:paper="getPaper(2022, 'Educational Experiences')">
                 </my-simple-pub-item>
@@ -1442,6 +1461,7 @@
                 </my-simple-pub-item>
                 <my-simple-pub-item v-bind:show-year="2020" v-bind:paper="getPaper(2020, 'STEM Classrooms')">
                 </my-simple-pub-item>
+            </p>
         </div>
     </li>
 </ul>
@@ -1472,6 +1492,7 @@
             <span class="project-details-sub-title"><em>Representative Publications</em></span>
             <p>
                 Coming Soon!
+            </p>
         </div>
     </li>
 </ul>
@@ -1494,7 +1515,9 @@
             </div>
             <span class="project-details-sub-title"><em>Representative Publications</em></span>
             <p>
-                Coming Soon!
+                <my-simple-pub-item v-bind:show-year="2021" v-bind:paper="getPaper(2021, 'via Summer STEAM')">
+                </my-simple-pub-item>
+            </p>
         </div>
     </li>
 </ul>
@@ -1514,6 +1537,80 @@
                     immersive environments. The system will utilize acoustic and propositional content of speech in
                     conjunction with biometric data and telemetry from learners' performances to provide feedback and
                     select instructional moves.
+                </p>
+            </div>
+            <span class="project-details-sub-title"><em>Representative Publications</em></span>
+            <p>
+                <my-simple-pub-item v-bind:show-year="2023"
+                    v-bind:paper="getPaper(2023, 'Teaching Industrial Robotics')">
+                </my-simple-pub-item>
+            </p>
+        </div>
+    </li>
+</ul>
+<ul class="project-details" v-if="showProjectDetails == 'story'">
+    <li>
+        <div class="item">
+            <img src="img/projects/project_icon_story.png" alt="" width="300" />
+            <div class="text-content">
+                <h4>Story AI</h4>
+                <br /><span class="project-details-sub-title"><em>Principal Investigator&nbsp;&nbsp;&nbsp;</em>Kylie
+                    Peppler</span>
+                <br /><span class="project-details-sub-title"><em>Project Lead&nbsp;&nbsp;&nbsp;</em>Ariel Han, Shenshen
+                    Han, and Seth Corrigan</span>
+                <p>
+                    StoryAI is an educational content creation platform for teachers, parents, and their students in K
+                    to 8th to support scaffolded, culturally responsive, and open-ended story creation for literacy
+                    development. To support adaptive learning experiences tailored to the individual needs of each
+                    child. Our platform integrates educators-in-the-loop with AI methodologies, where educators create
+                    lessons for their students, which AI agents can carry out on their behalf. The platform generates
+                    mentor texts and AI agents that guide students through the writing process (i.e., choosing a topic,
+                    structuring their papers, receiving immediate feedback, and sharing their work with others).
+                    Educators will be able to find inspiration, ideas, and assistance in their teaching, especially in
+                    promoting the craft of writing, including comprehension and critical thinking; students will be able
+                    to gain proper guidance based on their interests and their level through child-centered exploration
+                    and open-ended writing projects with the help of AI agents.
+                </p>
+            </div>
+            <span class="project-details-sub-title"><em>Representative Publications</em></span>
+            <p>
+                <my-simple-pub-item v-bind:show-year="2024" v-bind:paper="getPaper(2024, 'primary school teachers')">
+                </my-simple-pub-item>
+                <my-simple-pub-item v-bind:show-year="2024"
+                    v-bind:paper="getPaper(2024, 'elementary literacy education')">
+                </my-simple-pub-item>
+                <my-simple-pub-item v-bind:show-year="2023"
+                    v-bind:paper="getPaper(2023, 'analytics using prompt data')">
+                </my-simple-pub-item>
+                <my-simple-pub-item v-bind:show-year="2023"
+                    v-bind:paper="getPaper(2023, 'Diffusion for STEAM Education')">
+                </my-simple-pub-item>
+                <my-simple-pub-item v-bind:show-year="2023"
+                    v-bind:paper="getPaper(2023, 'storytelling for young learners')">
+                </my-simple-pub-item>
+                <my-simple-pub-item v-bind:show-year="2023" v-bind:paper="getPaper(2023, 'AI for visual storytelling')">
+                </my-simple-pub-item>
+            </p>
+        </div>
+    </li>
+</ul>
+<ul class="project-details" v-if="showProjectDetails == 'universal'">
+    <li>
+        <div class="item">
+            <img src="img/projects/project_icon_universal.png" alt="" width="300" />
+            <div class="text-content">
+                <h4>Leveraging AI to Promote Universal Designs for Learning in Math</h4>
+                <br /><span class="project-details-sub-title"><em>Principal Investigator&nbsp;&nbsp;&nbsp;</em>Kylie
+                    Peppler</span>
+                <br /><span class="project-details-sub-title"><em>Project Lead&nbsp;&nbsp;&nbsp;</em>Seth
+                    Corrigan</span>
+                <p>
+                    Equatio by Texthelp is a digital tool designed to help students and educators create mathematical
+                    equations, formulas, and other math-related expressions through speech, handwriting, and assistive
+                    technologies. The Creativity Labs is working with the creators of Equatio, as well as hundreds of
+                    teachers and students, to explore how AI-powered universal designs for learning can make the process
+                    of writing and understanding complex equations and formulas easier for students to engage with math
+                    and STEM subjects.
                 </p>
             </div>
             <span class="project-details-sub-title"><em>Representative Publications</em></span>

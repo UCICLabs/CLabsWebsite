@@ -35,10 +35,28 @@
     ],
     "projects": [
         {
+            "id": "story",
+            "pic": "img/projects/project_icon_story.png",
+            "title": "StoryAI",
+            "abstract": "StoryAI is an educational content creation platform for teachers, parents, and their students in K to 8th to support scaffolded, culturally responsive, and open-ended story creation for literacy development...",
+            "groups": [
+                1
+            ]
+        },
+        {
+            "id": "universal",
+            "pic": "img/projects/project_icon_universal.png",
+            "title": "Leveraging AI to Promote Universal Designs for Learning in Math",
+            "abstract": "Equatio by Texthelp is a digital tool designed to help students and educators create mathematical equations, formulas, and other math-related expressions through speech, handwriting, and assistive technologies...",
+            "groups": [
+                1
+            ]
+        },
+        {
             "id": "teecap",
             "pic": "img/projects/project_icon_teecap.png",
             "title": "Tracing the Enduring Effects of Community Arts Programs (TEECAP)",
-            "abstract": "<strong>Funded by the Wallace Foundation. The TEECAP project gathers and analyzes extensive life history interviews with former participants of community arts out-of-school programs to gain insight into how participation in such programs influenced participants’ understanding of the value of informal arts learning over the life course...",
+            "abstract": "<strong>Funded by the Wallace Foundation.</strong><br/>The TEECAP project gathers and analyzes extensive life history interviews with former participants of community arts out-of-school programs to gain insight into how participation in such programs influenced participants’ understanding of the value of informal arts learning over the life course...",
             "groups": [
                 0
             ]
@@ -346,8 +364,229 @@
     ],
     "publications": [
         {
+            "year": 2024,
+            "list": [
+                {
+                    "title": "Qualitative eliciting of tacit knowledge in machinists",
+                    "authors": [
+                        "Ojeda-Ramirez, S.",
+                        "Yong, Z.",
+                        "Zhang, Y.",
+                        "Liu, R.",
+                        "Rantanen, E.",
+                        "Peng, C.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In Learning as a cornerstone of healing, resilience, and community: ICLS Proceedings: 18th Annual Conference of the Learning Sciences (pp. 1259-1262). Buffalo, New York: International Society of the Learning Sciences.",
+                    "cat": "idl",
+                    "file": "2024_Qualitative_eliciting.pdf"
+                },
+                {
+                    "title": "Weaving with ropes to parse mathematical abstraction",
+                    "authors": [
+                        "Yankova, N.",
+                        "Speer, S.",
+                        "Huang, J.",
+                        "Peppler, K.",
+                        "Robinson, O.",
+                        "Orta Martinez, M."
+                    ],
+                    "otherText": "In Learning as a cornerstone of healing, resilience, and community: ICLS Proceedings: 18th Annual Conference of the Learning Sciences (pp. 2245-2246). Buffalo, New York: International Society of the Learning Sciences.",
+                    "cat": "etx",
+                    "file": "ICLS2024_2245-2246.pdf"
+                },
+                {
+                    "title": "RoboLoom: An Open-Source Loom Kit for Interdisciplinary Engagement in Math, Engineering, and Textiles",
+                    "authors": [
+                        "Speer, S.",
+                        "Huang, J.",
+                        "Yankova, N.",
+                        "Rose, C.",
+                        "Peppler, K.",
+                        "Orta-Martinez, M."
+                    ],
+                    "otherText": "The ACM Symposium on User Interface Software and Technology (UIST) 2023. San Francisco, CA.",
+                    "cat": "etx",
+                    "file": "uist23-12-accessible.pdf"
+                },
+                {
+                    "title": "Seeking Languagelessness: Maker Literacies Mindsets to Disrupt Normative Practices",
+                    "authors": [
+                        "Rowsell, J., Keune, A., Buxton, A. and Peppler, K."
+                    ],
+                    "otherText": "Reading Research Quarterly (p 1-15). https://doi.org/10.1002/rrq.533",
+                    "cat": "etx",
+                    "file": "2024_Seeking_Languagelessness.pdf"
+                },
+                {
+                    "title": "Friendship as a transformative process: Cultivating interest-driven connections, community, and perspective in the arts",
+                    "authors": [
+                        "Dahn, M.",
+                        "Peppler, K.",
+                        "Corrigan, S.",
+                        "Chew, P.",
+                        "DiGiacomo, D.",
+                        "Mejias, S.",
+                        "Nelligan, P.",
+                        "Sefton-Green, J."
+                    ],
+                    "otherText": "In Learning as a cornerstone of healing, resilience, and community: ICLS Proceedings: 18th Annual Conference of the Learning Sciences (pp. 322-329). Buffalo, New York: International Society of the Learning Sciences.",
+                    "cat": "idl",
+                    "file": "ICLS2024_322-329_2.pdf"
+                },
+                {
+                    "title": "Exploring impacts of arts participation through automated inductive annotation",
+                    "authors": [
+                        "Corrigan, S.",
+                        "Ojeda-Ramirez, S.",
+                        "Dahn, M.",
+                        "Chew, P.",
+                        "DiGiacomo, D.",
+                        "Sefton-Green, J.",
+                        "Peppler, K"
+                    ],
+                    "otherText": "In Learning as a cornerstone of healing, resilience, and community: ICLS Proceedings: 18th Annual Conference of the Learning Sciences (pp. 346-353). Buffalo, New York: International Society of the Learning Sciences.",
+                    "cat": "idl",
+                    "file": "ICLS2024_346-353.pdf"
+                },
+                {
+                    "title": "Exploring impacts of arts education through inductive application of Rhetorical Structure Theory",
+                    "authors": [
+                        "Corrigan, S.",
+                        "Dahn, M.",
+                        "Chew, P.",
+                        "Trapp, S.",
+                        "Giacomo, D.",
+                        "Sefton-Green, J.",
+                        "Mejias, S.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In Learning as a cornerstone of healing, resilience, and community: ICLS Proceedings: 18th Annual Conference of the Learning Sciences (pp. 338-345). Buffalo, New York: International Society of the Learning Sciences.",
+                    "cat": "idl",
+                    "file": "ICLS2024_338-345.pdf"
+                },
+                {
+                    "title": "Co-design a logic model for inclusive AI-powered learning application with primary school teachers",
+                    "authors": [
+                        "Han, A.",
+                        "Corrigan, S.",
+                        "Han, S.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In Learning as a cornerstone of healing, resilience, and community: CSCL Proceedings: 17th Annual Conference of Computer-Supported Collaborative Learning (pp. 233-236). Buffalo, New York: International Society of the Learning Sciences.",
+                    "cat": "fow",
+                    "file": "2024_CSCL_233-236.pdf"
+                },
+                {
+                    "title": "Teachers, parents, and students' perspectives on integrating generative AI into elementary literacy education",
+                    "authors": [
+                        "Han, A.",
+                        "Zhou, X.",
+                        "Cai, Z.",
+                        "Han, S.",
+                        "Ko, R.",
+                        "Corrigan, S.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, CHI ’24, May 11–16, 2024, Honolulu, HI, USA: Association for Computing Machinery. https://doi.org/10.1145/3613904.3642438",
+                    "cat": "fow",
+                    "file": "2024_SIGCHI.pdf"
+                }
+            ]
+        },
+        {
             "year": 2023,
             "list": [
+                {
+                    "title": "Adaptive Immersive Learning Environments for Teaching Industrial Robotics",
+                    "authors": [
+                        "Vassigh, S.",
+                        "Corrigan, S.",
+                        "Bogosian, B.",
+                        "Peterson, E."
+                    ],
+                    "otherText": "Emerging Technologies and Future of Work, 117. https://par.nsf.gov/servlets/purl/10514334",
+                    "cat": "fow",
+                    "file": "",
+                    "out": true
+                },
+                {
+                    "title": "Making connections to and from out-of-school experiences",
+                    "authors": [
+                        "Dahn, M.",
+                        "Peppler, K.",
+                        "Ito, M."
+                    ],
+                    "otherText": "Review of Research in Education, 47(1), 443-473, https://doi.org/10.3102/0091732X231211271",
+                    "cat": "idl",
+                    "file": "2024_dahn_making.pdf"
+                },
+                {
+                    "title": "Facilitating connected learning PD for library professionals through design cycles",
+                    "authors": [
+                        "Cawelti, L.",
+                        "Ochoa, K.",
+                        "Bermudez, V. N.",
+                        "Chew, P.",
+                        "Ojeda-Ramirez, S.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "Proceedings of the 2023 Connected Learning Summit. Irvine, CA: Connected Learning Alliance. (Best Paper Award)",
+                    "cat": "idl",
+                    "file": "2023_Cawelti_Facilitating.pdf"
+                },
+                {
+                    "title": "Implications of AI art generators to broaden visual literacy and Creative expression for young learners",
+                    "authors": [
+                        "Han, A."
+                    ],
+                    "otherText": "International Society of the Learning Sciences (ISLS) Annual Meeting 2023. International Society of the Learning Sciences.",
+                    "cat": "fow",
+                    "file": "",
+                    "out": true
+                },
+                {
+                    "title": "Design implications of generative AI systems for visual storytelling for young learners",
+                    "authors": [
+                        "Han, A.",
+                        "Cai, Z."
+                    ],
+                    "otherText": "Interaction Design and Children https://doi.org/10.1145/3585088.3593867",
+                    "cat": "fow",
+                    "file": ""
+                },
+                {
+                    "title": "Implication of a Case Study using Generative AI in Elementary School: Using Stable Diffusion for STEAM Education",
+                    "authors": [
+                        "Lee, U.",
+                        "Han, A.",
+                        "Lee, J.",
+                        "Kim, J.",
+                        "Lee, E.",
+                        "Kim, H.",
+                        "Lim, C."
+                    ],
+                    "otherText": "Association for Educational Communications & Technology (AECT).",
+                    "cat": "fow",
+                    "file": "",
+                    "out": true
+                },
+                {
+                    "title": "Prompt Aloud!: Incorporating image-generative AI into STEAM class with learning analytics using prompt data",
+                    "authors": [
+                        "Lee, U.",
+                        "Han, A.",
+                        "Lee, J.",
+                        "Kim, J.",
+                        "Lee, E.",
+                        "Kim, H.",
+                        "Lim, C."
+                    ],
+                    "otherText": "Education and Information Technologies. https://doi.org/10.1007/s10639-023-12150-4",
+                    "cat": "fow",
+                    "file": "",
+                    "out": true
+                },
                 {
                     "title": "To Quilt is to Math: Investigating the Breadth and Depth of Mathematics in Fiber Crafts",
                     "authors": [
@@ -529,7 +768,8 @@
                     ],
                     "otherText": "Child-Centred AI Design: Definition, Operation, and Considerations ACM CHI 2023 Workshop.",
                     "cat": "sug",
-                    "file": "2023 - J23HanAIStory.pdf"
+                    "file": "2023 - J23HanAIStory.pdf",
+                    "out": true
                 },
                 {
                     "title": "Exploring algorithm building through designing and making kinetic sculpture",
@@ -886,6 +1126,16 @@
             "year": 2021,
             "list": [
                 {
+                    "title": "Encouraging Wonderment via Summer STEAM",
+                    "authors": [
+                        "Peppler, K.",
+                        "Schindler, E."
+                    ],
+                    "otherText": "[Unpublished report]. Informatics & Education, University of California, Irvine.",
+                    "cat": "sth",
+                    "file": ""
+                },
+                {
                     "_comment": "Comment",
                     "title": "Learning to be Open: Expansive Family Networks and Emotional Support as Connection Pathways",
                     "authors": [
@@ -1005,7 +1255,6 @@
                     "file": "2021 - J38.pdf"
                 },
                 {
-                    "_comment": "Comment",
                     "title": "Afterword: Dwelling on Making",
                     "authors": [
                         "Peppler, K."
