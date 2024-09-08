@@ -51,6 +51,7 @@
                     <li><a href="#team" data-toggle="collapse" data-target="#main-nav">The Team</a></li>
                     <li><a href="#pubs" data-toggle="collapse" data-target="#main-nav">Publications</a></li>
                     <li><a href="#design" data-toggle="collapse" data-target="#main-nav">Designs</a></li>
+                    <li><a href="#funders" data-toggle="collapse" data-target="#main-nav">Partners and Funders</a></li>
                     <li><a href="#contact" data-toggle="collapse" data-target="#main-nav">Contact Us</a></li>
                 </ul>
             </nav>
@@ -98,6 +99,13 @@
                         <span class="rect"></span>
                         <span class="circle"></span>
                         Designs
+                    </a>
+                </li>
+                <li>
+                    <a href="#funders">
+                        <span class="rect"></span>
+                        <span class="circle"></span>
+                        Partners & Funders
                     </a>
                 </li>
                 <li>
@@ -268,19 +276,6 @@
                     </div>
                 </div>
             </div>
-            <p style="font-size: 18px; color: #000; margin-top: 100px; margin-bottom: 50px;">The Creativity Labs has
-                partnered with the following groups</p>
-            <div class="row partner-imgs" v-for="row in partners">
-                <div class="col-md-1 col-sm-1">
-                </div>
-                <div class="col-md-2 col-sm-2" v-for="image in row" style="padding: 10px;">
-                    <a v-bind:href="image.link" target="_blank"><img v-bind:src="image.img" alt=""
-                            v-bind:title="image.title"></a>
-                </div>
-                <div class="col-md-1 col-sm-1">
-                </div>
-            </div>
-            <div style="height: 50px;"></div>
         </section>
 
         <section id="pubs" class="content-section">
@@ -445,6 +440,37 @@
                                         src="img/design/design_storyai.png" width="510" height="200"></a>
                             </div>
                         </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="funders" class="content-section">
+            <div class="section-heading">
+                <h1>Partners<br><em>& Funders</em></h1>
+                <p>The Creativity Labs has
+                    partnered with the following groups.</p>
+            </div>
+            <div class="section-content">
+                <div class="row partner-imgs" v-for="row in partners2">
+                    <div class="col-md-1 col-sm-1">
+                    </div>
+                    <div class="col-md-2 col-sm-2" v-for="image in row" style="padding: 10px;">
+                        <a v-bind:href="image.link" target="_blank"><img v-bind:src="image.img" alt=""
+                                v-bind:title="image.title"></a>
+                    </div>
+                    <div class="col-md-1 col-sm-1">
+                    </div>
+                </div>
+                <div style="padding-bottom: 20px; padding-top: 50px;">Funders</div>
+                <div class="row partner-imgs" v-for="row in partners">
+                    <div class="col-md-1 col-sm-1">
+                    </div>
+                    <div class="col-md-2 col-sm-2" v-for="image in row" style="padding: 10px;">
+                        <a v-bind:href="image.link" target="_blank"><img v-bind:src="image.img" alt=""
+                                v-bind:title="image.title"></a>
+                    </div>
+                    <div class="col-md-1 col-sm-1">
                     </div>
                 </div>
             </div>
