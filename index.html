@@ -181,7 +181,8 @@
                                 <ul>
                                     <li v-for="project in projects[index]">
                                         <div class="item">
-                                            <img v-bind:src="project.pic" alt="">
+                                            <img v-bind:src="project.pic" alt="" width="300" style="cursor: pointer;"
+                                                v-on:click="readProjectDetials(project.id)">
                                             <div class="text-content">
                                                 <h4>{{project.title}} <span v-if="project.done">(Completed<i
                                                             class="fa fa-check"></i>)</span><span>&nbsp;</span></h4>
@@ -333,8 +334,8 @@
                             v-if="yearGroup.show"></i></div>
                     <ul class="pubs-paper-list" v-if="yearGroup.show">
                         <li v-for="paper in yearGroup.list" style="word-break: break-all;">
-                            <my-simple-pub-item v-bind:paper="paper" v-bind:show-all-authors="showAllAuthors"
-                                v-bind:all-cats="publicationCategories"
+                            <my-simple-pub-item v-if="!paper.out" v-bind:paper="paper"
+                                v-bind:show-all-authors="showAllAuthors" v-bind:all-cats="publicationCategories"
                                 v-bind:show-year="yearGroup.year"></my-simple-pub-item>
                         </li>
                     </ul>
