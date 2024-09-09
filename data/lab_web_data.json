@@ -3857,13 +3857,87 @@
             "link": "https://stemnext.org/",
             "img": "img/partners/stem_next.png",
             "title": "STEM Next Opportunity Fund"
+        },
+        {
+            "link": "https://mouse.org/",
+            "img": "img/partners/mouse_logo_gear_2x.png",
+            "title": "Mouse"
+        },
+        {
+            "link": "https://www.beamcenter.org/",
+            "img": "img/partners/beam-center-logo.png",
+            "title": "BEAM center"
+        },
+        {
+            "link": "https://www.dreamyard.com/",
+            "img": "img/partners/dream.png",
+            "title": "DreamYard"
+        },
+        {
+            "link": "",
+            "img": "img/partners/",
+            "title": ""
+        },
+        {
+            "link": "",
+            "img": "img/partners/",
+            "title": ""
+        },
+        {
+            "link": "",
+            "img": "img/partners/",
+            "title": ""
+        },
+        {
+            "link": "",
+            "img": "img/partners/",
+            "title": ""
+        },
+        {
+            "link": "",
+            "img": "img/partners/",
+            "title": ""
+        },
+        {
+            "link": "",
+            "img": "img/partners/",
+            "title": ""
+        },
+        {
+            "link": "",
+            "img": "img/partners/",
+            "title": ""
+        },
+        {
+            "link": "",
+            "img": "img/partners/",
+            "title": ""
+        },
+        {
+            "link": "",
+            "img": "img/partners/",
+            "title": ""
         }
     ],
     "news": [
         {
+            "title": "<em>Dr. Peppler</em> Named UCI FATE Fellow",
+            "subTitle": "July 2024",
+            "text": "Dr. Peppler has been named a 2024-2025 UCI Faculty Academy for Teaching Excellence (FATE) fellow. The fellowship highlights the contributions of faculty who create learning environments that are committed to students' growth and success, while continuously developing their pedagogy and are recognized by their peers as model educators.",
+            "media": "news_202407.jpg",
+            "mediaType": "img"
+        },
+        {
+            "title": "<em>Dr. Peppler</em> Receives ICS Mid-Career Research Award",
+            "subTitle": "June 2024",
+            "text": "On June 5, 2024, the Donald Bren School of Information and Computer Sciences (ICS) honored Dr. Peppler with the Dean’s Award for Excellence in Mid-Career Research in recognition of her significant contributions to the field, impactful research outcomes, and leadership in advancing knowledge in information and computer sciences.",
+            "media": "news_202406.jpg",
+            "mediaType": "img"
+        },
+        {
             "title": "<em>StoryAI</em> advanced in NSF-sponsored VITAL Prize Challenge Semi-Final Round",
             "subTitle": "Jul 2023",
-            "text": "\"<a href='https://www.ics.uci.edu/community/news/view_news?id=2323' target='_blank'>Fourth-year informatics Ph.D. student Ariel Han, is exploring how to leverage generative artificial intelligence (AI) for culturally responsive learning. In particular, Han and Professor Peppler are working with a team of CreativityLabs researchers to design a web-based platform for AI-supported storytelling. Their AIStory project, which has received recent support from the National Science Foundation (NSF) and funding from UCI Beall Applied Innovation, offers personalized, interest-driven learning for elementary school students to enhance their literacy and storytelling skills in an inclusive environment.</a>\"",
+            "text": "The Creativity Labs is exploring how to leverage generative artificial intelligence (AI) for culturally responsive learning. In particular, Ariel Han and Professor Peppler are working with a team of CreativityLabs researchers to design a web-based platform for <a href='https://www.ics.uci.edu/community/news/view_news?id=2323' target='_blank'>AI-supported storytelling</a>. Their AIStory project, which has received recent support from the National Science Foundation (NSF) and funding from UCI Beall Applied Innovation, offers personalized, interest-driven learning for elementary school students to enhance their literacy and storytelling skills in an inclusive environment.",
             "media": "news_20230704.jpg",
             "mediaType": "img"
         },
