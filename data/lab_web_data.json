@@ -367,6 +367,99 @@
             "year": 2024,
             "list": [
                 {
+                    "title": "Tools and materials as non-neutral actors in STEAM education",
+                    "authors": [
+                        "Peppler, K.",
+                        "Thompson, N."
+                    ],
+                    "otherText": "Journal of the Learning Sciences, 1-38",
+                    "cat": "etx",
+                    "file": "https://doi.org/10.1080/10508406.2024.2380694"
+                },
+                {
+                    "title": "Exploring the Long-Term Impacts of Out-of-School Arts Participation Among Marginalized Youth",
+                    "authors": [
+                        "Nelligan, P.",
+                        "DiGiacomo, D.",
+                        "Chew, P.",
+                        "Sefton-Green, J.",
+                        "Peppler, K.",
+                        "Mejias, S."
+                    ],
+                    "otherText": "International Journal for Research on Extended Education.",
+                    "cat": "anc",
+                    "file": ""
+                },
+                {
+                    "title": "ClassMeta: Designing Interactive Virtual Student to Support Active Learning Environment in Virtual Reality Classroom",
+                    "authors": [
+                        "Liu, Z.",
+                        "Zhu, Z.",
+                        "Zhu, L.",
+                        "Jiang, E.",
+                        "Hu, X.",
+                        "Peppler, K.",
+                        "Ramani, K."
+                    ],
+                    "otherText": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, CHI ’24, May 11–16, 2024, Honolulu, HI, USA: Association for Computing Machinery.",
+                    "cat": "idl",
+                    "file": "3613904.3642947.pdf"
+                },
+                {
+                    "title": "Deepening Children’s STEM learning through making and creative writing",
+                    "authors": [
+                        "Huang, J.",
+                        "Han, A.",
+                        "Villanueva, A.",
+                        "Liu, Z.",
+                        "Zhu, Z.",
+                        "Ramani, K.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "International Journal of Child-Computer Interaction, 40. https://doi.org/10.1016/j.ijcci.2024.100651",
+                    "cat": "idl",
+                    "file": "https://doi.org/10.1016/j.ijcci.2024.100651"
+                },
+                {
+                    "title": "Co-creating space in virtual culinary afterschool: Insights from materials and practices",
+                    "authors": [
+                        "Chew, P.",
+                        "Cawelti, L.",
+                        "Adesida, T.",
+                        "Peppler, K."
+                    ],
+                    "otherText": " In Learning as a cornerstone of healing, resilience, and community: ICLS Proceedings: 18th Annual Conference of the Learning Sciences (pp. 1462-1465). Buffalo, New York: International Society of the Learning Sciences.",
+                    "cat": "idl",
+                    "file": "ICLS2024_1462-1465.pdf"
+                },
+                {
+                    "title": "An Artist/Researcher Model for Participatory Action Research in Transdisciplinary Learning Contexts",
+                    "authors": [
+                        "Cawelti, L.",
+                        "Mueller, J.",
+                        "Dahn, M.",
+                        "Adesida, T.",
+                        "Cuéllar, N.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "VUE (Voices in Urban Education) 52(2). doi: https://doi.org/10.35240/vue.113",
+                    "cat": "idl",
+                    "file": "https://vue.metrocenter.steinhardt.nyu.edu/article/id/113/"
+                },
+                {
+                    "title": "Positionality shifts through theatre arts practices",
+                    "authors": [
+                        "Cawelti, L.",
+                        "Chew, P.",
+                        "Adesida, T.",
+                        "Cuéllar, N.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In Learning as a cornerstone of healing, resilience, and community: ICLS Proceedings: 18th Annual Conference of the Learning Sciences (pp. 2381-2382). Buffalo, New York: International Society of the Learning Sciences.",
+                    "cat": "anc",
+                    "file": "ICLS2024_2381-2382.pdf"
+                },
+                {
                     "title": "Qualitative eliciting of tacit knowledge in machinists",
                     "authors": [
                         "Ojeda-Ramirez, S.",
@@ -396,16 +489,18 @@
                     "file": "ICLS2024_2245-2246.pdf"
                 },
                 {
-                    "title": "RoboLoom: An Open-Source Loom Kit for Interdisciplinary Engagement in Math, Engineering, and Textiles",
+                    "title": "SPEERLoom: An open-source loom kit for interdisciplinary engagement in math, engineering, and textiles",
                     "authors": [
                         "Speer, S.",
+                        "Garcia-Alonzo, A. P.",
                         "Huang, J.",
                         "Yankova, N.",
                         "Rose, C.",
                         "Peppler, K.",
+                        "McCann, J.",
                         "Orta-Martinez, M."
                     ],
-                    "otherText": "The ACM Symposium on User Interface Software and Technology (UIST) 2023. San Francisco, CA.",
+                    "otherText": "In Proceedings of the ACM Symposium on User Interface Software and Technology (UIST) (pp. 1-15). San Francisco, CA: ACM.",
                     "cat": "etx",
                     "file": "uist23-12-accessible.pdf"
                 },
@@ -1027,7 +1122,6 @@
                     "file": "https://doi.org/10.1108/ILS-03-2022-0029"
                 },
                 {
-                    "_comment": "Peppler, K., , & . (2022). . ",
                     "title": "Mapping Posthuman Methodological Innovation in the Study of Learning",
                     "authors": [
                         "Keune, A.",
@@ -1152,7 +1246,6 @@
                     "file": "2021 - CP57.pdf"
                 },
                 {
-                    "_comment": "Dahn, M., Yankova, N., Peppler, K., Sikkema, S., Spilberg, J., & Lee, J. (2021). “Way more relevant and a little less  theoretical”: How teaching artists designed for online learning in a pandemic. Learning, Media, and Technology, 47(4), 456-470. https://doi.org/10.1080/17439884.2021.2012801",
                     "title": "“Way more relevant and a little less  theoretical”: How teaching artists designed for online learning in a pandemic",
                     "authors": [
                         "Dahn, M.",
