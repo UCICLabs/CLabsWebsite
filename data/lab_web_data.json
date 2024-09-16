@@ -3619,30 +3619,6 @@
             ]
         },
         {
-            "name": "Mishael Sedas",
-            "photo": "team_ms.png",
-            "title": "Graduate Student Researcher",
-            "intro": "Mishael is a doctoral student in education with a background in engineering. He is interested in using design to encourage and support interest-driven STEAM learning for non-dominant and low-income populations.",
-            "social": [
-                {
-                    "type": "email",
-                    "url": "mailto:rmsedas@indiana.edu"
-                },
-                {
-                    "type": "twitter",
-                    "url": "https://twitter.com/Mish_Sedas"
-                },
-                {
-                    "type": "linkedin",
-                    "url": "https://www.linkedin.com/pub/mishael-sedas/85/336/305"
-                },
-                {
-                    "type": "web",
-                    "url": "http://www.mishaelsedas.com/"
-                }
-            ]
-        },
-        {
             "name": "Seth Van Doren",
             "photo": "team_svd.png",
             "title": "Graduate Student Researcher",
@@ -3653,13 +3629,6 @@
                     "url": "https://www.linkedin.com/in/seth-van-doren-75a987174"
                 }
             ]
-        },
-        {
-            "name": "Nikki Yankova",
-            "photo": "team_ny.png",
-            "title": "Graduate Student Researcher",
-            "intro": "Nikki is a Ph.D student in Education with a background in math, English literature, and creative writing. She is interested in developing tools to facilitate learning and creative thought to promote mathematical thinking and broadening participation of underrepresented groups in STEM fields.",
-            "social": []
         },
         {
             "name": "Ulia Zaman",
@@ -3805,6 +3774,71 @@
             "photo": "team_tp.png",
             "title": "Writing Specialist",
             "intro": "Tony Phonethibsavads is a full-time college admissions consultant at Admission Masters: College Consulting, where he assists high school students and recent graduates with application essays and academic research. Leveraging his postdoctoral experience at UCI, he advises the Humanities Research Club, helping students develop literature-based research skills. Additionally, Tony leads the Improv Club, exploring ways to incorporate improv into his research pursuits.",
+            "social": []
+        },
+        {
+            "name": "Mishael Sedas",
+            "photo": "team_ms.png",
+            "title": "Evaluator and Educator, LIGO",
+            "intro": "Mishael is the Science Program Evaluator and Educator at the Caltech & MIT Division of Physics, Mathematics and Astronomy, Department: LIGO-LA (Laser Interferometer Gravitational-Wave Observatory), where he enhances STEM education through asset- and design-based approaches. With a solid background in mechanical engineering and public administration, Mishael focuses on making STEM subjects more accessible and relevant for diverse youth populations. His work at LIGO Caltech empowers young learners to thrive in STEM fields.",
+            "social": [
+                {
+                    "type": "email",
+                    "url": "mailto:rmsedas@indiana.edu"
+                },
+                {
+                    "type": "twitter",
+                    "url": "https://twitter.com/Mish_Sedas"
+                },
+                {
+                    "type": "linkedin",
+                    "url": "https://www.linkedin.com/pub/mishael-sedas/85/336/305"
+                },
+                {
+                    "type": "web",
+                    "url": "http://www.mishaelsedas.com/"
+                }
+            ]
+        },
+        {
+            "name": "Pooja Saxena",
+            "photo": "team_ps.png",
+            "title": "Assistant Professor, SUNY Potsdam",
+            "intro": "Pooja is an embedded weaver interested in exploring what motivates or deters young female students to engage in the STEM fields. Currently an Assistant Professor of Secondary Math Education at SUNY Potsdam.",
+            "social": []
+        },
+        {
+            "name": "Rafi Santo",
+            "photo": "team_rs.png",
+            "title": "Learning Scientist, Telos Learning",
+            "intro": "Rafi Santo is the founder and principal researcher at Telos Learning, where he bridges theory and practice to strengthen educational institutions and support equitable social futures for young people. His expertise lies at the intersection of digital culture and learning, youth pathways and cross-setting learning ecosystems, and organizational networks, collective action, and institutional change.",
+            "social": []
+        },
+        {
+            "name": "Naomi Thompson",
+            "photo": "team_nt.png",
+            "title": "Assistant Professor, University of Buffalo",
+            "intro": "Coming from psychology, education, and arts, Naomi is interested in intersections of arts, making, and broadening STEM participation. Currently an Assistant Professor of Learning Sciences, University of Buffalo Graduate School of Education.",
+            "social": [
+                {
+                    "type": "email",
+                    "url": "mailto:naothomp@indiana.edu"
+                },
+                {
+                    "type": "twitter",
+                    "url": "https://twitter.com/_naomithompson_"
+                },
+                {
+                    "type": "web",
+                    "url": "http://naomi-thompson.com/"
+                }
+            ]
+        },
+        {
+            "name": "Nikki Yankova",
+            "photo": "team_ny.png",
+            "title": "Postdoctoral Researcher, USC",
+            "intro": "Nikki is a Ph.D student in Education with a background in math, English literature, and creative writing. She is interested in developing tools to facilitate learning and creative thought to promote mathematical thinking and broadening participation of underrepresented groups in STEM fields.",
             "social": []
         }
     ],
