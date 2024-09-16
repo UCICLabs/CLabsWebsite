@@ -137,6 +137,38 @@ function initVue() {
             teamRows[teamRows.length - 1].push(person);
         });
         var teamRows2 = [];
+        res.team2.forEach(function (person, index) {
+            if (index % 3 === 0) {
+                teamRows2.push([]);
+            }
+            if (!person.photo) {
+                person.photo = "test.png";
+            }
+            if (person.social) {
+                person.social.forEach(function (so) {
+                    switch (so.type) {
+                        case "email":
+                            so.class = "fa-envelope";
+                            break;
+                        case "twitter":
+                            so.class = "fa-twitter";
+                            break;
+                        case "linkedin":
+                            so.class = "fa-linkedin";
+                            break;
+                        case "web":
+                            so.class = "fa-html5";
+                            break;
+                        case "facebook":
+                            so.class = "fa-facebook";
+                            break;
+                        default:
+                            break;
+                    }
+                });
+            }
+            teamRows2[teamRows2.length - 1].push(person);
+        });
 
         var projects = [[], [], []];
         res.projects.forEach(function (project) {

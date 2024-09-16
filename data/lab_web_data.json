@@ -3607,30 +3607,6 @@
             ]
         },
         {
-            "name": "Ariel Han",
-            "photo": "team_ah.png",
-            "title": "Graduate Student Researcher",
-            "intro": "Ariel is a 4th year Ph.D. candidate in the informatics department at UC Irvine. Her research interests focuses on the intersection of educational technology, Artificial Intelligent and HCI. Based on a broad topic of HCI, she investigates fundamental questions on how people interact and collaborate with AI-powered creativity tools for their creative expression.",
-            "social": [
-                {
-                    "type": "email",
-                    "url": "mailto:ariel.han87@gmail.com"
-                },
-                {
-                    "type": "twitter",
-                    "url": "https://twitter.com/ArielJiyeon"
-                },
-                {
-                    "type": "linkedin",
-                    "url": "https://www.linkedin.com/in/arieljiyeonhan"
-                },
-                {
-                    "type": "web",
-                    "url": "https://arielhan.com/"
-                }
-            ]
-        },
-        {
             "name": "Shenshen Han",
             "photo": "team_sh.png",
             "title": "Graduate Student Researcher",
@@ -3744,6 +3720,63 @@
                 {
                     "type": "linkedin",
                     "url": "https://www.linkedin.com/in/jaseliztran/"
+                }
+            ]
+        },
+        {
+            "name": "Mariama Henry",
+            "photo": "team_mh.png",
+            "title": "Researcher",
+            "intro": "Mariama is a researcher with the Creativity Labs and Connected Learning Lab at University of California, Irvine. She is a University of Southern California (USC) alumna and holds Master of Science degrees (from USA and Canada) in Biological Sciences and Medical Biophysics/Collaborative Program in Molecular Imaging (Research focus- preclinical cancer imaging). She has a multidisciplinary STEM education background as well as teaching experience. Her research interests lie at the intersection of Arts, Education and Science/Technology including Generative Artificial Intelligence (GenAI)/AI tools and applications.",
+            "social": [
+                {
+                    "type": "linkedin",
+                    "url": "https://www.linkedin.com/in/mariama-n-henry-msc-mls-ascp-cm-b1236076/"
+                }
+            ]
+        },
+        {
+            "name": "Andrew Rich",
+            "photo": "team_ar.png",
+            "title": "Undergraduate Student Researcher",
+            "intro": "Andrew Rich is an undergraduate Software Engineering student. He has an interest in exploring and promoting ways to elevate classroom learning and bring computer science to students with fewer opportunities.",
+            "social": [
+                {
+                    "type": "linkedin",
+                    "url": "https://www.linkedin.com/in/andrew-douglas-rich-59477a26a/"
+                }
+            ]
+        }
+    ],
+    "team2": [
+        {
+            "name": "Mengqi Gao",
+            "photo": "team_mg.png",
+            "title": "Assistant Professor, Marist College",
+            "intro": "Currently an Assistant Professor of Games and Interactive Media at Marist College, New York.",
+            "social": []
+        },
+        {
+            "name": "Ariel Han",
+            "photo": "team_ah.png",
+            "title": "Postdoctoral Researcher, USC",
+            "intro": "Ariel's research interests focuses on the intersection of educational technology, Artificial Intelligent and HCI. Based on a broad topic of HCI, she investigates fundamental questions on how people interact and collaborate with AI-powered creativity tools for their creative expression.",
+            "social": [
+                {
+                    "type": "email",
+                    "url": "mailto:ariel.han87@gmail.com"
+                },
+                {
+                    "type": "twitter",
+                    "url": "https://twitter.com/ArielJiyeon"
+                },
+                {
+                    "type": "linkedin",
+                    "url": "https://www.linkedin.com/in/arieljiyeonhan"
+                },
+                {
+                    "type": "web",
+                    "url": "https://arielhan.com/"
                 }
             ]
         }
