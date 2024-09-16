@@ -3490,7 +3490,7 @@
             "name": "Maggie Dahn",
             "photo": "team_md.png",
             "title": "Associate Project Scientist",
-            "intro": "Maggie Dahn is a postdoctoral scholar working with the Creativity Labs at University of California, Irvine. She received her Ph.D. in Education from UCLA. As a former teacher, her research interests include the design of learning environments and the development of voice and identity through art making.",
+            "intro": "Maggie Dahn is an Associate Project Scientist with Creativity Labs and Connected Learning Lab at University of California, Irvine. As a former classroom teacher and theater artist, her research interests center on the ways the arts and art making support the development of voice and identity for young people across learning settings and over time. Her work aims to elevate the everyday practices of educators toward the goal of creating more thoughtful and imaginative learning experiences.",
             "social": [
                 {
                     "type": "email",
@@ -3718,6 +3718,32 @@
                 {
                     "type": "linkedin",
                     "url": "https://www.linkedin.com/in/uliazaman/"
+                }
+            ]
+        },
+        {
+            "name": "Eva Durall Gazulla",
+            "photo": "test.png",
+            "title": "Postdoctoral Researcher",
+            "intro": "Eva is conducting her postdoctoral research at the INTERACT research group at the University of Oulu. She is interested in the design of environments that support learners’ agency and critical engagement. In her current research she explores participatory approaches to democracy education, as well as teenagers’ critical data literacies with a focus on social justice.",
+            "social": []
+        },
+        {
+            "name": "Haoning Jiang",
+            "photo": "test.png",
+            "title": "Graduate Student Researcher",
+            "intro": "Haoning Jiang is a graduate Computer Science student currently studying at UC Irvine. They are interested in artificial intelligence and its applications. Their academic journey has been enriched by immersive experiences in AI and Machine Learning (ML) research, where they have honed their skills working with ML-driven matching algorithms. They possess a robust foundation in Python and Java, and their coursework has equipped them with a solid understanding of data structures, algorithms, and statistical modeling.",
+            "social": []
+        },
+        {
+            "name": "Jasmine Tran",
+            "photo": "team_jt.png",
+            "title": "Graduate Student Researcher",
+            "intro": "Jasmine Tran is a Ph.D. student in Education, focusing on Teaching, Learning, and Educational Improvement. Before coming to UCI, Jasmine engaged in research-practice partnerships with schools across the world to design and develop assessments. Her research interests involve the utilization and evaluation of AI to co-develop learning tools for students of all backgrounds. She is also broadly interested in researching the design and development processes that make learning tools effective.",
+            "social": [
+                {
+                    "type": "linkedin",
+                    "url": "https://www.linkedin.com/in/jaseliztran/"
                 }
             ]
         }

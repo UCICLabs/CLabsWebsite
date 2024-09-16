@@ -136,6 +136,7 @@ function initVue() {
             }
             teamRows[teamRows.length - 1].push(person);
         });
+        var teamRows2 = [];
 
         var projects = [[], [], []];
         res.projects.forEach(function (project) {
@@ -228,6 +229,7 @@ function initVue() {
                     clickAuthorFirstTime: true,
                     showAllAuthors: true,
                     teamRows: teamRows,
+                    teamRows2: teamRows2,
                     messageSent: false,
                     contactButton: "Send Message Now",
                     contactName: "",

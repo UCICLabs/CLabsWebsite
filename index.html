@@ -276,6 +276,34 @@
                     </div>
                 </div>
             </div>
+            <hr />
+            <div class="section-heading">
+                <h1>Meet<br><em>our Alumni</em></h1>
+            </div>
+            <div class="section-content">
+                <div class="row" v-for="row in teamRows2">
+                    <div class="col-md-4 col-sm-4" v-for="person in row">
+                        <div class="team-member">
+                            <div class="team-img">
+                                <img v-bind:src="'img/team/' + person.photo" alt="team member" class="img-responsive">
+                            </div>
+                            <div class="team-hover">
+                                <div class="desk">
+                                    <p class="team-intro-text">{{person.intro}}</p>
+                                </div>
+                                <div class="s-link">
+                                    <a v-bind:href="s.url" target="_blank" v-for="s in person.social"><i
+                                            v-bind:class="['fa', s.class]"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="team-title">
+                            <h5>{{person.name}}</h5>
+                            <span>{{person.title}}</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </section>
 
         <section id="pubs" class="content-section">
