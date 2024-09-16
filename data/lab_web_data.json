@@ -3515,30 +3515,6 @@
             ]
         },
         {
-            "name": "Joey Huang",
-            "photo": "team_jh.png",
-            "title": "Postdoctoral researcher",
-            "intro": "She received her Ph.D. in Learning and Developmental Sciences from Indiana University Bloomington. Coming from educational psychology and computing, her research focuses on computational thinking, collaboration, and STEM learning. As a learning scientist by training, she aims to create more interesting and inspiring learning environments to promote equity and collaboration.",
-            "social": [
-                {
-                    "type": "email",
-                    "url": "mailto:joey.h@uci.edu"
-                },
-                {
-                    "type": "twitter",
-                    "url": "http://twitter.com/@JoeyYL"
-                },
-                {
-                    "type": "linkedin",
-                    "url": "https://www.linkedin.com/in/chujenhuang"
-                },
-                {
-                    "type": "web",
-                    "url": "http://chujenhuang.com/"
-                }
-            ]
-        },
-        {
             "name": "Aakriti Bisht",
             "photo": "team_ab.png",
             "title": "Graduate Student Researcher",
@@ -3779,6 +3755,57 @@
                     "url": "https://arielhan.com/"
                 }
             ]
+        },
+        {
+            "name": "Joey Huang",
+            "photo": "team_jh.png",
+            "title": "Assistant Professor, NCSU",
+            "intro": "Joey Huang is an Assistant Professor of Learning, Design, & Technology at North Carolina State University. Previously, Dr. Huang served as a postdoctoral researcher in Computer Science at the University of California, Irvine, within the Creativity Labs and Connected Learning Lab. With a foundation in educational psychology and computing, Dr. Huang's research primarily explores computational thinking, educational technology and design, and equity in STEAM learning, with a special focus on the integration of artificial intelligence in educational settings.",
+            "social": [
+                {
+                    "type": "email",
+                    "url": "mailto:joey.h@uci.edu"
+                },
+                {
+                    "type": "twitter",
+                    "url": "http://twitter.com/@JoeyYL"
+                },
+                {
+                    "type": "linkedin",
+                    "url": "https://www.linkedin.com/in/chujenhuang"
+                },
+                {
+                    "type": "web",
+                    "url": "http://chujenhuang.com/"
+                }
+            ]
+        },
+        {
+            "name": "Anna Keune",
+            "photo": "team_ak.png",
+            "title": "Assistant Professor, TUM",
+            "intro": "As a new media artist and designer, she leverages her international experiences across four continents to engage in research that spans across art, technology design, and materiality of learning. Currently an Assistant Professor of Learning Sciences and Educational Design Technologies at the Technical University of Munich (TUM), Department of Education.",
+            "social": [
+                {
+                    "type": "email",
+                    "url": "mailto:anna.keune@aalto.fi"
+                },
+                {
+                    "type": "twitter",
+                    "url": "https://twitter.com/akeune"
+                },
+                {
+                    "type": "web",
+                    "url": "http://annakeune.com/"
+                }
+            ]
+        },
+        {
+            "name": "Tony Phonethibsavads",
+            "photo": "team_tp.png",
+            "title": "Writing Specialist",
+            "intro": "Tony Phonethibsavads is a full-time college admissions consultant at Admission Masters: College Consulting, where he assists high school students and recent graduates with application essays and academic research. Leveraging his postdoctoral experience at UCI, he advises the Humanities Research Club, helping students develop literature-based research skills. Additionally, Tony leads the Improv Club, exploring ways to incorporate improv into his research pursuits.",
+            "social": []
         }
     ],
     "private": [
