@@ -4087,44 +4087,79 @@
             "title": "DreamYard"
         },
         {
-            "link": "",
-            "img": "img/partners/",
-            "title": ""
+            "link": "https://oese.ed.gov/offices/office-of-formula-grants/school-support-and-accountability/21st-century-community-learning-centers/",
+            "img": "img/partners/21images.png",
+            "title": "21st Century Community Learning Centers"
         },
         {
-            "link": "",
-            "img": "img/partners/",
-            "title": ""
+            "link": "https://digitalharbor.org/",
+            "img": "img/partners/DHF.50.png",
+            "title": "Digital Harbor Foundation"
         },
         {
-            "link": "",
-            "img": "img/partners/",
-            "title": ""
+            "link": "https://nysci.org/",
+            "img": "img/partners/NySci_Logo.png",
+            "title": "NySci"
         },
         {
-            "link": "",
-            "img": "img/partners/",
-            "title": ""
+            "link": "https://cosi.org/",
+            "img": "img/partners/cosi_images.png",
+            "title": "COSi"
         },
         {
-            "link": "",
-            "img": "img/partners/",
-            "title": ""
+            "link": "https://www.amazeum.org/",
+            "img": "img/partners/Amazeum_images-removebg-preview.png",
+            "title": "Amazeum"
         },
         {
-            "link": "",
-            "img": "img/partners/",
-            "title": ""
+            "link": "https://www.thetech.org/",
+            "img": "img/partners/The-Tech-Museum-logo.jpg",
+            "title": "Tech Museum of Innovation"
         },
         {
-            "link": "",
-            "img": "img/partners/",
-            "title": ""
+            "link": "https://www.milliongirlsmoonshot.org/",
+            "img": "img/partners/STEMNext_MGM_Logo_Color_NoTag.png",
+            "title": "Million Girl Moonshot"
         },
         {
-            "link": "",
-            "img": "img/partners/",
-            "title": ""
+            "link": "https://www.alabamaexpandedlearningalliance.org/",
+            "img": "img/partners/AELA logo.png",
+            "title": "Alabama Expanded Learning Alliance"
+        },
+        {
+            "link": "https://www.massafterschool.org/",
+            "img": "img/partners/maplogo.jpg",
+            "title": "Massachusetts Afterschool Partnership"
+        },
+        {
+            "link": "https://www.psaydn.org/",
+            "img": "img/partners/psaydn-logo-640px-wide.png",
+            "title": "Pennsylvania Statewide Afterschool Development Network"
+        },
+        {
+            "link": "https://flafterschool.com/",
+            "img": "img/partners/FA-rect-2000x800-1.png",
+            "title": "Florida After School, Inc."
+        },
+        {
+            "link": "https://tgr.tigerwoods.com/",
+            "img": "img/partners/TGR_ParentLogo.png",
+            "title": "TGR"
+        },
+        {
+            "link": "https://www.afterschoolga.org/",
+            "img": "img/partners/afterschoolga_images.png",
+            "title": "Georgia Statewide Afterschool Network"
+        },
+        {
+            "link": "https://www.mostnetwork.org/",
+            "img": "img/partners/maryland_out_of_school_time_network_cover.jpg",
+            "title": "Maryland Out-of-School Time (MOST) Network"
+        },
+        {
+            "link": "https://igniteafterschool.org/",
+            "img": "img/partners/igniteafterschool.png",
+            "title": "Ignite Afterschool Minnesota"
         },
         {
             "link": "",
