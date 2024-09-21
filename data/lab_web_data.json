@@ -3895,11 +3895,6 @@
             "title": "CAPE"
         },
         {
-            "link": "https://www.boeing.com/",
-            "img": "img/partners/boeing_logo@2x.png",
-            "title": "Boeing"
-        },
-        {
             "link": "https://connectedlearning.uci.edu/",
             "img": "img/partners/cll-logo@2x.png",
             "title": "Connected Learning Lab"
@@ -4053,6 +4048,16 @@
             "link": "https://www.samueli.org/",
             "img": "img/partners/samueli.jpg",
             "title": "Samueli Foundation"
+        },
+        {
+            "link": "https://www.moore.org/",
+            "img": "img/partners/moore.png",
+            "title": "The Gordon and Betty Moore Foundation"
+        },
+        {
+            "link": "https://www.spencer.org/",
+            "img": "img/partners/spencer.png",
+            "title": "Spencer"
         }
     ],
     "partners2": [
@@ -4123,7 +4128,7 @@
         },
         {
             "link": "https://www.massafterschool.org/",
-            "img": "img/partners/maplogo.jpg",
+            "img": "img/partners/maplogo.png",
             "title": "Massachusetts Afterschool Partnership"
         },
         {
@@ -4148,7 +4153,7 @@
         },
         {
             "link": "https://www.mostnetwork.org/",
-            "img": "img/partners/maryland_out_of_school_time_network_cover.jpg",
+            "img": "img/partners/MOST_Logo.png",
             "title": "Maryland Out-of-School Time (MOST) Network"
         },
         {
