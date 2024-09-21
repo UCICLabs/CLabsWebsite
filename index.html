@@ -485,18 +485,18 @@
                     <div class="col-md-1 col-sm-1">
                     </div>
                     <div class="col-md-2 col-sm-2" v-for="image in row" style="padding: 10px;">
-                        <a v-bind:href="image.link" target="_blank"><img v-bind:src="image.img" alt=""
+                        <a v-bind:href="image.link" target="_blank"><img v-bind:src="image.img" :alt="image.title"
                                 v-bind:title="image.title"></a>
                     </div>
                     <div class="col-md-1 col-sm-1">
                     </div>
                 </div>
-                <div style="padding-bottom: 20px; padding-top: 50px;">Funders</div>
+                <div style="padding-bottom: 50px; padding-top: 100px;">Funders</div>
                 <div class="row partner-imgs" v-for="row in partners">
                     <div class="col-md-1 col-sm-1">
                     </div>
                     <div class="col-md-2 col-sm-2" v-for="image in row" style="padding: 10px;">
-                        <a v-bind:href="image.link" target="_blank"><img v-bind:src="image.img" alt=""
+                        <a v-bind:href="image.link" target="_blank"><img v-bind:src="image.img" :alt="image.title"
                                 v-bind:title="image.title"></a>
                     </div>
                     <div class="col-md-1 col-sm-1">

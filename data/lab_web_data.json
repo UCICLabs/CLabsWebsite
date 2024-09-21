@@ -4200,6 +4200,66 @@
             "link": "https://cns.iu.edu/",
             "img": "img/partners/cns-logo-3.png",
             "title": "Cyberinfrastructure for Network Science Center (CNS)"
+        },
+        {
+            "link": "https://guerillascience.org/",
+            "img": "img/partners/guerilla_science.png",
+            "title": "Guerilla Science"
+        },
+        {
+            "link": "https://sciencegallery.org/",
+            "img": "img/partners/SGLogo_Black_Transparent.png",
+            "title": "Science Gallery"
+        },
+        {
+            "link": "https://www.lbschools.net/",
+            "img": "img/partners/LBUSD_Logo_Horizontal-1-0.png",
+            "title": "Long Beach Unified"
+        },
+        {
+            "link": "https://www.cmu.edu/",
+            "img": "img/partners/lettermark-600x600-removebg-preview.png",
+            "title": "CMU"
+        },
+        {
+            "link": "https://www.newschool.edu/parsons/",
+            "img": "img/partners/parsons_images.png",
+            "title": "Parsons"
+        },
+        {
+            "link": "https://www.deakin.edu.au/",
+            "img": "img/partners/logo_deakin.png",
+            "title": "Deakin"
+        },
+        {
+            "link": "https://www.uky.edu/",
+            "img": "img/partners/Kentucky_Wildcats_logo.png",
+            "title": "University of Kentucky"
+        },
+        {
+            "link": "https://www.rit.edu/",
+            "img": "img/partners/new_RIT_logo1_RGB_0.png",
+            "title": "Rochester Institute of Technology"
+        },
+        {
+            "link": "https://www.boeing.com/",
+            "img": "img/partners/Logo-Boeing.png",
+            "title": "The Boeing Company"
+        },
+        {
+            "link": "https://www.santa-ana.org/departments/library/",
+            "img": "img/partners/Santa-Ana-Library.png",
+            "title": "Santa Ana Libraries"
+        },
+        {
+            "link": "https://www.snhu.edu/",
+            "img": "img/partners/SNHU Desktop Header.png",
+            "title": "Southern New Hampshire University"
+        },
+        {
+            "link": "https://www.centerforcraft.org/",
+            "img": "img/partners/5b1fca5b67f42f72900550d6_center-for-craft-mark-NEW.png",
+            "title": "Center for Craft"
         }
     ],
     "news": [
