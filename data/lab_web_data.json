@@ -4046,7 +4046,7 @@
         },
         {
             "link": "https://www.samueli.org/",
-            "img": "img/partners/samueli.jpg",
+            "img": "img/partners/samueli-foundation-new.png",
             "title": "Samueli Foundation"
         },
         {
@@ -4058,6 +4058,81 @@
             "link": "https://www.spencer.org/",
             "img": "img/partners/spencer.png",
             "title": "Spencer"
+        },
+        {
+            "link": "https://www.google.org/",
+            "img": "img/partners/google_f.png",
+            "title": "Google Foundation"
+        },
+        {
+            "link": "https://www.gapinc.com/en-us/",
+            "img": "img/partners/gap.png",
+            "title": "GAP Inc."
+        },
+        {
+            "link": "https://www.nsf.gov/",
+            "img": "img/partners/nsf_logo-desktop.png",
+            "title": "NSF"
+        },
+        {
+            "link": "https://www.macfound.org/",
+            "img": "img/partners/macarth_primary_logo.png",
+            "title": "MacArthur Foundation"
+        },
+        {
+            "link": "https://wallacefoundation.org/",
+            "img": "img/partners/wallacefoundation.png",
+            "title": "Wallace Foundation"
+        },
+        {
+            "link": "https://education.indiana.edu/research/funding/internal/proffitt-internal-grant-competition.html",
+            "img": "img/partners/proffitt.png",
+            "title": "Maris M. and Mary Higgins Proffitt Fund"
+        },
+        {
+            "link": "https://www.in.gov/doe/",
+            "img": "img/partners/doe.png",
+            "title": "Indiana Department of Education"
+        },
+        {
+            "link": "https://www.cct.org/",
+            "img": "img/partners/7450750-logo.png",
+            "title": "The Chicago Community Trust"
+        },
+        {
+            "link": "https://www.capitalone.com/",
+            "img": "img/partners/Capital_One-Logo.wine.png",
+            "title": "Capital One"
+        },
+        {
+            "link": "https://www.ed.gov/",
+            "img": "img/partners/dept-of-ed-logo.png",
+            "title": "U.S. Department of Education"
+        },
+        {
+            "link": "https://thenytrust.org/",
+            "img": "img/partners/New-York-Community-Trust_16-9.png",
+            "title": "The New York City Trust"
+        },
+        {
+            "link": "https://stemnext.org/",
+            "img": "img/partners/stemnext_logo@2x.png",
+            "title": "STEM Next Opportunity Fund"
+        },
+        {
+            "link": "https://wellcome.org/",
+            "img": "img/partners/Wellcome_Trust_logo.png",
+            "title": "Wellcome Trust"
+        },
+        {
+            "link": "https://www.bestbuyfoundation.org/",
+            "img": "img/partners/bby_foundation.png",
+            "title": "Best Buy Foundation"
+        },
+        {
+            "link": "https://www.fossil.com/en-us/fossil-foundation/",
+            "img": "img/partners/FSL-2023-NEW-Logo.png",
+            "title": "Fossil Foundation"
         }
     ],
     "partners2": [
