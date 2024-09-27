@@ -3586,7 +3586,7 @@
             "name": "Shenshen Han",
             "photo": "team_sh.png",
             "title": "Graduate Student Researcher",
-            "intro": "Shenshen is currently working as system/software specialist at Creativity Labs. His recent interest mainly lies on exploring the sense of the next generation Internet Computing. He is an enthusiast of computer networks and pervasive computing.",
+            "intro": "Shenshen is currently working as system/software specialist at Creativity Labs. His recent interest mainly lies on exploring the sense of the next generation Internet Computing. He is an enthusiast of software development and pervasive computing.",
             "social": [
                 {
                     "type": "email",
@@ -3689,6 +3689,18 @@
                 {
                     "type": "linkedin",
                     "url": "https://www.linkedin.com/in/andrew-douglas-rich-59477a26a/"
+                }
+            ]
+        },
+        {
+            "name": "Peter Liu",
+            "photo": "team_pl.png",
+            "title": "Graduate Student Researcher",
+            "intro": "Peter Liu is a Ph.D. student at UC Irvine's School of Education. He has a diverse academic background that focuses on interdisciplinary relationships, having studied English, biology, neuroscience, and technology. Currently, he is focused on exploring the changing academic landscape brought about by the popularized integration of AI-related technologies.",
+            "social": [
+                {
+                    "type": "linkedin",
+                    "url": "https://www.linkedin.com/in/peter-liu-b4ab82132/"
                 }
             ]
         }
