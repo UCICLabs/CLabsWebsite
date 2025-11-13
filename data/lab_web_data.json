@@ -3475,18 +3475,6 @@
             ]
         },
         {
-            "name": "Jenna Abrams",
-            "photo": "team_ja.png",
-            "title": "Program Administrator",
-            "intro": "Jenna Abrams is a Program Administrator at the Connected Learning Lab, where she assists administratively on CLL research projects alongside managing the CLA newsletter and blog. She holds an MFA in Writing from UC Irvine.",
-            "social": [
-                {
-                    "type": "email",
-                    "url": "mailto:jlabrams@uci.edu"
-                }
-            ]
-        },
-        {
             "name": "Maggie Dahn",
             "photo": "team_md.png",
             "title": "Associate Project Scientist",
@@ -3499,18 +3487,6 @@
                 {
                     "type": "linkedin",
                     "url": "https://www.linkedin.com/in/maggiedahn/"
-                }
-            ]
-        },
-        {
-            "name": "Seth Corrigan",
-            "photo": "team_sc.png",
-            "title": "R&D Scientist",
-            "intro": "Seth Corrigan is a research scientist working with the Creativity Labs at University of California, Irvine. He specializes in the use of quantitative methods with a focus on measurement, psychometrics and machine learning to develop novel learning and assessment technologies.",
-            "social": [
-                {
-                    "type": "linkedin",
-                    "url": "https://www.linkedin.com/in/seth-corrigan-9a238945/"
                 }
             ]
         },
@@ -3551,34 +3527,6 @@
                 {
                     "type": "web",
                     "url": "https://zhenyao-cai.github.io/"
-                }
-            ]
-        },
-        {
-            "name": "Lora Cawelti",
-            "photo": "team_lc.png",
-            "title": "Graduate Student Researcher",
-            "intro": "Lora Cawelti is a Ph.D. student in Education with a background in performing arts, teaching artistry, and arts programming in schools and community spaces. She is focused on understanding unique arts learning pathways and designing for arts learning that is rooted in inclusive, culturally sustaining pedagogies. Lora is interested in community engaged research practices and research practice partnerships.",
-            "social": [
-                {
-                    "type": "web",
-                    "url": "https://education.uci.edu/phd-cawelti-l.html"
-                },
-                {
-                    "type": "linkedin",
-                    "url": "https://www.linkedin.com/in/lora-cawelti-b135034/"
-                }
-            ]
-        },
-        {
-            "name": "Phebe Chew",
-            "photo": "team_pc.png",
-            "title": "Graduate Student Researcher",
-            "intro": "Phebe Chew is a Ph.D. student in Education. She is interested in sociocultural perspectives around learning in out-of-school spaces, with special interest around how identity and relationships shape learning in the culinary arts and food media. She has experience in community-based research, ethnographic approaches, life history approaches, and participatory design.",
-            "social": [
-                {
-                    "type": "linkedin",
-                    "url": "https://www.linkedin.com/in/phebechew/"
                 }
             ]
         },
@@ -3631,37 +3579,15 @@
             ]
         },
         {
-            "name": "Ulia Zaman",
-            "photo": "team_uz.jpg",
-            "title": "Undergraduate Student Researcher ",
-            "intro": "Ulia Zaman is a undergraduate Computer Science student. She has a passion for software programming and is interested in exploring the possibilities of AI in our daily lives.",
-            "social": [
-                {
-                    "type": "linkedin",
-                    "url": "https://www.linkedin.com/in/uliazaman/"
-                }
-            ]
-        },
-        {
-            "name": "Eva Durall Gazulla",
-            "photo": "team_edg.png",
-            "title": "Postdoctoral Researcher",
-            "intro": "Eva is conducting her postdoctoral research at the INTERACT research group at the University of Oulu. She is interested in the design of environments that support learners’ agency and critical engagement. In her current research she explores participatory approaches to democracy education, as well as teenagers’ critical data literacies with a focus on social justice.",
-            "social": []
-        },
-        {
-            "name": "Haoning Jiang",
-            "photo": "team_hj.png",
-            "title": "Graduate Student Researcher",
-            "intro": "Haoning Jiang is a graduate Computer Science student currently studying at UC Irvine. They are interested in artificial intelligence and its applications. Their academic journey has been enriched by immersive experiences in AI and Machine Learning (ML) research, where they have honed their skills working with ML-driven matching algorithms. They possess a robust foundation in Python and Java, and their coursework has equipped them with a solid understanding of data structures, algorithms, and statistical modeling.",
-            "social": []
-        },
-        {
             "name": "Jasmine Tran",
             "photo": "team_jt.png",
             "title": "Graduate Student Researcher",
             "intro": "Jasmine Tran is a Ph.D. student in Education, focusing on Teaching, Learning, and Educational Improvement. Before coming to UCI, Jasmine engaged in research-practice partnerships with schools across the world to design and develop assessments. Her research interests involve the utilization and evaluation of AI to co-develop learning tools for students of all backgrounds. She is also broadly interested in researching the design and development processes that make learning tools effective.",
             "social": [
+                {
+                    "type": "web",
+                    "url": "https://jasetran.github.io/"
+                },
                 {
                     "type": "linkedin",
                     "url": "https://www.linkedin.com/in/jaseliztran/"
@@ -3677,18 +3603,6 @@
                 {
                     "type": "linkedin",
                     "url": "https://www.linkedin.com/in/mariama-n-henry-msc-mls-ascp-cm-b1236076/"
-                }
-            ]
-        },
-        {
-            "name": "Andrew Rich",
-            "photo": "team_ar.png",
-            "title": "Undergraduate Student Researcher",
-            "intro": "Andrew Rich is an undergraduate Software Engineering student. He has an interest in exploring and promoting ways to elevate classroom learning and bring computer science to students with fewer opportunities.",
-            "social": [
-                {
-                    "type": "linkedin",
-                    "url": "https://www.linkedin.com/in/andrew-douglas-rich-59477a26a/"
                 }
             ]
         },
@@ -3852,6 +3766,89 @@
             "title": "Postdoctoral Researcher, USC",
             "intro": "Nikki is a Ph.D student in Education with a background in math, English literature, and creative writing. She is interested in developing tools to facilitate learning and creative thought to promote mathematical thinking and broadening participation of underrepresented groups in STEM fields.",
             "social": []
+        },
+        {
+            "name": "Jenna Abrams",
+            "photo": "team_ja.png",
+            "intro": "Jenna Abrams is a Program Administrator at the Connected Learning Lab, where she assists administratively on CLL research projects alongside managing the CLA newsletter and blog. She holds an MFA in Writing from UC Irvine.",
+            "social": [
+                {
+                    "type": "email",
+                    "url": "mailto:jlabrams@uci.edu"
+                }
+            ]
+        },
+        {
+            "name": "Seth Corrigan",
+            "photo": "team_sc.png",
+            "title": "R&D Scientist",
+            "intro": "Seth Corrigan is a research scientist working with the Creativity Labs at University of California, Irvine. He specializes in the use of quantitative methods with a focus on measurement, psychometrics and machine learning to develop novel learning and assessment technologies.",
+            "social": [
+                {
+                    "type": "linkedin",
+                    "url": "https://www.linkedin.com/in/seth-corrigan-9a238945/"
+                }
+            ]
+        },
+        {
+            "name": "Lora Cawelti",
+            "photo": "team_lc.png",
+            "intro": "Lora Cawelti is a Ph.D. student in Education with a background in performing arts, teaching artistry, and arts programming in schools and community spaces. She is focused on understanding unique arts learning pathways and designing for arts learning that is rooted in inclusive, culturally sustaining pedagogies. Lora is interested in community engaged research practices and research practice partnerships.",
+            "social": [
+                {
+                    "type": "web",
+                    "url": "https://education.uci.edu/phd-cawelti-l.html"
+                },
+                {
+                    "type": "linkedin",
+                    "url": "https://www.linkedin.com/in/lora-cawelti-b135034/"
+                }
+            ]
+        },
+        {
+            "name": "Phebe Chew",
+            "photo": "team_pc.png",
+            "intro": "Phebe Chew is a Ph.D. student in Education. She is interested in sociocultural perspectives around learning in out-of-school spaces, with special interest around how identity and relationships shape learning in the culinary arts and food media. She has experience in community-based research, ethnographic approaches, life history approaches, and participatory design.",
+            "social": [
+                {
+                    "type": "linkedin",
+                    "url": "https://www.linkedin.com/in/phebechew/"
+                }
+            ]
+        },
+        {
+            "name": "Ulia Zaman",
+            "photo": "team_uz.jpg",
+            "intro": "Ulia Zaman is a undergraduate Computer Science student. She has a passion for software programming and is interested in exploring the possibilities of AI in our daily lives.",
+            "social": [
+                {
+                    "type": "linkedin",
+                    "url": "https://www.linkedin.com/in/uliazaman/"
+                }
+            ]
+        },
+        {
+            "name": "Eva Durall Gazulla",
+            "photo": "team_edg.png",
+            "intro": "Eva is conducting her postdoctoral research at the INTERACT research group at the University of Oulu. She is interested in the design of environments that support learners’ agency and critical engagement. In her current research she explores participatory approaches to democracy education, as well as teenagers’ critical data literacies with a focus on social justice.",
+            "social": []
+        },
+        {
+            "name": "Haoning Jiang",
+            "photo": "team_hj.png",
+            "intro": "Haoning Jiang is a graduate Computer Science student currently studying at UC Irvine. They are interested in artificial intelligence and its applications. Their academic journey has been enriched by immersive experiences in AI and Machine Learning (ML) research, where they have honed their skills working with ML-driven matching algorithms. They possess a robust foundation in Python and Java, and their coursework has equipped them with a solid understanding of data structures, algorithms, and statistical modeling.",
+            "social": []
+        },
+        {
+            "name": "Andrew Rich",
+            "photo": "team_ar.png",
+            "intro": "Andrew Rich is an undergraduate Software Engineering student. He has an interest in exploring and promoting ways to elevate classroom learning and bring computer science to students with fewer opportunities.",
+            "social": [
+                {
+                    "type": "linkedin",
+                    "url": "https://www.linkedin.com/in/andrew-douglas-rich-59477a26a/"
+                }
+            ]
         }
     ],
     "private": [
