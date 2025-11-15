@@ -129,6 +129,9 @@ function initVue() {
                         case "facebook":
                             so.class = "fa-facebook";
                             break;
+                        case "google":
+                            so.class = "fa-google";
+                            break;
                         default:
                             break;
                     }
