@@ -3570,7 +3570,7 @@
             "name": "Seth Van Doren",
             "photo": "team_svd.png",
             "title": "Graduate Student Researcher",
-            "intro": "Seth is a PhD student in Education interested in designing STEM learning experiences using participatory design research methods that center the values, desires, and aspirations of the groups that will engage with them. His experiences conducting design-based research and engaging in co-design with youth, informal science educators, science content experts, and researchers have shaped his current research interests.",
+            "intro": "Seth is a Ph.D. student in the school of education at UC Irvine. He is interested in I designing, implementing and critically evaluating how GenAI-systems shape teaching and learning.",
             "social": [
                 {
                     "type": "linkedin",
@@ -3615,6 +3615,65 @@
                 {
                     "type": "linkedin",
                     "url": "https://www.linkedin.com/in/peter-liu-b4ab82132/"
+                }
+            ]
+        },
+        {
+            "name": "Sarah Oide",
+            "photo": "team_so.png",
+            "title": "Graduate Student Researcher",
+            "intro": "Sarah Oide is a Ph.D. student in Informatics with a background in psychology, digital studies, and digital humanities. She is interested in critical approaches to studying learning experiences at the intersection of art, technology, and STEM education.",
+            "social": []
+        },
+        {
+            "name": "Sarah Nassery",
+            "photo": "team_sn.png",
+            "title": "Graduate Student Researcher",
+            "intro": "Sarah Nassery earned her degree in Computer Science and Engineering from UCI, where she's also pursuing a graduate degree in Informatics. Her research bridges AI🤖, UX📱, and education📚, aiming to enhance learning and engagement across higher education institutions. She is passionate about improving computing💻 curricula while connecting research with real-world practice through human-centered, inclusive technologies.",
+            "social": [
+                {
+                    "type": "linkedin",
+                    "url": "https://www.linkedin.com/in/sarah-nassery"
+                }
+            ]
+        },
+        {
+            "name": "Lillian Liu",
+            "photo": "team_ll.png",
+            "title": "Graduate Student Researcher",
+            "intro": "Lillian Liu is a Ph.D. student at UCI, specializing in Teaching, Learning, and Educational Improvement, with a background in computer science and education. She is broadly curious about the new applications of various technologies and deeply passionate about designing and researching innovative experiences. She is particularly interested in how these technologies can broaden participation and empower underrepresented students in STEM.",
+            "social": [
+                {
+                    "type": "web",
+                    "url": "https://lillianwliu.com/"
+                },
+                {
+                    "type": "linkedin",
+                    "url": "https://www.linkedin.com/in/wenxuanliu/"
+                }
+            ]
+        },
+        {
+            "name": "Patricia Fuentes Acevedo",
+            "photo": "team_pa.png",
+            "title": "Graduate Student Researcher",
+            "intro": "Patricia is a Chilean mathematics teacher educator and Ph.D. candidate at UCI. She has taught math at different school levels and methods classes for pre-service and in-service teachers. Her dissertation employs design-based implementation research to study power dynamics and teacher learning in the context of co-designing for elementary family math with caregivers, teachers, and researchers.",
+            "social": [
+                {
+                    "type": "google",
+                    "url": "https://scholar.google.com/citations?user=zv8raFAAAAAJ&hl=en"
+                }
+            ]
+        },
+        {
+            "name": "Victoria Violet Hays",
+            "photo": "team_vh",
+            "title": "Graduate Student Researcher",
+            "intro": "Victoria is an Informatics graduate student with a background in computer science education. Her research focuses on designing open-access, hands-on learning environments that support the development of computational thinking skills.",
+            "social": [
+                {
+                    "type": "linkedin",
+                    "url": "https://www.linkedin.com/in/victoria-violet-hays/"
                 }
             ]
         }
