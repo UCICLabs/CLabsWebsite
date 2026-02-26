@@ -3679,6 +3679,26 @@
             "title": "Graduate Student Researcher",
             "intro": "Jesse Giovanni Sánchez is a National Science Foundation Graduate Research Fellow pursuing his PhD in A.I. Education and Human Development at the University of California, Irvine. Their research centers on how families co-design and meaningfully engage with emergent A.I. technologies to support social and emotional learning (SEL), cultural storytelling, and intergenerational healing.",
             "social": []
+        },
+        {
+            "name": "Hyewon Lee",
+            "photo": "team_hl.png",
+            "title": "Postdoctoral Researcher",
+            "intro": "I examine how adolescents develop motivation and identity across in- and out-of-school contexts and how these processes shape their life trajectories over time. I love spending time at the beach, riding bikes on trails, and watching sports games when I’m free.",
+            "social": [
+                {
+                    "type": "email",
+                    "url": "mailto:hyewl3@uci.edu"
+                },
+                {
+                    "type": "linkedin",
+                    "url": "https://www.linkedin.com/in/hyewon-lee-6379b1348/"
+                },
+                {
+                    "type": "google",
+                    "url": "https://scholar.google.com/citations?user=rVMCHO0AAAAJ&hl=en"
+                }
+            ]
         }
     ],
     "team2": [
