@@ -483,13 +483,45 @@
                     "file": "CP120.pdf"
                 },
                 {
-                    "title": "",
+                    "title": "Learner Pathway Analysis: an Approach for Evaluating STEM Persistence in Learning Ecosystems",
                     "authors": [
-                        ""
+                        "Corrigan, S.",
+                        "Dahn, M.",
+                        "Ito, M.",
+                        "Peppler, K."
                     ],
-                    "otherText": "",
-                    "cat": "",
-                    "file": ""
+                    "otherText": "In Litts, B., DeLiema, D., Lee, C., Krist, S., Mawasi, A., Martin, L., & Kumpulainen, K. (Eds.), Proceedings of the International Conference of the Learning Sciences - ICLS 2026 (pp. 840-849). International Society of the Learning Sciences.",
+                    "cat": "sth",
+                    "file": "CP119.pdf"
+                },
+                {
+                    "title": "Investigating Collaborative Weaving Design as a Scaffold for AI Literacy",
+                    "authors": [
+                        "Rosé, C.",
+                        "Robinson, O.",
+                        "Orta-Martinez, M.",
+                        "Huang, J.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In Rosé, C., Gweon, G., Asterhan, C., & Keune, A. (Eds.), Proceedings of the International Conference on Computer-Supported Collaborative Learning - CSCL 2026 (pp. 758-760). International Society of the Learning Sciences.",
+                    "cat": "etx",
+                    "file": "CP118.pdf"
+                },
+                {
+                    "title": "AmIWrite: Exploring Scalable One-on-One Handwriting-Based Tutoring for Mathematical Problem-Solving with an LLM-Powered AI Tutor",
+                    "authors": [
+                        "Liu, Z.",
+                        "Chen, Y.",
+                        "Ji, H.",
+                        "Duan, R.",
+                        "Zhu, Z.",
+                        "Hu, X.",
+                        "Peppler, K.",
+                        "Ramani, K."
+                    ],
+                    "otherText": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems, 1-28.",
+                    "cat": "idl",
+                    "file": "CP117.pdf"
                 }
             ]
         },
@@ -685,7 +717,7 @@
                         "Chew, P.",
                         "DiGiacomo, D.",
                         "Sefton-Green, J.",
-                        "Peppler, K"
+                        "Peppler, K."
                     ],
                     "otherText": "In Learning as a cornerstone of healing, resilience, and community: ICLS Proceedings: 18th Annual Conference of the Learning Sciences (pp. 346-353). Buffalo, New York: International Society of the Learning Sciences.",
                     "cat": "idl",
