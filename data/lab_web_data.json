@@ -364,6 +364,153 @@
     ],
     "publications": [
         {
+            "year": 2026,
+            "list": [
+                {
+                    "title": "Emergent Technology, Emergent Critique: Students and Teachers Developing Critical AI Literacy Through Participatory Design Around Generative AI",
+                    "authors": [
+                        "Ojeda-Ramirez, S.",
+                        "Durall Gazulla, E.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "Proceedings of the 25th Annual ACM Interaction Design and Children Conference, 1173-1178.",
+                    "cat": "idl",
+                    "file": "CP126.pdf"
+                },
+                {
+                    "title": "Community-Based AI Learning: Redistributing Artificial Intelligence's Epistemic Authority in Education",
+                    "authors": [
+                        "Ojeda-Ramirez, S.",
+                        "Gyles, S.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "Proceedings of the 2026 Conference on Research on Equity and Sustained Participation in Engineering, Computing, and Technology, 219-228.",
+                    "cat": "idl",
+                    "file": "CP125.pdf"
+                },
+                {
+                    "title": "Insights from International Partnerships on Infrastructuring for Maker Education",
+                    "authors": [
+                        "Segev, Y.",
+                        "Hod, Y.",
+                        "Kashi, S.",
+                        "Nagarajan, A.",
+                        "Velayudhan, A.",
+                        "Valente, A. B.",
+                        "Keune, A.",
+                        "Dasgupta, C.",
+                        "Pathak, D.",
+                        "Halverson, E.",
+                        "Hakkarainen, K.",
+                        "Peppler, K.",
+                        "Salo, L.",
+                        "Burd, L.",
+                        "Fernandez, C.",
+                        "Hochgreb, T.",
+                        "Blikstein, P.",
+                        "Seitamaa-Hakkarainen, P.",
+                        "Roque, R.",
+                        "Kafri, R.",
+                        "Hayden, R.",
+                        "Ojeda-Ramirez, S.",
+                        "Korhonen, T.",
+                        "Simšić, Ž.",
+                        "Santo, R."
+                    ],
+                    "otherText": "In Litts, B., DeLiema, D., Lee, C., Krist, S., Mawasi, A., Martin, L., & Kumpulainen, K. (Eds.), Proceedings of the International Conference of the Learning Sciences - ICLS 2026 (pp. 2353-2364). International Society of the Learning Sciences.",
+                    "cat": "etx",
+                    "file": "CP124.pdf"
+                },
+                {
+                    "title": "From Enrichment to Essential: The Value of the Arts in Learning and Education",
+                    "authors": [
+                        "Staples, H.",
+                        "Keune, A.",
+                        "Kim, S.",
+                        "Kumpulainen, K.",
+                        "Thompson, N.",
+                        "DiCioccio, M.",
+                        "Graham, G.",
+                        "Barber, J.",
+                        "Segev, Y.",
+                        "Hod, Y.",
+                        "Cain, R.",
+                        "Hsi, S.",
+                        "Cain, M.",
+                        "Peppler, K.",
+                        "Dahn, M.",
+                        "Ito, M.",
+                        "Vogelstein, L."
+                    ],
+                    "otherText": "In Litts, B., DeLiema, D., Lee, C., Krist, S., Mawasi, A., Martin, L., & Kumpulainen, K. (Eds.), Proceedings of the International Conference of the Learning Sciences - ICLS 2026 (pp. 2375-2386). International Society of the Learning Sciences.",
+                    "cat": "anc",
+                    "file": "CP123.pdf"
+                },
+                {
+                    "title": "Multi-layered Brokering for Family Engagement in Out-of-School STEM: A Case Study of a Statewide Learning Network",
+                    "authors": [
+                        "Dahn, M.",
+                        "Peppler, K.",
+                        "Ito, M.",
+                        "Denissen, K.",
+                        "Anderson, K."
+                    ],
+                    "otherText": "In Litts, B., DeLiema, D., Lee, C., Krist, S., Mawasi, A., Martin, L., & Kumpulainen, K. (Eds.), Proceedings of the International Conference of the Learning Sciences - ICLS 2026 (pp. 537-545). International Society of the Learning Sciences.",
+                    "cat": "idl",
+                    "file": "CP122.pdf"
+                },
+                {
+                    "title": "STEM Interest as an Entry Point for OST Learning: A Case Study of the Boys & Girls Clubs of Garden Grove",
+                    "authors": [
+                        "Peppler, K.",
+                        "Dahn, M.",
+                        "Corrigan, S.",
+                        "White, H."
+                    ],
+                    "otherText": "In Litts, B., DeLiema, D., Lee, C., Krist, S., Mawasi, A., Martin, L., & Kumpulainen, K. (Eds.), Proceedings of the International Conference of the Learning Sciences - ICLS 2026 (pp. 2946-2948). International Society of the Learning Sciences.",
+                    "cat": "sth",
+                    "file": "CP121.pdf"
+                },
+                {
+                    "title": "Design-Based Approaches to Co-Analysis in Collaborative Research",
+                    "authors": [
+                        "Peppler, K.",
+                        "Ahn, J.",
+                        "Dahn, M."
+                    ],
+                    "otherText": "In Litts, B., DeLiema, D., Lee, C., Krist, S., Mawasi, A., Martin, L., & Kumpulainen, K. (Eds.), Proceedings of the International Conference of the Learning Sciences - ICLS 2026 (pp. 1752-1756). International Society of the Learning Sciences.",
+                    "cat": "anc",
+                    "file": "CP120.pdf"
+                },
+                {
+                    "title": "",
+                    "authors": [
+                        ""
+                    ],
+                    "otherText": "",
+                    "cat": "",
+                    "file": ""
+                }
+            ]
+        },
+        {
+            "year": 2025,
+            "list": [
+                {
+                    "title": "Materialized Action: Reformulating the “Doing of” Math Through Fiber Crafting",
+                    "authors": [
+                        "Peppler, K.",
+                        "Keune, A.",
+                        "Bender, S.",
+                        "Yankova, N."
+                    ],
+                    "otherText": "Cognition and Instruction, 43(3), 175-200.",
+                    "cat": "etx",
+                    "file": "J59.pdf"
+                }
+            ]
+        },
+        {
             "year": 2024,
             "list": [
                 {
