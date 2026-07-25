@@ -539,6 +539,57 @@
                     "otherText": "Cognition and Instruction, 43(3), 175-200.",
                     "cat": "etx",
                     "file": "J59.pdf"
+                },
+                {
+                    "title": "Mapping Network Health in Rural Educational Collaborations: A Social Network Analysis Method",
+                    "authors": [
+                        "Corrigan, S.",
+                        "Peppler, K.",
+                        "Dahn, M.",
+                        "Ito, M."
+                    ],
+                    "otherText": "Connected Learning Summit 2025.",
+                    "cat": "sth",
+                    "file": "CP116.pdf"
+                },
+                {
+                    "title": "Advancing Equity in STEM: Analyzing Survey Tools for Female High School Students Using the COSTAR Framework in Large Language Models",
+                    "authors": [
+                        "Henry, M.",
+                        "Jiang, H.",
+                        "Corrigan, S.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "Connected Learning Summit 2025.",
+                    "cat": "fow",
+                    "file": "CP115.pdf"
+                },
+                {
+                    "title": "Strengthening Synapses: Fostering Connections and Pathways for Youth Across STEM Learning Ecosystems",
+                    "authors": [
+                        "Peppler, K.",
+                        "Ito, M.",
+                        "Dahn, M.",
+                        "Corrigan, S."
+                    ],
+                    "otherText": "Connected Learning Summit 2025.",
+                    "cat": "sth",
+                    "file": "CP114.pdf"
+                },
+                {
+                    "title": "Designing Looms as Kits for Collaborative Assembly",
+                    "authors": [
+                        "Speer, S.",
+                        "Yankova, N.",
+                        "Huang, J.",
+                        "Rosé, C.",
+                        "Peppler, K. A.",
+                        "McCann, J.",
+                        "Orta Martinez, M."
+                    ],
+                    "otherText": "Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology, 1-18.",
+                    "cat": "etx",
+                    "file": "CP113.pdf"
                 }
             ]
         },
