@@ -590,6 +590,137 @@
                     "otherText": "Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology, 1-18.",
                     "cat": "etx",
                     "file": "CP113.pdf"
+                },
+                {
+                    "title": "Bridging Human and Machine Perspectives: Integrating Large Language Models Into Collaborative Coding and Peer Debriefing for Qualitative Inquiry",
+                    "authors": [
+                        "Jiang, H.",
+                        "Corrigan, S.",
+                        "Peppler, K.",
+                        "Erana, T.I."
+                    ],
+                    "otherText": "In M. Hlosta, I. Moser, A. Winer, N. Geri, B. Heinemann, S. Görzen, U. Ramnarain, C. van der Westhuizen, M. Penn, A. Gharahighehi, R. V. Schoors, P. Topali, J. Ooge, B. Flanagan, O. H. T. Lu, A. Shimada, N. Srivastava, A. C. M. Yang, H.-T. Tseng, … E. Harpstead (Eds.), Joint Proceedings of LAK 2025 Workshops co-located with 15th International Conference on Learning Analytics and Knowledge (LAK 2025), Dublin, Ireland, March 3-4, 2025 (Vol. 3995, pp. 194-204). CEUR-WS.org.",
+                    "cat": "scm",
+                    "file": "CP112.pdf"
+                },
+                {
+                    "title": "Design Implications of Generative AI Tools for School Aged Children for Narrative Writing",
+                    "authors": [
+                        "Han, A.",
+                        "Han, S.",
+                        "Corrigan, S.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "Considering Cultural and Linguistic Diversity in AI Applications Workshop (CALD-AI workshop), Hybrid (In-Person/Virtual).",
+                    "cat": "anc",
+                    "file": "CP111.pdf"
+                },
+                {
+                    "title": "Child-AI Co-Creation: a Review of the Current Research Landscape and a Proposal for Six Design Considerations",
+                    "authors": [
+                        "Cai, Z.",
+                        "Han, A.",
+                        "Zhou, X.",
+                        "Gazulla, E. D.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "Proceedings of the 24th Interaction Design and Children, 916-922.",
+                    "cat": "idl",
+                    "file": "CP110.pdf"
+                },
+                {
+                    "title": "“Hi Kids, Let's Talk About How Snakes Hunt”: Understanding the Process of Children's Instructional Video Creation Through a Workshop Study",
+                    "authors": [
+                        "Cai, Z.",
+                        "Wei, S.",
+                        "Han, A.",
+                        "Peppler, K. A."
+                    ],
+                    "otherText": "Proceedings of the 24th Interaction Design and Children, 684-698.",
+                    "cat": "fow",
+                    "file": "CP109.pdf"
+                },
+                {
+                    "title": "Humanizing AI for Education: Conversations with the JLS 2026 Special Issue Contributors",
+                    "authors": [
+                        "Humburg, M.",
+                        "Han, A.",
+                        "Zheng, J.",
+                        "Rosé, C. P.",
+                        "Chao, J.",
+                        "Melo, N. A.",
+                        "Chávez, V. C.",
+                        "Higgs, J.",
+                        "Kaimana, M.",
+                        "Isero, M.",
+                        "Relmasira, S. C.",
+                        "Donaldson, J. P.",
+                        "Keune, A.",
+                        "Hurtado, S.",
+                        "McCune, D. L.",
+                        "Huang, J.",
+                        "Zhang, Y.",
+                        "Smyslova, D.",
+                        "Li, Q.",
+                        "Jiang, S.",
+                        "Ritchie, D.",
+                        "Saito-Stehberger, D.",
+                        "Tate, T.",
+                        "Warschauer, M.",
+                        "Han, S.",
+                        "Corrigan, S.",
+                        "Peppler, K.",
+                        "Jackson, D. W.",
+                        "Scheuneman, S. M.",
+                        "Ramdath, K.",
+                        "Goehrig, F.",
+                        "Nwogu, I.",
+                        "Waight, N.",
+                        "McBride, C."
+                    ],
+                    "otherText": "In Rajala, A., Cortez, A., Hofmann, R., Jornet, A., Lotz-Sisitka, H., & Markauskaite, L. (Eds.), Proceedings of the 19th International Conference of the Learning Sciences - ICLS 2025 (pp. 2269-2277). International Society of the Learning Sciences.",
+                    "cat": "idl",
+                    "file": "CP108.pdf"
+                },
+                {
+                    "title": "Crafting Computational Thinking with Rope Weaving",
+                    "authors": [
+                        "Huang, J.",
+                        "Han, S.",
+                        "Speer, S.",
+                        "Ojeda-Ramirez, S.",
+                        "Rosé, C. P.",
+                        "Martinez, M. O.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In Oshima, J., Chen, B., Vogel, F., & Järvelä, J. (Eds.), Proceedings of the 18th International Conference on Computer-Supported Collaborative Learning - CSCL 2025 (pp. 611-613). International Society of the Learning Sciences.",
+                    "cat": "etx",
+                    "file": "CP107.pdf"
+                },
+                {
+                    "title": "Exploring Human-AI Interactions Across Various Learning Tasks: Diverse Perspectives on Augmenting Learner",
+                    "authors": [
+                        "Järvelä, S.",
+                        "Rummel, N.",
+                        "Cukurova, M.",
+                        "Radtke, A.",
+                        "Meyer, J.",
+                        "Yang, S.",
+                        "Schneider, B.",
+                        "Rosé, C. P.",
+                        "Martinez, M. O.",
+                        "Peppler, K.",
+                        "Lämsä, J.",
+                        "de Araujo, A.",
+                        "Edwards, J.",
+                        "Sobocinski, M.",
+                        "Roberts, A.",
+                        "Whitehead, R.",
+                        "Papadopoulos, P. M."
+                    ],
+                    "otherText": "In Oshima, J., Chen, B., Vogel, F., & Järvelä, J. (Eds.), Proceedings of the 18th International Conference on Computer-Supported Collaborative Learning - CSCL 2025 (pp. 481-489). International Society of the Learning Sciences.",
+                    "cat": "idl",
+                    "file": "CP106.pdf"
                 }
             ]
         },
