@@ -721,6 +721,65 @@
                     "otherText": "In Oshima, J., Chen, B., Vogel, F., & Järvelä, J. (Eds.), Proceedings of the 18th International Conference on Computer-Supported Collaborative Learning - CSCL 2025 (pp. 481-489). International Society of the Learning Sciences.",
                     "cat": "idl",
                     "file": "CP106.pdf"
+                },
+                {
+                    "title": "Design Future(s) Collective: New Directions for Educational Design Research",
+                    "authors": [
+                        "Keune, A.",
+                        "Manz, E.",
+                        "Siry, C.",
+                        "Y., J.",
+                        "Rowsell, J.",
+                        "Dörfler, K.",
+                        "Kumpulainen, K.",
+                        "Peppler, K.",
+                        "Schalk, M.",
+                        "Thompson, N.",
+                        "D'Acunto, P.",
+                        "Wilmes, S.",
+                        "Jurow, S."
+                    ],
+                    "otherText": "In Rajala, A., Cortez, A., Hofmann, R., Jornet, A., Lotz-Sisitka, H., & Markauskaite, L. (Eds.), Proceedings of the 19th International Conference of the Learning Sciences - ICLS 2025 (pp. 2345-2353). International Society of the Learning Sciences.",
+                    "cat": "idl",
+                    "file": "CP105.pdf"
+                },
+                {
+                    "title": "Reflective AI-Partnerships: How Middle Schoolers Balance Creativity and AI Collaboration",
+                    "authors": [
+                        "Ojeda-Ramirez, S.",
+                        "Han, A.",
+                        "Rich, A.",
+                        "Han, S.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In Oshima, J., Chen, B., Vogel, F., & Järvelä, J. (Eds.), Proceedings of the 18th International Conference on Computer-Supported Collaborative Learning - CSCL 2025 (pp. 404-408). International Society of the Learning Sciences.",
+                    "cat": "anc",
+                    "file": "CP104.pdf"
+                },
+                {
+                    "title": "Weaving Collaboration: Promoting Effective Interdisciplinary Learning with a Robotic Loom",
+                    "authors": [
+                        "Ojeda-Ramirez, S.",
+                        "Rich, A.",
+                        "Huang, J.",
+                        "Speer, S.",
+                        "Martinez, M. O.",
+                        "Rosé, C. P.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In Oshima, J., Chen, B., Vogel, F., & Järvelä, J. (Eds.), Proceedings of the 18th International Conference on Computer-Supported Collaborative Learning - CSCL 2025 (pp. 160-168). International Society of the Learning Sciences.",
+                    "cat": "etx",
+                    "file": "CP103.pdf"
+                },
+                {
+                    "title": "Beyond the Binary: Leaning on Materials-to-Queer-with in the “Doing of Mathematics”",
+                    "authors": [
+                        "Yankova, N.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In Rajala, A., Cortez, A., Hofmann, R., Jornet, A., Lotz-Sisitka, H., & Markauskaite, L. (Eds.), Proceedings of the 19th International Conference of the Learning Sciences - ICLS 2025 (pp. 3130-3132). International Society of the Learning Sciences.",
+                    "cat": "idl",
+                    "file": "CP102.pdf"
                 }
             ]
         },
