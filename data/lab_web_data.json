@@ -780,6 +780,68 @@
                     "otherText": "In Rajala, A., Cortez, A., Hofmann, R., Jornet, A., Lotz-Sisitka, H., & Markauskaite, L. (Eds.), Proceedings of the 19th International Conference of the Learning Sciences - ICLS 2025 (pp. 3130-3132). International Society of the Learning Sciences.",
                     "cat": "idl",
                     "file": "CP102.pdf"
+                },
+                {
+                    "title": "The Role of Arts in Strengthening Learner's Identity and Community Relationships",
+                    "authors": [
+                        "Bisht, A.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In Rajala, A., Cortez, A., Hofmann, R., Jornet, A., Lotz-Sisitka, H., & Markauskaite, L. (Eds.), Proceedings of the 19th International Conference of the Learning Sciences - ICLS 2025 (pp. 1869-1873). International Society of the Learning Sciences.",
+                    "cat": "anc",
+                    "file": "CP101.pdf"
+                },
+                {
+                    "title": "Shifting Toward a Connected Perspective in an Out-of-School STEM Program",
+                    "authors": [
+                        "Cawelti, L.",
+                        "Dahn, M.",
+                        "Corrigan, S.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In Rajala, A., Cortez, A., Hofmann, R., Jornet, A., Lotz-Sisitka, H., & Markauskaite, L. (Eds.), Proceedings of the 19th International Conference of the Learning Sciences - ICLS 2025 (pp. 3004-3006). International Society of the Learning Sciences.",
+                    "cat": "idl",
+                    "file": "CP100.pdf"
+                },
+                {
+                    "title": "NSF DUE: Everyday Engineering: Leveraging Craft to Deepen Engineering Design and Spatial Visualization",
+                    "authors": [
+                        "Keune, A.",
+                        "Villarreal Bermúdez, D.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "2025 ASEE Annual Conference & Exposition Proceedings, 57006.",
+                    "cat": "etx",
+                    "file": "CP99.pdf"
+                },
+                {
+                    "title": "BOARD # 289: NSF-Supported DUE: Introducing Robotics Through a Weaving-Based Undergraduate Curriculum: Towards Breaking STEM Stereotypes",
+                    "authors": [
+                        "Speer, S.",
+                        "Orta Martinez, M.",
+                        "Peppler, K.",
+                        "Robinson, O.",
+                        "Huang, J.",
+                        "Yankova, N.",
+                        "Ojeda-Ramirez, S."
+                    ],
+                    "otherText": "2025 ASEE Annual Conference & Exposition Proceedings, 55653.",
+                    "cat": "etx",
+                    "file": "CP98.pdf"
+                },
+                {
+                    "title": "Adopting Backward Design into a Constructionist Curriculum Design for IoT Skill Development in High Schoolers",
+                    "authors": [
+                        "Ipsita, A.",
+                        "Glenn, T. K.",
+                        "Bhagwat, D. A.",
+                        "Pereira, N.",
+                        "Peppler, K. A.",
+                        "Ramani, K."
+                    ],
+                    "otherText": "Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems, 1-8.",
+                    "cat": "fow",
+                    "file": "CP97.pdf"
                 }
             ]
         },
@@ -895,7 +957,7 @@
                     "file": "2024_Qualitative_eliciting.pdf"
                 },
                 {
-                    "title": "Weaving with ropes to parse mathematical abstraction",
+                    "title": "Weaving with Ropes to Parse Mathematical Abstraction",
                     "authors": [
                         "Yankova, N.",
                         "Speer, S.",
@@ -950,37 +1012,6 @@
                     "file": "ICLS2024_322-329_2.pdf"
                 },
                 {
-                    "title": "Exploring impacts of arts participation through automated inductive annotation",
-                    "authors": [
-                        "Corrigan, S.",
-                        "Ojeda-Ramirez, S.",
-                        "Dahn, M.",
-                        "Chew, P.",
-                        "DiGiacomo, D.",
-                        "Sefton-Green, J.",
-                        "Peppler, K."
-                    ],
-                    "otherText": "In Learning as a cornerstone of healing, resilience, and community: ICLS Proceedings: 18th Annual Conference of the Learning Sciences (pp. 346-353). Buffalo, New York: International Society of the Learning Sciences.",
-                    "cat": "idl",
-                    "file": "ICLS2024_346-353.pdf"
-                },
-                {
-                    "title": "Exploring impacts of arts education through inductive application of Rhetorical Structure Theory",
-                    "authors": [
-                        "Corrigan, S.",
-                        "Dahn, M.",
-                        "Chew, P.",
-                        "Trapp, S.",
-                        "Giacomo, D.",
-                        "Sefton-Green, J.",
-                        "Mejias, S.",
-                        "Peppler, K."
-                    ],
-                    "otherText": "In Learning as a cornerstone of healing, resilience, and community: ICLS Proceedings: 18th Annual Conference of the Learning Sciences (pp. 338-345). Buffalo, New York: International Society of the Learning Sciences.",
-                    "cat": "idl",
-                    "file": "ICLS2024_338-345.pdf"
-                },
-                {
                     "title": "Co-design a logic model for inclusive AI-powered learning application with primary school teachers",
                     "authors": [
                         "Han, A.",
@@ -1003,9 +1034,25 @@
                         "Corrigan, S.",
                         "Peppler, K."
                     ],
-                    "otherText": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, CHI ’24, May 11–16, 2024, Honolulu, HI, USA: Association for Computing Machinery. https://doi.org/10.1145/3613904.3642438",
+                    "otherText": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, CHI '24, May 11-16, 2024, Honolulu, HI, USA: Association for Computing Machinery. https://doi.org/10.1145/3613904.3642438",
                     "cat": "fow",
                     "file": "2024_SIGCHI.pdf"
+                },
+                {
+                    "title": "Exploring Impacts of Arts Education Through Inductive Application of Rhetorical Structure Theory",
+                    "authors": [
+                        "Corrigan, S.",
+                        "Dahn, M.",
+                        "Chew, P.",
+                        "Trapp, S.",
+                        "DiGiacomo, D.",
+                        "Mejias, S.",
+                        "Sefton-Green, J.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "In Lindgren, R., Asino, T. I., Kyza, E. A., Looi, C. K., Keifert, D. T., & Suárez, E. (Eds.), Proceedings of the 18th International Conference of the Learning Sciences - ICLS 2024 (pp. 338-345). International Society of the Learning Sciences.",
+                    "cat": "anc",
+                    "file": "ICLS2024_338-345.pdf"
                 }
             ]
         },
