@@ -4733,6 +4733,21 @@
             "link": "https://www.fossil.com/en-us/fossil-foundation/",
             "img": "img/partners/FSL-2023-NEW-Logo.png",
             "title": "Fossil Foundation"
+        },
+        {
+            "link": "https://csr.honda.com/funding",
+            "img": "img/partners/Funder - Honda.png",
+            "title": "Honda"
+        },
+        {
+            "link": "https://overdeck.org/",
+            "img": "img/partners/Funder - Overdeck.png",
+            "title": "Overdeck Family Foundation"
+        },
+        {
+            "link": "https://alianzamx.universityofcalifornia.edu/",
+            "img": "img/partners/Funder - UC Alianza MX.png",
+            "title": "University of California Alianza MX"
         }
     ],
     "partners2": [
@@ -4940,6 +4955,36 @@
             "link": "https://www.centerforcraft.org/",
             "img": "img/partners/5b1fca5b67f42f72900550d6_center-for-craft-mark-NEW.png",
             "title": "Center for Craft"
+        },
+        {
+            "link": "https://www.ncsu.edu/",
+            "img": "img/partners/Partner - NCSU.png",
+            "title": "NC State University"
+        },
+        {
+            "link": "https://www.unm.edu/",
+            "img": "img/partners/Partner - NMU.png",
+            "title": "The University of New Mexico"
+        },
+        {
+            "link": "https://www.pratt.edu/",
+            "img": "img/partners/Partner - Pratt.png",
+            "title": "Pratt Institute"
+        },
+        {
+            "link": "https://tec.mx/",
+            "img": "img/partners/Partner - Tec de Monterrey.png",
+            "title": "Tecnológico de Monterrey"
+        },
+        {
+            "link": "https://www.digitallearninglab.org/",
+            "img": "img/partners/Partner - UCI DLL.png",
+            "title": "UCI Digital Learning Lab"
+        },
+        {
+            "link": "https://educationresearch.uci.edu/",
+            "img": "img/partners/Partner - UCI PERI.png",
+            "title": "UCI The PERI Institute"
         }
     ],
     "news": [
