@@ -522,6 +522,34 @@
                     "otherText": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems, 1-28.",
                     "cat": "idl",
                     "file": "CP117.pdf"
+                },
+                {
+                    "title": "Youth Critical Engagements with Machine Learning: Insights from a Future Archetypes Workshop",
+                    "authors": [
+                        "Durall Gazulla, E.",
+                        "Babai, N.",
+                        "Iivari, N.",
+                        "Peppler, K.",
+                        "Ojeda-Ramirez, S.",
+                        "Kinnula, M."
+                    ],
+                    "otherText": "In Proceedings of the 14th Nordic Conference on Human-Computer Interaction (NordiCHI '26). ACM.",
+                    "cat": "fow",
+                    "file": "duralletal2026.pdf"
+                },
+                {
+                    "title": "Interactive authoring of outcome-oriented lesson plans for immersive Virtual Reality training",
+                    "authors": [
+                        "Ipsita, A.",
+                        "Kaki, R.",
+                        "Patel, M.",
+                        "Unmesh, A.",
+                        "Peppler, K. A.",
+                        "Ramani, K."
+                    ],
+                    "otherText": "Journal of Computing and Information Science in Engineering.",
+                    "cat": "idl",
+                    "file": "immersive_VR_training.pdf"
                 }
             ]
         },
