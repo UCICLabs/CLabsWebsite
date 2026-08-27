@@ -550,6 +550,30 @@
                     "otherText": "Journal of Computing and Information Science in Engineering.",
                     "cat": "idl",
                     "file": "immersive_VR_training.pdf"
+                },
+                {
+                    "title": "General Proceedings of the 6th Annual Meeting of the International Society of the Learning Sciences 2026",
+                    "authors": [
+                        "Peppler, K.",
+                        "Dahn, M."
+                    ],
+                    "otherText": "Irvine, California, USA: International Society of the Learning Sciences.",
+                    "cat": "sug",
+                    "file": "CP127.pdf"
+                },
+                {
+                    "title": "Calibrating AI Autonomy in Small Group Facilitation: Designing Chatbots for Knowledge Co-Construction",
+                    "authors": [
+                        "Cai, Z.",
+                        "Park, S.",
+                        "Lai, M.",
+                        "Sheikh, K. M.",
+                        "Nixon, N.",
+                        "Peppler, K.",
+                        "Doroudi, S."
+                    ],
+                    "otherText": "[Manuscript submitted for publication]. British Journal of Educational Technology.",
+                    "cat": "idl"
                 }
             ]
         },
@@ -576,20 +600,8 @@
                         "Dahn, M.",
                         "Ito, M."
                     ],
-                    "otherText": "Connected Learning Summit 2025.",
+                    "otherText": "Connected Learning Summit 2025. *Best Paper Award*",
                     "cat": "sth",
-                    "file": "CP116.pdf"
-                },
-                {
-                    "title": "Advancing Equity in STEM: Analyzing Survey Tools for Female High School Students Using the COSTAR Framework in Large Language Models",
-                    "authors": [
-                        "Henry, M.",
-                        "Jiang, H.",
-                        "Corrigan, S.",
-                        "Peppler, K."
-                    ],
-                    "otherText": "Connected Learning Summit 2025.",
-                    "cat": "fow",
                     "file": "CP115.pdf"
                 },
                 {
@@ -870,6 +882,15 @@
                     "otherText": "Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems, 1-8.",
                     "cat": "fow",
                     "file": "CP97.pdf"
+                },
+                {
+                    "title": "Chapter in The Routledge Handbook of Latinx Visions",
+                    "authors": [
+                        "Ojeda-Ramírez, S.",
+                        "Peppler, K"
+                    ],
+                    "otherText": "Routledge, New York, NY.",
+                    "cat": "idl"
                 }
             ]
         },
