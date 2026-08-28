@@ -538,7 +538,7 @@
                     "file": "duralletal2026.pdf"
                 },
                 {
-                    "title": "Interactive authoring of outcome-oriented lesson plans for immersive Virtual Reality training",
+                    "title": "Interactive Authoring of Outcome-Oriented Lesson Plans for Immersive Virtual Reality Training",
                     "authors": [
                         "Ipsita, A.",
                         "Kaki, R.",
@@ -574,6 +574,54 @@
                     ],
                     "otherText": "[Manuscript submitted for publication]. British Journal of Educational Technology.",
                     "cat": "idl"
+                },
+                {
+                    "title": "Transdisciplinary Practices in Higher Education",
+                    "authors": [
+                        "Rosin, M.",
+                        "Lewis, H.",
+                        "Jensen, C. X. J.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "Innovative Higher Education.",
+                    "cat": "idl"
+                },
+                {
+                    "title": "From Promise to Practice: Gendered Labor Divisions in STEAM Activities",
+                    "authors": [
+                        "Ojeda-Ramírez, S.",
+                        "Cawelti, L.",
+                        "Huang, J.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "Learning, Media and Technology.",
+                    "cat": "etx"
+                },
+                {
+                    "title": "Balancing Scaffolding and Agency: How AI Story Suggestions Shape Children's Writing Processes and Narrative Development",
+                    "authors": [
+                        "Han, A.",
+                        "Huang, J.",
+                        "Han, S.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "Journal of the Learning Sciences.",
+                    "cat": "scm"
+                },
+                {
+                    "title": "Performing Arts in the Digital Space: Handling Uncertainty by Reshaping Expectations and Seizing Opportunities",
+                    "authors": [
+                        "Yankova, N.",
+                        "Dahn, M.",
+                        "Peppler, K.",
+                        "Lee, J.",
+                        "Adesida, T.",
+                        "Lee, J.",
+                        "Montgomery, A.",
+                        "Sikkema, S."
+                    ],
+                    "otherText": "Research in Drama Education: The Journal of Applied Theatre and Performance.",
+                    "cat": "anc"
                 }
             ]
         },
@@ -891,6 +939,26 @@
                     ],
                     "otherText": "Routledge, New York, NY.",
                     "cat": "idl"
+                },
+                {
+                    "title": "Virtual Reality in Manufacturing Education: A Scoping Review Indicating State-of-the-Art, Benefits, and Challenges Across Domains, Levels, and Entities",
+                    "authors": [
+                        "Ipsita, A.",
+                        "Kaki, R.",
+                        "Liu, Z.",
+                        "Patel, M.",
+                        "Duan, R.",
+                        "Deshpande, L.",
+                        "Yuan, L.-P.",
+                        "Lowell, V.",
+                        "Maharaj, A.",
+                        "Peppler, K.",
+                        "Feiner, S.",
+                        "Ramani, K."
+                    ],
+                    "otherText": "[Manuscript submitted for publication]. Computers in Industry.",
+                    "cat": "fow",
+                    "file": "J66.pdf"
                 }
             ]
         },
@@ -919,7 +987,7 @@
                     ],
                     "otherText": "International Journal for Research on Extended Education.",
                     "cat": "anc",
-                    "file": ""
+                    "file": "J58.pdf"
                 },
                 {
                     "title": "ClassMeta: Designing Interactive Virtual Student to Support Active Learning Environment in Virtual Reality Classroom",
@@ -937,7 +1005,7 @@
                     "file": "3613904.3642947.pdf"
                 },
                 {
-                    "title": "Deepening Children's STEM learning through making and creative writing",
+                    "title": "Deepening Children's STEM Learning Through Making and Creative Writing",
                     "authors": [
                         "Huang, J.",
                         "Han, A.",
@@ -948,8 +1016,8 @@
                         "Peppler, K."
                     ],
                     "otherText": "International Journal of Child-Computer Interaction, 40. https://doi.org/10.1016/j.ijcci.2024.100651",
-                    "cat": "idl",
-                    "file": "https://doi.org/10.1016/j.ijcci.2024.100651"
+                    "cat": "scm",
+                    "file": "J54.pdf"
                 },
                 {
                     "title": "Co-Creating Space in Virtual Culinary Afterschool: Insights from Materials and Practices",
@@ -975,7 +1043,7 @@
                     ],
                     "otherText": "VUE (Voices in Urban Education) 52(2). doi: https://doi.org/10.35240/vue.113",
                     "cat": "idl",
-                    "file": "https://vue.metrocenter.steinhardt.nyu.edu/article/id/113/"
+                    "file": "J57.pdf"
                 },
                 {
                     "title": "Positionality Shifts Through Theatre Arts Practices",
@@ -1136,7 +1204,7 @@
                     "out": true
                 },
                 {
-                    "title": "Making connections to and from out-of-school experiences",
+                    "title": "Making Connections to and From Out-of-School Experiences",
                     "authors": [
                         "Dahn, M.",
                         "Peppler, K.",
