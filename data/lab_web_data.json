@@ -367,6 +367,17 @@
             "year": 2026,
             "list": [
                 {
+                    "title": "Strengthening Coordination and Connections: How Out-of-School Time Intermediaries Build Relational Infrastructure and Boost Recruitment and Retention",
+                    "authors": [
+                        "Dahn, M.",
+                        "Ito, M.",
+                        "Peppler, K."
+                    ],
+                    "otherText": "Irvine, CA: Connected Learning Alliance.",
+                    "cat": "idl",
+                    "file": "TR26.pdf"
+                },
+                {
                     "title": "Emergent Technology, Emergent Critique: Students and Teachers Developing Critical AI Literacy Through Participatory Design Around Generative AI",
                     "authors": [
                         "Ojeda-Ramirez, S.",
@@ -628,6 +639,21 @@
         {
             "year": 2025,
             "list": [
+                {
+                    "title": "Creative Expression, Caring Relationships, and Career Pathways: A Guide to Youth Outcomes in Community Arts Programs",
+                    "authors": [
+                        "Peppler, K.",
+                        "Corrigan, S.",
+                        "Dahn, M.",
+                        "Sefton-Green, J.",
+                        "DiGiacomo, D.",
+                        "Mejias, S.",
+                        "Nelligan, P."
+                    ],
+                    "otherText": "Public report. The Wallace Foundation.",
+                    "cat": "anc",
+                    "file": "TR25.pdf"
+                },
                 {
                     "title": "Materialized Action: Reformulating the “Doing of” Math Through Fiber Crafting",
                     "authors": [
@@ -966,6 +992,17 @@
             "year": 2024,
             "list": [
                 {
+                    "title": "Teacher Integration of Equatio: Utilization and Inferred Value Among Math Educators",
+                    "authors": [
+                        "Corrigan, S.",
+                        "Peppler, K.",
+                        "MacMahon, L."
+                    ],
+                    "otherText": "[White paper]. University of California, Irvine.",
+                    "cat": "idl",
+                    "file": "TR24.pdf"
+                },
+                {
                     "title": "Tools and materials as non-neutral actors in STEAM education",
                     "authors": [
                         "Peppler, K.",
@@ -1190,6 +1227,29 @@
         {
             "year": 2023,
             "list": [
+                {
+                    "title": "Empowering Educators via Language Technology",
+                    "authors": [
+                        "Demszky, D.",
+                        "Bush, J. B.",
+                        "D'Mello, S. K.",
+                        "Jacobs, J.",
+                        "Hau, I.",
+                        "Hill, H.",
+                        "Liu, J.",
+                        "Loeb, S.",
+                        "Maples, B.",
+                        "Peppler, K.",
+                        "Pokorny, R.",
+                        "Rascoff, M.",
+                        "Robinson, J.",
+                        "Yeager, D.",
+                        "Wentworth, L."
+                    ],
+                    "otherText": "[White paper]. Stanford University.",
+                    "cat": "fow",
+                    "file": "TR23.pdf"
+                },
                 {
                     "title": "Adaptive Immersive Learning Environments for Teaching Industrial Robotics",
                     "authors": [
