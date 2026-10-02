@@ -4205,22 +4205,6 @@
             ]
         },
         {
-            "name": "Santiago Ojeda-Ramirez",
-            "photo": "team_sor.png",
-            "title": "Graduate Student Researcher",
-            "intro": "Santiago Ojeda-Ramirez is a Ph.D. student in Education. His background spans fields as engineering, literature and digital humanities. He is interested in sociocultural perspectives around STEAM education and more specifically Computer Science Education. He is also interested in Computational and Ai Literacies in intersection with Latine and Hispanic Culture. He has experience using both quantitative and qualitative methods and community-based research.",
-            "social": [
-                {
-                    "type": "twitter",
-                    "url": "https://twitter.com/santiagojedar"
-                },
-                {
-                    "type": "web",
-                    "url": "http://santiagojedaramirez.com/"
-                }
-            ]
-        },
-        {
             "name": "Seth Van Doren",
             "photo": "team_svd.png",
             "title": "Graduate Student Researcher",
@@ -4308,18 +4292,6 @@
             ]
         },
         {
-            "name": "Patricia Fuentes Acevedo",
-            "photo": "team_pa.png",
-            "title": "Graduate Student Researcher",
-            "intro": "Patricia is a Chilean mathematics teacher educator and Ph.D. candidate at UCI. She has taught math at different school levels and methods classes for pre-service and in-service teachers. Her dissertation employs design-based implementation research to study power dynamics and teacher learning in the context of co-designing for elementary family math with caregivers, teachers, and researchers.",
-            "social": [
-                {
-                    "type": "google",
-                    "url": "https://scholar.google.com/citations?user=zv8raFAAAAAJ&hl=en"
-                }
-            ]
-        },
-        {
             "name": "Victoria Violet Hays",
             "photo": "team_vh.png",
             "title": "Graduate Student Researcher",
@@ -4355,6 +4327,18 @@
                 {
                     "type": "google",
                     "url": "https://scholar.google.com/citations?user=rVMCHO0AAAAJ&hl=en"
+                }
+            ]
+        },
+        {
+            "name": "Victor Aguilar",
+            "photo": "test.png",
+            "title": "Graduate Student Researcher",
+            "intro": "I am a first-generation Chicano from Los Angeles, ardent on the development and application of modern technological tools, such as A.I., in informal learning settings. My foundation, an M.A. in Child Study and Human Development from Tufts University, is a contextually driven critical approach of the interplay between society, culture, and technology.",
+            "social": [
+                {
+                    "type": "email",
+                    "url": "mailto:victoma1@uci.edu"
                 }
             ]
         }
@@ -4587,6 +4571,34 @@
                 {
                     "type": "linkedin",
                     "url": "https://www.linkedin.com/in/andrew-douglas-rich-59477a26a/"
+                }
+            ]
+        },
+        {
+            "name": "Patricia Fuentes Acevedo",
+            "photo": "team_pa.png",
+            "title": "Assistant Professor of Elementary Math Education at University of Massachusetts Amherst",
+            "intro": "Patricia is a Chilean mathematics teacher educator and Ph.D. candidate at UCI. She has taught math at different school levels and methods classes for pre-service and in-service teachers. Her dissertation employs design-based implementation research to study power dynamics and teacher learning in the context of co-designing for elementary family math with caregivers, teachers, and researchers.",
+            "social": [
+                {
+                    "type": "google",
+                    "url": "https://scholar.google.com/citations?user=zv8raFAAAAAJ&hl=en"
+                }
+            ]
+        },
+        {
+            "name": "Santiago Ojeda-Ramirez",
+            "photo": "team_sor.png",
+            "title": "Postdoctoral Fellow, Tecnológico de Monterrey, Mexico City",
+            "intro": "Santiago Ojeda-Ramirez is a Ph.D. student in Education. His background spans fields as engineering, literature and digital humanities. He is interested in sociocultural perspectives around STEAM education and more specifically Computer Science Education. He is also interested in Computational and Ai Literacies in intersection with Latine and Hispanic Culture. He has experience using both quantitative and qualitative methods and community-based research.",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://twitter.com/santiagojedar"
+                },
+                {
+                    "type": "web",
+                    "url": "http://santiagojedaramirez.com/"
                 }
             ]
         }
